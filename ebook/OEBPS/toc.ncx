@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx
+  PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <!--The following four metadata items are required for all
+            NCX documents, including those conforming to the relaxed
+            constraints of OPS 2.0-->
+      <meta name="dtb:uid" content="idtoc"/>
+      <meta name="dtb:depth" content="3"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+   <docTitle>
+      <text>Vampiro: A máscara 5th - Pre Alpha</text>
+   </docTitle>
+   <navMap>
+
+    <navPoint id="index" playOrder="1">
+        <navLabel>
+          <text>Titulo</text>
+        </navLabel>
+        <content src="index.html"/>
+    </navPoint>
+    <navPoint id="resolucoes.de.acoes.basicas.index" playOrder="2">
+        <navLabel>
+          <text>RESOLUÇÕES DE AÇÕES BÁSICAS</text>
+        </navLabel>
+        <content src="resolucoes-de-acoes-basicas/index.html"/>	  
+        <navPoint id="rolagem.de.dados" playOrder="3">
+            <navLabel>
+              <text>ROLAGEM DE DADOS</text>
+            </navLabel>
+            <content src="resolucoes-de-acoes-basicas/rolagem.de.dados.html"/>
+        </navPoint>  
+        <navPoint id="como.ter.sucesso" playOrder="4">
+          <navLabel>
+              <text>COMO TER SUCESSO</text>
+          </navLabel>
+          <content src="resolucoes-de-acoes-basicas/como.ter.sucesso.html"/>
+        </navPoint>
+    </navPoint>    
+   </navMap>
+</ncx>

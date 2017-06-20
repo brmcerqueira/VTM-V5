@@ -1,0 +1,1 @@
+zip -rX dist/vtm-v5.epub ebook/mimetype ebook/META-INF/ ebook/OEBPS/

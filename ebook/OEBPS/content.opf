@@ -23,7 +23,7 @@
    <spine toc="idtoc">
       <itemref idref="index" linear="yes"/>
       <itemref idref="resolucoes.de.acoes.basicas.index" linear="yes"/>
+	  <itemref idref="rolagem.de.dados" linear="yes"/>      
 	  <itemref idref="como.ter.sucesso" linear="yes"/>
-	  <itemref idref="rolagem.de.dados" linear="yes"/>
    </spine>
 </package>

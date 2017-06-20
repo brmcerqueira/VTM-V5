@@ -26,18 +26,18 @@
         <navLabel>
           <text>RESOLUÇÕES DE AÇÕES BÁSICAS</text>
         </navLabel>
-        <content src="resolucoes-de-acoes-basicas/index.html"/>	  
+        <content src="resolucoes.de.acoes.basicas/index.html"/>	  
         <navPoint id="rolagem.de.dados" playOrder="3">
             <navLabel>
               <text>ROLAGEM DE DADOS</text>
             </navLabel>
-            <content src="resolucoes-de-acoes-basicas/rolagem.de.dados.html"/>
+            <content src="resolucoes.de.acoes.basicas/rolagem.de.dados.html"/>
         </navPoint>  
         <navPoint id="como.ter.sucesso" playOrder="4">
           <navLabel>
               <text>COMO TER SUCESSO</text>
           </navLabel>
-          <content src="resolucoes-de-acoes-basicas/como.ter.sucesso.html"/>
+          <content src="resolucoes.de.acoes.basicas/como.ter.sucesso.html"/>
         </navPoint>
     </navPoint>    
    </navMap>

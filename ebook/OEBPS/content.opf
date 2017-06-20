@@ -10,9 +10,9 @@
    <manifest>
       <!-- Documentos -->
       <item id="index" href="index.html" media-type="application/xhtml+xml" />
-	  <item id="resolucoes.de.acoes.basicas.index" href="resolucoes-de-acoes-basicas/index.html" media-type="application/xhtml+xml" />
-	  <item id="como.ter.sucesso" href="resolucoes-de-acoes-basicas/como.ter.sucesso.html" media-type="application/xhtml+xml" />
-	  <item id="rolagem.de.dados" href="resolucoes-de-acoes-basicas/rolagem.de.dados.html" media-type="application/xhtml+xml" />
+	  <item id="resolucoes.de.acoes.basicas.index" href="resolucoes.de.acoes.basicas/index.html" media-type="application/xhtml+xml" />
+	  <item id="como.ter.sucesso" href="resolucoes.de.acoes.basicas/como.ter.sucesso.html" media-type="application/xhtml+xml" />
+	  <item id="rolagem.de.dados" href="resolucoes.de.acoes.basicas/rolagem.de.dados.html" media-type="application/xhtml+xml" />
 
       <!-- CSS Style Sheets -->
       <item id="main-css" href="style.css" media-type="text/css"/>

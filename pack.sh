@@ -1,1 +1,2 @@
-zip -rX dist/vtm-v5.epub ebook/mimetype ebook/META-INF/ ebook/OEBPS/
+cd ebook
+zip -Xr9D ../dist/vtm-v5.epub mimetype META-INF OEBPS

@@ -12,33 +12,20 @@
       <meta name="dtb:maxPageNumber" content="0"/>
    </head>
    <docTitle>
-      <text>Vampiro: A máscara 5th - Pre Alpha</text>
+      <text>Vampiro: A máscara 5th</text>
    </docTitle>
    <navMap>
-
     <navPoint id="index" playOrder="1">
         <navLabel>
           <text>Titulo</text>
         </navLabel>
         <content src="index.html"/>
     </navPoint>
-    <navPoint id="resolucoes.de.acoes.basicas.index" playOrder="2">
+    <navPoint id="disciplinas" playOrder="2">
         <navLabel>
-          <text>RESOLUÇÕES DE AÇÕES BÁSICAS</text>
+          <text>DISCIPLINAS</text>
         </navLabel>
-        <content src="resolucoes.de.acoes.basicas/index.html"/>	  
-        <navPoint id="rolagem.de.dados" playOrder="3">
-            <navLabel>
-              <text>ROLAGEM DE DADOS</text>
-            </navLabel>
-            <content src="resolucoes.de.acoes.basicas/rolagem.de.dados.html"/>
-        </navPoint>  
-        <navPoint id="como.ter.sucesso" playOrder="4">
-          <navLabel>
-              <text>COMO TER SUCESSO</text>
-          </navLabel>
-          <content src="resolucoes.de.acoes.basicas/como.ter.sucesso.html"/>
-        </navPoint>
-    </navPoint>    
+        <content src="disciplinas/index.html"/>
+    </navPoint>         
    </navMap>
 </ncx>

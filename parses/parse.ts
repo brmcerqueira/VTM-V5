@@ -14,6 +14,16 @@ function removeAccents(text: string): string {
       .join("");
   }
 
+function folderBack(amount: number): string {
+    let result = "";
+
+    for (let index = 0; index < amount; index++) {
+        result += "../";
+    }
+   
+    return result;
+}
+
 let index = parseInt(Deno.args[0]);
 const group = Deno.args[1];
 const html = await Deno.readTextFile(Deno.args[2]);
@@ -95,26 +105,46 @@ let toc = "";
 function treat(parentName: string): (item: Item) => void {
     return (item: Item) => {
         let hasChildrens = item.childrens.length > 0;
+        let label = item.name.replaceAll(/\s+/g, ' ').toUpperCase();
         let name = removeAccents(item.name).toLowerCase().replaceAll(/\s+/g, '-').replaceAll('(', '').replaceAll(')', '');
         let id = `${parentName.replaceAll('/', '-')}-${name}`;
-        let location = `${parentName}/${name}.html`;
-        opf += `<item id="${id}" href="${location}" media-type="application/xhtml+xml" />\n`;
+        let location = `${parentName}/${name}${hasChildrens ? "/index" : ""}.html`;
+        if (item.content != "") {
+            opf += `<item id="${id}" href="${location}" media-type="application/xhtml+xml" />\n`; 
+        }   
         toc += `<navPoint id="${id}" playOrder="${index++}">
                     <navLabel>
-                        <text>${item.name.replaceAll(/\s+/g, ' ').toUpperCase()}</text>
-                    </navLabel>
-                    <content src="${location}"/>\n`;
+                        <text>${label}</text>
+                    </navLabel>`;
+
+        if (item.content != "") {
+            toc += `<content src="${location}"/>`;
+        }
+            
+        toc += `\n`;
+
         if (hasChildrens) {
             item.childrens.forEach(treat(`${parentName}/${name}`));
         }
         toc += "</navPoint>\n";
-        ensureFileSync(location);
-        Deno.writeTextFileSync(location, item.content);
+        if (item.content != "") {
+            ensureFileSync(location);
+            Deno.writeTextFileSync(location, `<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pt">
+            <head>
+                <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+                <title>${label}</title>
+                <link href="${folderBack(item.depth + (hasChildrens ? 1 : 0))}style.css" rel="stylesheet" type="text/css" />
+            </head>
+            
+            <body>${item.content}</body>
+            
+            </html>`); 
+        }
     };
 }
 
 root.forEach(treat(group));
 
-console.log(opf);
+Deno.writeTextFileSync(`_${group}-opf.xhtml`, opf); 
 
-console.log(toc);
+Deno.writeTextFileSync(`_${group}-toc.xhtml`, toc); 

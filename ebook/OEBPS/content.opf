@@ -1,25 +1,297 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="EPB-UUID" version="2.0">
-   <metadata xmlns:opf="http://www.idpf.org/2007/opf"
-             xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
       <dc:title>Vampiro: A máscara</dc:title>
       <dc:identifier id="EPB-UUID">VTM-V5</dc:identifier>
       <dc:language>pt-br</dc:language>
    </metadata>
    <manifest>
       <!-- Documentos -->
-     <item id="index" href="index.html" media-type="application/xhtml+xml" />
-	  <item id="disciplinas.index" href="disciplinas/index.html" media-type="application/xhtml+xml" />
+      <item id="index" href="index.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-regras-gerais-aprendendo-disciplinas"
+         href="disciplinas/regras-gerais/aprendendo-disciplinas.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-regras-gerais-escolhendo-poderes" href="disciplinas/regras-gerais/escolhendo-poderes.html"
+         media-type="application/xhtml+xml" />
+      <item id="disciplinas-regras-gerais-usando-poderes" href="disciplinas/regras-gerais/usando-poderes.html"
+         media-type="application/xhtml+xml" />
+      <item id="disciplinas-regras-gerais-poderes-amalgama" href="disciplinas/regras-gerais/poderes-amalgama.html"
+         media-type="application/xhtml+xml" />
+      <item id="disciplinas-animalismo" href="disciplinas/animalismo/index.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-animalismo-nivel-1-vincular-famulus-nivel-1"
+         href="disciplinas/animalismo/nivel-1/vincular-famulus-nivel-1.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-animalismo-nivel-1-sentir-a-besta-nivel-1"
+         href="disciplinas/animalismo/nivel-1/sentir-a-besta-nivel-1.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-animalismo-nivel-2-sussurros-selvagens-nivel-2"
+         href="disciplinas/animalismo/nivel-2/sussurros-selvagens-nivel-2.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-animalismo-nivel-3-suculencia-animal-nivel-3"
+         href="disciplinas/animalismo/nivel-3/suculencia-animal-nivel-3.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-animalismo-nivel-3-domar-a-besta-nivel-3"
+         href="disciplinas/animalismo/nivel-3/domar-a-besta-nivel-3.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-animalismo-nivel-3-colmeia-nao-viva-nivel-3"
+         href="disciplinas/animalismo/nivel-3/colmeia-nao-viva-nivel-3.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-animalismo-nivel-4-subordinar-o-espirito-nivel-4"
+         href="disciplinas/animalismo/nivel-4/subordinar-o-espirito-nivel-4.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-animalismo-nivel-5-dominio-animal-nivel-5"
+         href="disciplinas/animalismo/nivel-5/dominio-animal-nivel-5.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-animalismo-nivel-5-extrair-a-besta-nivel-5"
+         href="disciplinas/animalismo/nivel-5/extrair-a-besta-nivel-5.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-auspicios" href="disciplinas/auspicios/index.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-auspicios-nivel-1-sentidos-agucados-nivel-1"
+         href="disciplinas/auspicios/nivel-1/sentidos-agucados-nivel-1.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-auspicios-nivel-1-sentir-o-nao-visto-nivel-1"
+         href="disciplinas/auspicios/nivel-1/sentir-o-nao-visto-nivel-1.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-auspicios-nivel-2-premonicao-nivel-2"
+         href="disciplinas/auspicios/nivel-2/premonicao-nivel-2.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-auspicios-nivel-3-sondar-a-alma-nivel-3"
+         href="disciplinas/auspicios/nivel-3/sondar-a-alma-nivel-3.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-auspicios-nivel-3-compartilhar-os-sentidos-nivel-3"
+         href="disciplinas/auspicios/nivel-3/compartilhar-os-sentidos-nivel-3.html"
+         media-type="application/xhtml+xml" />
+      <item id="disciplinas-auspicios-nivel-4-toque-do-espirito-nivel-4"
+         href="disciplinas/auspicios/nivel-4/toque-do-espirito-nivel-4.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-auspicios-nivel-5-clarividencia-nivel-5"
+         href="disciplinas/auspicios/nivel-5/clarividencia-nivel-5.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-auspicios-nivel-5-possessao-nivel-5"
+         href="disciplinas/auspicios/nivel-5/possessao-nivel-5.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-auspicios-nivel-5-telepatia-nivel-5"
+         href="disciplinas/auspicios/nivel-5/telepatia-nivel-5.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-celeridade" href="disciplinas/celeridade/index.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-celeridade-nivel-1-graca-felina-nivel-1"
+         href="disciplinas/celeridade/nivel-1/graca-felina-nivel-1.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-celeridade-nivel-1-reflexos-rapidos-nivel-1"
+         href="disciplinas/celeridade/nivel-1/reflexos-rapidos-nivel-1.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-celeridade-nivel-2-rapidez-nivel-2"
+         href="disciplinas/celeridade/nivel-2/rapidez-nivel-2.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-celeridade-nivel-3-piscar-nivel-3" href="disciplinas/celeridade/nivel-3/piscar-nivel-3.html"
+         media-type="application/xhtml+xml" />
+      <item id="disciplinas-celeridade-nivel-3-travessia-nivel-3"
+         href="disciplinas/celeridade/nivel-3/travessia-nivel-3.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-celeridade-nivel-4-formula-da-elegancia-nivel-4"
+         href="disciplinas/celeridade/nivel-4/formula-da-elegancia-nivel-4.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-celeridade-nivel-4-mira-infalivel-nivel-4"
+         href="disciplinas/celeridade/nivel-4/mira-infalivel-nivel-4.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-celeridade-nivel-5-ataque-relampago-nivel-5"
+         href="disciplinas/celeridade/nivel-5/ataque-relampago-nivel-5.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-celeridade-nivel-5-fracao-de-segundo-nivel-5"
+         href="disciplinas/celeridade/nivel-5/fracao-de-segundo-nivel-5.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-dominacao" href="disciplinas/dominacao/index.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-dominacao-nivel-1-nublar-memoria-nivel-1"
+         href="disciplinas/dominacao/nivel-1/nublar-memoria-nivel-1.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-dominacao-nivel-1-compelir-nivel-1"
+         href="disciplinas/dominacao/nivel-1/compelir-nivel-1.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-dominacao-nivel-2-mesmerizar-nivel-2"
+         href="disciplinas/dominacao/nivel-2/mesmerizar-nivel-2.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-dominacao-nivel-2-demencia-nivel-2"
+         href="disciplinas/dominacao/nivel-2/demencia-nivel-2.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-dominacao-nivel-3-a-mente-esquecida-nivel-3"
+         href="disciplinas/dominacao/nivel-3/a-mente-esquecida-nivel-3.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-dominacao-nivel-3-diretriz-submersa-nivel-3"
+         href="disciplinas/dominacao/nivel-3/diretriz-submersa-nivel-3.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-dominacao-nivel-4-racionalizar-nivel-4"
+         href="disciplinas/dominacao/nivel-4/racionalizar-nivel-4.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-dominacao-nivel-5-manipulacao-em-massa-nivel-5"
+         href="disciplinas/dominacao/nivel-5/manipulacao-em-massa-nivel-5.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-dominacao-nivel-5-decreto-terminal-nivel-5"
+         href="disciplinas/dominacao/nivel-5/decreto-terminal-nivel-5.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-fortitude" href="disciplinas/fortitude/index.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-fortitude-nivel-1-resiliencia-nivel-1"
+         href="disciplinas/fortitude/nivel-1/resiliencia-nivel-1.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-fortitude-nivel-1-mente-inabalavel-nivel-1"
+         href="disciplinas/fortitude/nivel-1/mente-inabalavel-nivel-1.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-fortitude-nivel-2-dureza-nivel-2" href="disciplinas/fortitude/nivel-2/dureza-nivel-2.html"
+         media-type="application/xhtml+xml" />
+      <item id="disciplinas-fortitude-nivel-2-feras-resistentes-nivel-2"
+         href="disciplinas/fortitude/nivel-2/feras-resistentes-nivel-2.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-fortitude-nivel-3-desafiar-maldicao-nivel-3"
+         href="disciplinas/fortitude/nivel-3/desafiar-maldicao-nivel-3.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-fortitude-nivel-3-reforcar-a-fachada-interior-nivel-3"
+         href="disciplinas/fortitude/nivel-3/reforcar-a-fachada-interior-nivel-3.html"
+         media-type="application/xhtml+xml" />
+      <item id="disciplinas-fortitude-nivel-4-formula-da-resistencia-nivel-4"
+         href="disciplinas/fortitude/nivel-4/formula-da-resistencia-nivel-4.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-fortitude-nivel-5-pele-de-marmore-nivel-5"
+         href="disciplinas/fortitude/nivel-5/pele-de-marmore-nivel-5.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-fortitude-nivel-5-proeza-da-dor-nivel-5"
+         href="disciplinas/fortitude/nivel-5/proeza-da-dor-nivel-5.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-metamorfose" href="disciplinas/metamorfose/index.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-metamorfose-nivel-1-olhos-da-besta-nivel-1"
+         href="disciplinas/metamorfose/nivel-1/olhos-da-besta-nivel-1.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-metamorfose-nivel-1-peso-da-pena-nivel-1"
+         href="disciplinas/metamorfose/nivel-1/peso-da-pena-nivel-1.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-metamorfose-nivel-2-armas-selvagens-nivel-2"
+         href="disciplinas/metamorfose/nivel-2/armas-selvagens-nivel-2.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-metamorfose-nivel-3-fusao-com-a-terra-nivel-3"
+         href="disciplinas/metamorfose/nivel-3/fusao-com-a-terra-nivel-3.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-metamorfose-nivel-3-mudanca-de-forma-nivel-3"
+         href="disciplinas/metamorfose/nivel-3/mudanca-de-forma-nivel-3.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-metamorfose-nivel-4-metamorfose-nivel-4"
+         href="disciplinas/metamorfose/nivel-4/metamorfose-nivel-4.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-metamorfose-nivel-5-forma-de-nevoa-nivel-5"
+         href="disciplinas/metamorfose/nivel-5/forma-de-nevoa-nivel-5.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-metamorfose-nivel-5-o-coracao-sem-grilhoes-nivel-5"
+         href="disciplinas/metamorfose/nivel-5/o-coracao-sem-grilhoes-nivel-5.html"
+         media-type="application/xhtml+xml" />
+      <item id="disciplinas-oblivio-tenebrosidade" href="disciplinas/oblivio-tenebrosidade/index.html"
+         media-type="application/xhtml+xml" />
+      <item id="disciplinas-oblivio-tenebrosidade-nivel-1-manto-sombrio-nivel-1"
+         href="disciplinas/oblivio-tenebrosidade/nivel-1/manto-sombrio-nivel-1.html"
+         media-type="application/xhtml+xml" />
+      <item id="disciplinas-oblivio-tenebrosidade-nivel-1-visao-do-oblivio-nivel-1"
+         href="disciplinas/oblivio-tenebrosidade/nivel-1/visao-do-oblivio-nivel-1.html"
+         media-type="application/xhtml+xml" />
+      <item id="disciplinas-oblivio-tenebrosidade-nivel-2-conjurar-as-sombras-nivel-2"
+         href="disciplinas/oblivio-tenebrosidade/nivel-2/conjurar-as-sombras-nivel-2.html"
+         media-type="application/xhtml+xml" />
+      <item id="disciplinas-oblivio-tenebrosidade-nivel-2-bracos-de-ahriman-nivel-2"
+         href="disciplinas/oblivio-tenebrosidade/nivel-2/bracos-de-ahriman-nivel-2.html"
+         media-type="application/xhtml+xml" />
+      <item id="disciplinas-oblivio-tenebrosidade-nivel-3-perspectiva-sombria-nivel-3"
+         href="disciplinas/oblivio-tenebrosidade/nivel-3/perspectiva-sombria-nivel-3.html"
+         media-type="application/xhtml+xml" />
+      <item id="disciplinas-oblivio-tenebrosidade-nivel-3-toque-do-oblivio-nivel-3"
+         href="disciplinas/oblivio-tenebrosidade/nivel-3/toque-do-oblivio-nivel-3.html"
+         media-type="application/xhtml+xml" />
+      <item id="disciplinas-oblivio-tenebrosidade-nivel-4-a-mortalha-de-estigia-nivel-4"
+         href="disciplinas/oblivio-tenebrosidade/nivel-4/a-mortalha-de-estigia-nivel-4.html"
+         media-type="application/xhtml+xml" />
+      <item id="disciplinas-oblivio-tenebrosidade-nivel-5-passo-das-sombras-nivel-5"
+         href="disciplinas/oblivio-tenebrosidade/nivel-5/passo-das-sombras-nivel-5.html"
+         media-type="application/xhtml+xml" />
+      <item id="disciplinas-oblivio-tenebrosidade-nivel-5-avatar-tenebroso-nivel-5"
+         href="disciplinas/oblivio-tenebrosidade/nivel-5/avatar-tenebroso-nivel-5.html"
+         media-type="application/xhtml+xml" />
+      <item id="disciplinas-ofuscacao" href="disciplinas/ofuscacao/index.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-ofuscacao-nivel-1-manto-da-sombras-nivel-1"
+         href="disciplinas/ofuscacao/nivel-1/manto-da-sombras-nivel-1.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-ofuscacao-nivel-1-silencio-da-morte-nivel-1"
+         href="disciplinas/ofuscacao/nivel-1/silencio-da-morte-nivel-1.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-ofuscacao-nivel-2-passagem-nao-vista-nivel-2"
+         href="disciplinas/ofuscacao/nivel-2/passagem-nao-vista-nivel-2.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-ofuscacao-nivel-3-fantasma-na-maquina-nivel-3"
+         href="disciplinas/ofuscacao/nivel-3/fantasma-na-maquina-nivel-3.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-ofuscacao-nivel-3-mascara-das-mil-faces-nivel-3"
+         href="disciplinas/ofuscacao/nivel-3/mascara-das-mil-faces-nivel-3.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-ofuscacao-nivel-4-ocultamento-nivel-4"
+         href="disciplinas/ofuscacao/nivel-4/ocultamento-nivel-4.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-ofuscacao-nivel-4-desaparecimento-nivel-4"
+         href="disciplinas/ofuscacao/nivel-4/desaparecimento-nivel-4.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-ofuscacao-nivel-5-cobrindo-o-grupo-nivel-5"
+         href="disciplinas/ofuscacao/nivel-5/cobrindo-o-grupo-nivel-5.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-ofuscacao-nivel-5-disfarce-do-impostor-nivel-5"
+         href="disciplinas/ofuscacao/nivel-5/disfarce-do-impostor-nivel-5.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-potencia" href="disciplinas/potencia/index.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-potencia-nivel-1-corpo-letal-nivel-1"
+         href="disciplinas/potencia/nivel-1/corpo-letal-nivel-1.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-potencia-nivel-1-salto-crescente-nivel-1"
+         href="disciplinas/potencia/nivel-1/salto-crescente-nivel-1.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-potencia-nivel-2-proeza-nivel-2" href="disciplinas/potencia/nivel-2/proeza-nivel-2.html"
+         media-type="application/xhtml+xml" />
+      <item id="disciplinas-potencia-nivel-3-alimentacao-brutal-nivel-3"
+         href="disciplinas/potencia/nivel-3/alimentacao-brutal-nivel-3.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-potencia-nivel-3-fagulha-de-furia-nivel-3"
+         href="disciplinas/potencia/nivel-3/fagulha-de-furia-nivel-3.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-potencia-nivel-3-pegada-sobrenatural-nivel-3"
+         href="disciplinas/potencia/nivel-3/pegada-sobrenatural-nivel-3.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-potencia-nivel-4-formula-do-poder-nivel-4"
+         href="disciplinas/potencia/nivel-4/formula-do-poder-nivel-4.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-potencia-nivel-5-choque-de-terra-nivel-5"
+         href="disciplinas/potencia/nivel-5/choque-de-terra-nivel-5.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-potencia-nivel-5-duracao:-um-uso,-por-cena."
+         href="disciplinas/potencia/nivel-5/duracao:-um-uso,-por-cena..html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-potencia-nivel-5-punhos-de-caim-nivel-5"
+         href="disciplinas/potencia/nivel-5/punhos-de-caim-nivel-5.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-presenca" href="disciplinas/presenca/index.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-presenca-nivel-1-fascinio-nivel-1" href="disciplinas/presenca/nivel-1/fascinio-nivel-1.html"
+         media-type="application/xhtml+xml" />
+      <item id="disciplinas-presenca-nivel-1-temor-nivel-1" href="disciplinas/presenca/nivel-1/temor-nivel-1.html"
+         media-type="application/xhtml+xml" />
+      <item id="disciplinas-presenca-nivel-1-olhos-da-serpente-nivel-1"
+         href="disciplinas/presenca/nivel-1/olhos-da-serpente-nivel-1.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-presenca-nivel-2-beijo-prolongado-nivel-2"
+         href="disciplinas/presenca/nivel-2/beijo-prolongado-nivel-2.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-presenca-nivel-3-olhar-aterrorizante-nivel-3"
+         href="disciplinas/presenca/nivel-3/olhar-aterrorizante-nivel-3.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-presenca-nivel-3-transe-nivel-3" href="disciplinas/presenca/nivel-3/transe-nivel-3.html"
+         media-type="application/xhtml+xml" />
+      <item id="disciplinas-presenca-nivel-4-voz-irresistivel-nivel-4"
+         href="disciplinas/presenca/nivel-4/voz-irresistivel-nivel-4.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-presenca-nivel-4-convocacao-nivel-4"
+         href="disciplinas/presenca/nivel-4/convocacao-nivel-4.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-presenca-nivel-5-majestade-nivel-5"
+         href="disciplinas/presenca/nivel-5/majestade-nivel-5.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-presenca-nivel-5-magnetismo-estelar-nivel-5"
+         href="disciplinas/presenca/nivel-5/magnetismo-estelar-nivel-5.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-feiticaria-de-sangue" href="disciplinas/feiticaria-de-sangue/index.html"
+         media-type="application/xhtml+xml" />
+      <item id="disciplinas-feiticaria-de-sangue-nivel-1-vitae-corrosivo-nivel-1"
+         href="disciplinas/feiticaria-de-sangue/nivel-1/vitae-corrosivo-nivel-1.html"
+         media-type="application/xhtml+xml" />
+      <item id="disciplinas-feiticaria-de-sangue-nivel-1-um-gosto-por-sangue-nivel-1"
+         href="disciplinas/feiticaria-de-sangue/nivel-1/um-gosto-por-sangue-nivel-1.html"
+         media-type="application/xhtml+xml" />
+      <item id="disciplinas-feiticaria-de-sangue-nivel-2-extinguir-vitae-nivel-2"
+         href="disciplinas/feiticaria-de-sangue/nivel-2/extinguir-vitae-nivel-2.html"
+         media-type="application/xhtml+xml" />
+      <item id="disciplinas-feiticaria-de-sangue-nivel-3-potencializar-o-sangue-nivel-3"
+         href="disciplinas/feiticaria-de-sangue/nivel-3/potencializar-o-sangue-nivel-3.html"
+         media-type="application/xhtml+xml" />
+      <item id="disciplinas-feiticaria-de-sangue-nivel-3-toque-do-escorpiao-nivel-3"
+         href="disciplinas/feiticaria-de-sangue/nivel-3/toque-do-escorpiao-nivel-3.html"
+         media-type="application/xhtml+xml" />
+      <item id="disciplinas-feiticaria-de-sangue-nivel-4-furto-de-vitae-nivel-4"
+         href="disciplinas/feiticaria-de-sangue/nivel-4/furto-de-vitae-nivel-4.html"
+         media-type="application/xhtml+xml" />
+      <item id="disciplinas-feiticaria-de-sangue-nivel-5-caricia-de-baal-nivel-5"
+         href="disciplinas/feiticaria-de-sangue/nivel-5/caricia-de-baal-nivel-5.html"
+         media-type="application/xhtml+xml" />
+      <item id="disciplinas-feiticaria-de-sangue-nivel-5-caldeirao-de-sangue-nivel-5"
+         href="disciplinas/feiticaria-de-sangue/nivel-5/caldeirao-de-sangue-nivel-5.html"
+         media-type="application/xhtml+xml" />
+      <item id="disciplinas-rituais-de-feiticaria-de-sangue-"
+         href="disciplinas/rituais-de-feiticaria-de-sangue-/index.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-rituais-de-feiticaria-de-sangue--protecao"
+         href="disciplinas/rituais-de-feiticaria-de-sangue-/protecao.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-rituais-de-feiticaria-de-sangue--circulo-de-protecao"
+         href="disciplinas/rituais-de-feiticaria-de-sangue-/circulo-de-protecao.html"
+         media-type="application/xhtml+xml" />
+      <item id="disciplinas-alquimia-de-sangue-fraco" href="disciplinas/alquimia-de-sangue-fraco/index.html"
+         media-type="application/xhtml+xml" />
+      <item id="disciplinas-alquimia-de-sangue-fraco-nivel-1-alcance-distante-nivel-1"
+         href="disciplinas/alquimia-de-sangue-fraco/nivel-1/alcance-distante-nivel-1.html"
+         media-type="application/xhtml+xml" />
+      <item id="disciplinas-alquimia-de-sangue-fraco-nivel-1-nevoa-nivel-1"
+         href="disciplinas/alquimia-de-sangue-fraco/nivel-1/nevoa-nivel-1.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-alquimia-de-sangue-fraco-nivel-1-hieros-gamos-profano-nivel-1"
+         href="disciplinas/alquimia-de-sangue-fraco/nivel-1/hieros-gamos-profano-nivel-1.html"
+         media-type="application/xhtml+xml" />
+      <item id="disciplinas-alquimia-de-sangue-fraco-nivel-2"
+         href="disciplinas/alquimia-de-sangue-fraco/nivel-2/index.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-alquimia-de-sangue-fraco-nivel-2-envolver-nivel-2"
+         href="disciplinas/alquimia-de-sangue-fraco/nivel-2/envolver-nivel-2.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-alquimia-de-sangue-fraco-nivel-3"
+         href="disciplinas/alquimia-de-sangue-fraco/nivel-3/index.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-alquimia-de-sangue-fraco-nivel-3-recompor-nivel-3"
+         href="disciplinas/alquimia-de-sangue-fraco/nivel-3/recompor-nivel-3.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-alquimia-de-sangue-fraco-nivel-4"
+         href="disciplinas/alquimia-de-sangue-fraco/nivel-4/index.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-alquimia-de-sangue-fraco-nivel-4-impulso-aereo-nivel-4"
+         href="disciplinas/alquimia-de-sangue-fraco/nivel-4/impulso-aereo-nivel-4.html"
+         media-type="application/xhtml+xml" />
+      <item id="disciplinas-alquimia-de-sangue-fraco-nivel-5"
+         href="disciplinas/alquimia-de-sangue-fraco/nivel-5/index.html" media-type="application/xhtml+xml" />
+      <item id="disciplinas-alquimia-de-sangue-fraco-nivel-5-despertar-o-adormecido-nivel-5"
+         href="disciplinas/alquimia-de-sangue-fraco/nivel-5/despertar-o-adormecido-nivel-5.html"
+         media-type="application/xhtml+xml" />
 
       <!-- CSS Style Sheets -->
-      <item id="main-css" href="style.css" media-type="text/css"/>
+      <item id="main-css" href="style.css" media-type="text/css" />
 
       <!-- NCX -->
-      <item id="idtoc" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+      <item id="idtoc" href="toc.ncx" media-type="application/x-dtbncx+xml" />
    </manifest>
    <spine toc="idtoc">
-      <itemref idref="index" linear="yes"/>
-      <itemref idref="disciplinas.index" linear="yes"/>
+      <itemref idref="index" linear="yes" />
+      <itemref idref="disciplinas.index" linear="yes" />
    </spine>
 </package>

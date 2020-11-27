@@ -1,31 +1,1097 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE ncx
-  PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
 <ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
-   <head>
-      <!--The following four metadata items are required for all
+
+    <head>
+        <!--The following four metadata items are required for all
             NCX documents, including those conforming to the relaxed
             constraints of OPS 2.0-->
-      <meta name="dtb:uid" content="idtoc"/>
-      <meta name="dtb:depth" content="3"/>
-      <meta name="dtb:totalPageCount" content="0"/>
-      <meta name="dtb:maxPageNumber" content="0"/>
-   </head>
-   <docTitle>
-      <text>Vampiro: A máscara 5th</text>
-   </docTitle>
-   <navMap>
-    <navPoint id="index" playOrder="1">
-        <navLabel>
-          <text>Titulo</text>
-        </navLabel>
-        <content src="index.html"/>
-    </navPoint>
-    <navPoint id="disciplinas" playOrder="2">
-        <navLabel>
-          <text>DISCIPLINAS</text>
-        </navLabel>
-        <content src="disciplinas/index.html"/>
-    </navPoint>         
-   </navMap>
+        <meta name="dtb:uid" content="idtoc" />
+        <meta name="dtb:depth" content="3" />
+        <meta name="dtb:totalPageCount" content="0" />
+        <meta name="dtb:maxPageNumber" content="0" />
+    </head>
+    <docTitle>
+        <text>Vampiro: A máscara 5th</text>
+    </docTitle>
+    <navMap>
+        <navPoint id="index" playOrder="1">
+            <navLabel>
+                <text>Titulo</text>
+            </navLabel>
+            <content src="index.html" />
+        </navPoint>
+        <navPoint id="disciplinas" playOrder="2">
+            <navLabel>
+                <text>DISCIPLINAS</text>
+            </navLabel>
+            <navPoint id="disciplinas-regras-gerais" playOrder="3">
+                <navLabel>
+                    <text>REGRAS GERAIS</text>
+                </navLabel>
+                <navPoint id="disciplinas-regras-gerais-aprendendo-disciplinas" playOrder="4">
+                    <navLabel>
+                        <text>APRENDENDO DISCIPLINAS</text>
+                    </navLabel>
+                    <content src="disciplinas/regras-gerais/aprendendo-disciplinas.html" />
+                </navPoint>
+                <navPoint id="disciplinas-regras-gerais-escolhendo-poderes" playOrder="5">
+                    <navLabel>
+                        <text>ESCOLHENDO PODERES</text>
+                    </navLabel>
+                    <content src="disciplinas/regras-gerais/escolhendo-poderes.html" />
+                </navPoint>
+                <navPoint id="disciplinas-regras-gerais-usando-poderes" playOrder="6">
+                    <navLabel>
+                        <text>USANDO PODERES</text>
+                    </navLabel>
+                    <content src="disciplinas/regras-gerais/usando-poderes.html" />
+                </navPoint>
+                <navPoint id="disciplinas-regras-gerais-poderes-amalgama" playOrder="7">
+                    <navLabel>
+                        <text>PODERES AMÁLGAMA</text>
+                    </navLabel>
+                    <content src="disciplinas/regras-gerais/poderes-amalgama.html" />
+                </navPoint>
+            </navPoint>
+            <navPoint id="disciplinas-animalismo" playOrder="8">
+                <navLabel>
+                    <text>ANIMALISMO</text>
+                </navLabel>
+                <content src="disciplinas/animalismo/index.html" />
+                <navPoint id="disciplinas-animalismo-nivel-1" playOrder="9">
+                    <navLabel>
+                        <text>NÍVEL 1</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-animalismo-nivel-1-vincular-famulus-nivel-1" playOrder="10">
+                        <navLabel>
+                            <text>VÍNCULAR FAMULUS (NÍVEL 1)</text>
+                        </navLabel>
+                        <content src="disciplinas/animalismo/nivel-1/vincular-famulus-nivel-1.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-animalismo-nivel-1-sentir-a-besta-nivel-1" playOrder="11">
+                        <navLabel>
+                            <text>SENTIR A BESTA (NÍVEL 1)</text>
+                        </navLabel>
+                        <content src="disciplinas/animalismo/nivel-1/sentir-a-besta-nivel-1.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-animalismo-nivel-2" playOrder="12">
+                    <navLabel>
+                        <text>NÍVEL 2</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-animalismo-nivel-2-sussurros-selvagens-nivel-2" playOrder="13">
+                        <navLabel>
+                            <text>SUSSURROS SELVAGENS (NÍVEL 2)</text>
+                        </navLabel>
+                        <content src="disciplinas/animalismo/nivel-2/sussurros-selvagens-nivel-2.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-animalismo-nivel-3" playOrder="14">
+                    <navLabel>
+                        <text>NÍVEL 3</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-animalismo-nivel-3-suculencia-animal-nivel-3" playOrder="15">
+                        <navLabel>
+                            <text>SUCULÊNCIA ANIMAL (NÍVEL 3)</text>
+                        </navLabel>
+                        <content src="disciplinas/animalismo/nivel-3/suculencia-animal-nivel-3.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-animalismo-nivel-3-domar-a-besta-nivel-3" playOrder="16">
+                        <navLabel>
+                            <text>DOMAR A BESTA (NÍVEL 3)</text>
+                        </navLabel>
+                        <content src="disciplinas/animalismo/nivel-3/domar-a-besta-nivel-3.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-animalismo-nivel-3-colmeia-nao-viva-nivel-3" playOrder="17">
+                        <navLabel>
+                            <text>COLMÉIA NÃO-VIVA (NÍVEL 3)</text>
+                        </navLabel>
+                        <content src="disciplinas/animalismo/nivel-3/colmeia-nao-viva-nivel-3.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-animalismo-nivel-4" playOrder="18">
+                    <navLabel>
+                        <text>NÍVEL 4</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-animalismo-nivel-4-subordinar-o-espirito-nivel-4" playOrder="19">
+                        <navLabel>
+                            <text>SUBORDINAR O ESPÍRITO (NÍVEL 4)</text>
+                        </navLabel>
+                        <content src="disciplinas/animalismo/nivel-4/subordinar-o-espirito-nivel-4.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-animalismo-nivel-5" playOrder="20">
+                    <navLabel>
+                        <text>NÍVEL 5</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-animalismo-nivel-5-dominio-animal-nivel-5" playOrder="21">
+                        <navLabel>
+                            <text>DOMÍNIO ANIMAL (NÍVEL 5)</text>
+                        </navLabel>
+                        <content src="disciplinas/animalismo/nivel-5/dominio-animal-nivel-5.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-animalismo-nivel-5-extrair-a-besta-nivel-5" playOrder="22">
+                        <navLabel>
+                            <text>EXTRAIR A BESTA (NÍVEL 5)</text>
+                        </navLabel>
+                        <content src="disciplinas/animalismo/nivel-5/extrair-a-besta-nivel-5.html" />
+                    </navPoint>
+                </navPoint>
+            </navPoint>
+            <navPoint id="disciplinas-auspicios" playOrder="23">
+                <navLabel>
+                    <text>AUSPÍCIOS</text>
+                </navLabel>
+                <content src="disciplinas/auspicios/index.html" />
+                <navPoint id="disciplinas-auspicios-nivel-1" playOrder="24">
+                    <navLabel>
+                        <text>NÍVEL 1</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-auspicios-nivel-1-sentidos-agucados-nivel-1" playOrder="25">
+                        <navLabel>
+                            <text>SENTIDOS AGUÇADOS (NÍVEL 1)</text>
+                        </navLabel>
+                        <content src="disciplinas/auspicios/nivel-1/sentidos-agucados-nivel-1.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-auspicios-nivel-1-sentir-o-nao-visto-nivel-1" playOrder="26">
+                        <navLabel>
+                            <text>SENTIR O NÃO VISTO (NÍVEL 1)</text>
+                        </navLabel>
+                        <content src="disciplinas/auspicios/nivel-1/sentir-o-nao-visto-nivel-1.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-auspicios-nivel-2" playOrder="27">
+                    <navLabel>
+                        <text>NÍVEL 2</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-auspicios-nivel-2-premonicao-nivel-2" playOrder="28">
+                        <navLabel>
+                            <text>PREMONIÇÃO (NÍVEL 2)</text>
+                        </navLabel>
+                        <content src="disciplinas/auspicios/nivel-2/premonicao-nivel-2.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-auspicios-nivel-3" playOrder="29">
+                    <navLabel>
+                        <text>NÍVEL 3</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-auspicios-nivel-3-sondar-a-alma-nivel-3" playOrder="30">
+                        <navLabel>
+                            <text>SONDAR A ALMA (NÍVEL 3)</text>
+                        </navLabel>
+                        <content src="disciplinas/auspicios/nivel-3/sondar-a-alma-nivel-3.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-auspicios-nivel-3-compartilhar-os-sentidos-nivel-3" playOrder="31">
+                        <navLabel>
+                            <text>COMPARTILHAR OS SENTIDOS (NÍVEL 3)</text>
+                        </navLabel>
+                        <content src="disciplinas/auspicios/nivel-3/compartilhar-os-sentidos-nivel-3.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-auspicios-nivel-4" playOrder="32">
+                    <navLabel>
+                        <text>NÍVEL 4</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-auspicios-nivel-4-toque-do-espirito-nivel-4" playOrder="33">
+                        <navLabel>
+                            <text>TOQUE DO ESPÍRITO (NÍVEL 4)</text>
+                        </navLabel>
+                        <content src="disciplinas/auspicios/nivel-4/toque-do-espirito-nivel-4.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-auspicios-nivel-5" playOrder="34">
+                    <navLabel>
+                        <text>NÍVEL 5</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-auspicios-nivel-5-clarividencia-nivel-5" playOrder="35">
+                        <navLabel>
+                            <text>CLARIVIDÊNCIA (NÍVEL 5)</text>
+                        </navLabel>
+                        <content src="disciplinas/auspicios/nivel-5/clarividencia-nivel-5.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-auspicios-nivel-5-possessao-nivel-5" playOrder="36">
+                        <navLabel>
+                            <text>POSSESSÃO (NÍVEL 5)</text>
+                        </navLabel>
+                        <content src="disciplinas/auspicios/nivel-5/possessao-nivel-5.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-auspicios-nivel-5-telepatia-nivel-5" playOrder="37">
+                        <navLabel>
+                            <text>TELEPATIA (NÍVEL 5)</text>
+                        </navLabel>
+                        <content src="disciplinas/auspicios/nivel-5/telepatia-nivel-5.html" />
+                    </navPoint>
+                </navPoint>
+            </navPoint>
+            <navPoint id="disciplinas-celeridade" playOrder="38">
+                <navLabel>
+                    <text>CELERIDADE</text>
+                </navLabel>
+                <content src="disciplinas/celeridade/index.html" />
+                <navPoint id="disciplinas-celeridade-nivel-1" playOrder="39">
+                    <navLabel>
+                        <text>NÍVEL 1</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-celeridade-nivel-1-graca-felina-nivel-1" playOrder="40">
+                        <navLabel>
+                            <text>GRAÇA FELINA (NÍVEL 1)</text>
+                        </navLabel>
+                        <content src="disciplinas/celeridade/nivel-1/graca-felina-nivel-1.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-celeridade-nivel-1-reflexos-rapidos-nivel-1" playOrder="41">
+                        <navLabel>
+                            <text>REFLEXOS RÁPIDOS (NÍVEL 1)</text>
+                        </navLabel>
+                        <content src="disciplinas/celeridade/nivel-1/reflexos-rapidos-nivel-1.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-celeridade-nivel-2" playOrder="42">
+                    <navLabel>
+                        <text>NÍVEL 2</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-celeridade-nivel-2-rapidez-nivel-2" playOrder="43">
+                        <navLabel>
+                            <text>RAPIDEZ (NÍVEL 2)</text>
+                        </navLabel>
+                        <content src="disciplinas/celeridade/nivel-2/rapidez-nivel-2.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-celeridade-nivel-3" playOrder="44">
+                    <navLabel>
+                        <text>NÍVEL 3</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-celeridade-nivel-3-piscar-nivel-3" playOrder="45">
+                        <navLabel>
+                            <text>PISCAR (NÍVEL 3)</text>
+                        </navLabel>
+                        <content src="disciplinas/celeridade/nivel-3/piscar-nivel-3.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-celeridade-nivel-3-travessia-nivel-3" playOrder="46">
+                        <navLabel>
+                            <text>TRAVESSIA (NÍVEL 3)</text>
+                        </navLabel>
+                        <content src="disciplinas/celeridade/nivel-3/travessia-nivel-3.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-celeridade-nivel-4" playOrder="47">
+                    <navLabel>
+                        <text>NÍVEL 4</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-celeridade-nivel-4-formula-da-elegancia-nivel-4" playOrder="48">
+                        <navLabel>
+                            <text>FÓRMULA DA ELEGÂNCIA (NÍVEL 4)</text>
+                        </navLabel>
+                        <content src="disciplinas/celeridade/nivel-4/formula-da-elegancia-nivel-4.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-celeridade-nivel-4-mira-infalivel-nivel-4" playOrder="49">
+                        <navLabel>
+                            <text>MIRA INFALÍVEL (NÍVEL 4)</text>
+                        </navLabel>
+                        <content src="disciplinas/celeridade/nivel-4/mira-infalivel-nivel-4.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-celeridade-nivel-5" playOrder="50">
+                    <navLabel>
+                        <text>NÍVEL 5</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-celeridade-nivel-5-ataque-relampago-nivel-5" playOrder="51">
+                        <navLabel>
+                            <text>ATAQUE RELÂMPAGO (NÍVEL 5)</text>
+                        </navLabel>
+                        <content src="disciplinas/celeridade/nivel-5/ataque-relampago-nivel-5.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-celeridade-nivel-5-fracao-de-segundo-nivel-5" playOrder="52">
+                        <navLabel>
+                            <text>FRAÇÃO DE SEGUNDO (NÍVEL 5)</text>
+                        </navLabel>
+                        <content src="disciplinas/celeridade/nivel-5/fracao-de-segundo-nivel-5.html" />
+                    </navPoint>
+                </navPoint>
+            </navPoint>
+            <navPoint id="disciplinas-dominacao" playOrder="53">
+                <navLabel>
+                    <text>DOMINAÇÃO</text>
+                </navLabel>
+                <content src="disciplinas/dominacao/index.html" />
+                <navPoint id="disciplinas-dominacao-nivel-1" playOrder="54">
+                    <navLabel>
+                        <text>NÍVEL 1</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-dominacao-nivel-1-nublar-memoria-nivel-1" playOrder="55">
+                        <navLabel>
+                            <text>NUBLAR MEMÓRIA (NÍVEL 1)</text>
+                        </navLabel>
+                        <content src="disciplinas/dominacao/nivel-1/nublar-memoria-nivel-1.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-dominacao-nivel-1-compelir-nivel-1" playOrder="56">
+                        <navLabel>
+                            <text>COMPELIR (NÍVEL 1)</text>
+                        </navLabel>
+                        <content src="disciplinas/dominacao/nivel-1/compelir-nivel-1.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-dominacao-nivel-2" playOrder="57">
+                    <navLabel>
+                        <text>NÍVEL 2</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-dominacao-nivel-2-mesmerizar-nivel-2" playOrder="58">
+                        <navLabel>
+                            <text>MESMERIZAR (NÍVEL 2)</text>
+                        </navLabel>
+                        <content src="disciplinas/dominacao/nivel-2/mesmerizar-nivel-2.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-dominacao-nivel-2-demencia-nivel-2" playOrder="59">
+                        <navLabel>
+                            <text>DEMÊNCIA (NÍVEL 2)</text>
+                        </navLabel>
+                        <content src="disciplinas/dominacao/nivel-2/demencia-nivel-2.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-dominacao-nivel-3" playOrder="60">
+                    <navLabel>
+                        <text>NÍVEL 3</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-dominacao-nivel-3-a-mente-esquecida-nivel-3" playOrder="61">
+                        <navLabel>
+                            <text>A MENTE ESQUECIDA (NÍVEL 3)</text>
+                        </navLabel>
+                        <content src="disciplinas/dominacao/nivel-3/a-mente-esquecida-nivel-3.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-dominacao-nivel-3-diretriz-submersa-nivel-3" playOrder="62">
+                        <navLabel>
+                            <text>DIRETRIZ SUBMERSA (NÍVEL 3)</text>
+                        </navLabel>
+                        <content src="disciplinas/dominacao/nivel-3/diretriz-submersa-nivel-3.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-dominacao-nivel-4" playOrder="63">
+                    <navLabel>
+                        <text>NÍVEL 4</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-dominacao-nivel-4-racionalizar-nivel-4" playOrder="64">
+                        <navLabel>
+                            <text>RACIONALIZAR (NÍVEL 4)</text>
+                        </navLabel>
+                        <content src="disciplinas/dominacao/nivel-4/racionalizar-nivel-4.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-dominacao-nivel-5" playOrder="65">
+                    <navLabel>
+                        <text>NÍVEL 5</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-dominacao-nivel-5-manipulacao-em-massa-nivel-5" playOrder="66">
+                        <navLabel>
+                            <text>MANIPULAÇÃO EM MASSA (NÍVEL 5)</text>
+                        </navLabel>
+                        <content src="disciplinas/dominacao/nivel-5/manipulacao-em-massa-nivel-5.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-dominacao-nivel-5-decreto-terminal-nivel-5" playOrder="67">
+                        <navLabel>
+                            <text>DECRETO TERMINAL (NÍVEL 5)</text>
+                        </navLabel>
+                        <content src="disciplinas/dominacao/nivel-5/decreto-terminal-nivel-5.html" />
+                    </navPoint>
+                </navPoint>
+            </navPoint>
+            <navPoint id="disciplinas-fortitude" playOrder="68">
+                <navLabel>
+                    <text>FORTITUDE</text>
+                </navLabel>
+                <content src="disciplinas/fortitude/index.html" />
+                <navPoint id="disciplinas-fortitude-nivel-1" playOrder="69">
+                    <navLabel>
+                        <text>NÍVEL 1</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-fortitude-nivel-1-resiliencia-nivel-1" playOrder="70">
+                        <navLabel>
+                            <text>RESILIÊNCIA (NÍVEL 1)</text>
+                        </navLabel>
+                        <content src="disciplinas/fortitude/nivel-1/resiliencia-nivel-1.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-fortitude-nivel-1-mente-inabalavel-nivel-1" playOrder="71">
+                        <navLabel>
+                            <text>MENTE INABALÁVEL (NÍVEL 1)</text>
+                        </navLabel>
+                        <content src="disciplinas/fortitude/nivel-1/mente-inabalavel-nivel-1.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-fortitude-nivel-2" playOrder="72">
+                    <navLabel>
+                        <text>NÍVEL 2</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-fortitude-nivel-2-dureza-nivel-2" playOrder="73">
+                        <navLabel>
+                            <text>DUREZA (NÍVEL 2)</text>
+                        </navLabel>
+                        <content src="disciplinas/fortitude/nivel-2/dureza-nivel-2.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-fortitude-nivel-2-feras-resistentes-nivel-2" playOrder="74">
+                        <navLabel>
+                            <text>FERAS RESISTENTES (NÍVEL 2)</text>
+                        </navLabel>
+                        <content src="disciplinas/fortitude/nivel-2/feras-resistentes-nivel-2.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-fortitude-nivel-3" playOrder="75">
+                    <navLabel>
+                        <text>NÍVEL 3</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-fortitude-nivel-3-desafiar-maldicao-nivel-3" playOrder="76">
+                        <navLabel>
+                            <text>DESAFIAR MALDIÇÃO (NÍVEL 3)</text>
+                        </navLabel>
+                        <content src="disciplinas/fortitude/nivel-3/desafiar-maldicao-nivel-3.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-fortitude-nivel-3-reforcar-a-fachada-interior-nivel-3" playOrder="77">
+                        <navLabel>
+                            <text>REFORÇAR A FACHADA INTERIOR (NÍVEL 3)</text>
+                        </navLabel>
+                        <content src="disciplinas/fortitude/nivel-3/reforcar-a-fachada-interior-nivel-3.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-fortitude-nivel-4" playOrder="78">
+                    <navLabel>
+                        <text>NÍVEL 4</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-fortitude-nivel-4-formula-da-resistencia-nivel-4" playOrder="79">
+                        <navLabel>
+                            <text>FÓRMULA DA RESISTÊNCIA (NÍVEL 4)</text>
+                        </navLabel>
+                        <content src="disciplinas/fortitude/nivel-4/formula-da-resistencia-nivel-4.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-fortitude-nivel-5" playOrder="80">
+                    <navLabel>
+                        <text>NÍVEL 5</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-fortitude-nivel-5-pele-de-marmore-nivel-5" playOrder="81">
+                        <navLabel>
+                            <text>PELE DE MÁRMORE (NÍVEL 5)</text>
+                        </navLabel>
+                        <content src="disciplinas/fortitude/nivel-5/pele-de-marmore-nivel-5.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-fortitude-nivel-5-proeza-da-dor-nivel-5" playOrder="82">
+                        <navLabel>
+                            <text>PROEZA DA DOR (NÍVEL 5)</text>
+                        </navLabel>
+                        <content src="disciplinas/fortitude/nivel-5/proeza-da-dor-nivel-5.html" />
+                    </navPoint>
+                </navPoint>
+            </navPoint>
+            <navPoint id="disciplinas-metamorfose" playOrder="83">
+                <navLabel>
+                    <text>METAMORFOSE</text>
+                </navLabel>
+                <content src="disciplinas/metamorfose/index.html" />
+                <navPoint id="disciplinas-metamorfose-nivel-1" playOrder="84">
+                    <navLabel>
+                        <text>NÍVEL 1</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-metamorfose-nivel-1-olhos-da-besta-nivel-1" playOrder="85">
+                        <navLabel>
+                            <text>OLHOS DA BESTA (NÍVEL 1)</text>
+                        </navLabel>
+                        <content src="disciplinas/metamorfose/nivel-1/olhos-da-besta-nivel-1.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-metamorfose-nivel-1-peso-da-pena-nivel-1" playOrder="86">
+                        <navLabel>
+                            <text>PESO DA PENA (NÍVEL 1)</text>
+                        </navLabel>
+                        <content src="disciplinas/metamorfose/nivel-1/peso-da-pena-nivel-1.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-metamorfose-nivel-2" playOrder="87">
+                    <navLabel>
+                        <text>NÍVEL 2</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-metamorfose-nivel-2-armas-selvagens-nivel-2" playOrder="88">
+                        <navLabel>
+                            <text>ARMAS SELVAGENS (NÍVEL 2)</text>
+                        </navLabel>
+                        <content src="disciplinas/metamorfose/nivel-2/armas-selvagens-nivel-2.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-metamorfose-nivel-3" playOrder="89">
+                    <navLabel>
+                        <text>NÍVEL 3</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-metamorfose-nivel-3-fusao-com-a-terra-nivel-3" playOrder="90">
+                        <navLabel>
+                            <text>FUSÃO COM A TERRA (NÍVEL 3)</text>
+                        </navLabel>
+                        <content src="disciplinas/metamorfose/nivel-3/fusao-com-a-terra-nivel-3.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-metamorfose-nivel-3-mudanca-de-forma-nivel-3" playOrder="91">
+                        <navLabel>
+                            <text>MUDANÇA DE FORMA (NÍVEL 3)</text>
+                        </navLabel>
+                        <content src="disciplinas/metamorfose/nivel-3/mudanca-de-forma-nivel-3.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-metamorfose-nivel-4" playOrder="92">
+                    <navLabel>
+                        <text>NÍVEL 4</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-metamorfose-nivel-4-metamorfose-nivel-4" playOrder="93">
+                        <navLabel>
+                            <text>METAMORFOSE (NÍVEL 4)</text>
+                        </navLabel>
+                        <content src="disciplinas/metamorfose/nivel-4/metamorfose-nivel-4.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-metamorfose-nivel-5" playOrder="94">
+                    <navLabel>
+                        <text>NÍVEL 5</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-metamorfose-nivel-5-forma-de-nevoa-nivel-5" playOrder="95">
+                        <navLabel>
+                            <text>FORMA DE NÉVOA (NÍVEL 5)</text>
+                        </navLabel>
+                        <content src="disciplinas/metamorfose/nivel-5/forma-de-nevoa-nivel-5.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-metamorfose-nivel-5-o-coracao-sem-grilhoes-nivel-5" playOrder="96">
+                        <navLabel>
+                            <text>O CORAÇÃO SEM GRILHÕES (NÍVEL 5)</text>
+                        </navLabel>
+                        <content src="disciplinas/metamorfose/nivel-5/o-coracao-sem-grilhoes-nivel-5.html" />
+                    </navPoint>
+                </navPoint>
+            </navPoint>
+            <navPoint id="disciplinas-oblivio-tenebrosidade" playOrder="97">
+                <navLabel>
+                    <text>OBLÍVIO (TENEBROSIDADE)</text>
+                </navLabel>
+                <content src="disciplinas/oblivio-tenebrosidade/index.html" />
+                <navPoint id="disciplinas-oblivio-tenebrosidade-nivel-1" playOrder="98">
+                    <navLabel>
+                        <text>NÍVEL 1</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-oblivio-tenebrosidade-nivel-1-manto-sombrio-nivel-1" playOrder="99">
+                        <navLabel>
+                            <text>MANTO SOMBRIO (NÍVEL 1)</text>
+                        </navLabel>
+                        <content src="disciplinas/oblivio-tenebrosidade/nivel-1/manto-sombrio-nivel-1.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-oblivio-tenebrosidade-nivel-1-visao-do-oblivio-nivel-1" playOrder="100">
+                        <navLabel>
+                            <text>VISÃO DO OBLÍVIO (NÍVEL 1)</text>
+                        </navLabel>
+                        <content src="disciplinas/oblivio-tenebrosidade/nivel-1/visao-do-oblivio-nivel-1.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-oblivio-tenebrosidade-nivel-2" playOrder="101">
+                    <navLabel>
+                        <text>NÍVEL 2</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-oblivio-tenebrosidade-nivel-2-conjurar-as-sombras-nivel-2"
+                        playOrder="102">
+                        <navLabel>
+                            <text>CONJURAR AS SOMBRAS (NÍVEL 2)</text>
+                        </navLabel>
+                        <content src="disciplinas/oblivio-tenebrosidade/nivel-2/conjurar-as-sombras-nivel-2.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-oblivio-tenebrosidade-nivel-2-bracos-de-ahriman-nivel-2" playOrder="103">
+                        <navLabel>
+                            <text>BRAÇOS DE AHRIMAN (NÍVEL 2)</text>
+                        </navLabel>
+                        <content src="disciplinas/oblivio-tenebrosidade/nivel-2/bracos-de-ahriman-nivel-2.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-oblivio-tenebrosidade-nivel-3" playOrder="104">
+                    <navLabel>
+                        <text>NÍVEL 3</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-oblivio-tenebrosidade-nivel-3-perspectiva-sombria-nivel-3"
+                        playOrder="105">
+                        <navLabel>
+                            <text>PERSPECTIVA SOMBRIA (NÍVEL 3)</text>
+                        </navLabel>
+                        <content src="disciplinas/oblivio-tenebrosidade/nivel-3/perspectiva-sombria-nivel-3.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-oblivio-tenebrosidade-nivel-3-toque-do-oblivio-nivel-3" playOrder="106">
+                        <navLabel>
+                            <text>TOQUE DO OBLÍVIO (NÍVEL 3)</text>
+                        </navLabel>
+                        <content src="disciplinas/oblivio-tenebrosidade/nivel-3/toque-do-oblivio-nivel-3.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-oblivio-tenebrosidade-nivel-4" playOrder="107">
+                    <navLabel>
+                        <text>NÍVEL 4</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-oblivio-tenebrosidade-nivel-4-a-mortalha-de-estigia-nivel-4"
+                        playOrder="108">
+                        <navLabel>
+                            <text>A MORTALHA DE ESTÍGIA (NÍVEL 4)</text>
+                        </navLabel>
+                        <content src="disciplinas/oblivio-tenebrosidade/nivel-4/a-mortalha-de-estigia-nivel-4.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-oblivio-tenebrosidade-nivel-5" playOrder="109">
+                    <navLabel>
+                        <text>NÍVEL 5</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-oblivio-tenebrosidade-nivel-5-passo-das-sombras-nivel-5" playOrder="110">
+                        <navLabel>
+                            <text>PASSO DAS SOMBRAS (NÍVEL 5)</text>
+                        </navLabel>
+                        <content src="disciplinas/oblivio-tenebrosidade/nivel-5/passo-das-sombras-nivel-5.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-oblivio-tenebrosidade-nivel-5-avatar-tenebroso-nivel-5" playOrder="111">
+                        <navLabel>
+                            <text>AVATAR TENEBROSO (NÍVEL 5)</text>
+                        </navLabel>
+                        <content src="disciplinas/oblivio-tenebrosidade/nivel-5/avatar-tenebroso-nivel-5.html" />
+                    </navPoint>
+                </navPoint>
+            </navPoint>
+            <navPoint id="disciplinas-ofuscacao" playOrder="112">
+                <navLabel>
+                    <text>OFUSCAÇÃO</text>
+                </navLabel>
+                <content src="disciplinas/ofuscacao/index.html" />
+                <navPoint id="disciplinas-ofuscacao-nivel-1" playOrder="113">
+                    <navLabel>
+                        <text>NÍVEL 1</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-ofuscacao-nivel-1-manto-da-sombras-nivel-1" playOrder="114">
+                        <navLabel>
+                            <text>MANTO DA SOMBRAS (NÍVEL 1)</text>
+                        </navLabel>
+                        <content src="disciplinas/ofuscacao/nivel-1/manto-da-sombras-nivel-1.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-ofuscacao-nivel-1-silencio-da-morte-nivel-1" playOrder="115">
+                        <navLabel>
+                            <text>SILÊNCIO DA MORTE (NÍVEL 1)</text>
+                        </navLabel>
+                        <content src="disciplinas/ofuscacao/nivel-1/silencio-da-morte-nivel-1.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-ofuscacao-nivel-2" playOrder="116">
+                    <navLabel>
+                        <text>NÍVEL 2</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-ofuscacao-nivel-2-passagem-nao-vista-nivel-2" playOrder="117">
+                        <navLabel>
+                            <text>PASSAGEM NÃO VISTA (NÍVEL 2)</text>
+                        </navLabel>
+                        <content src="disciplinas/ofuscacao/nivel-2/passagem-nao-vista-nivel-2.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-ofuscacao-nivel-3" playOrder="118">
+                    <navLabel>
+                        <text>NÍVEL 3</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-ofuscacao-nivel-3-fantasma-na-maquina-nivel-3" playOrder="119">
+                        <navLabel>
+                            <text>FANTASMA NA MÁQUINA (NÍVEL 3)</text>
+                        </navLabel>
+                        <content src="disciplinas/ofuscacao/nivel-3/fantasma-na-maquina-nivel-3.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-ofuscacao-nivel-3-mascara-das-mil-faces-nivel-3" playOrder="120">
+                        <navLabel>
+                            <text>MÁSCARA DAS MIL FACES (NÍVEL 3)</text>
+                        </navLabel>
+                        <content src="disciplinas/ofuscacao/nivel-3/mascara-das-mil-faces-nivel-3.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-ofuscacao-nivel-4" playOrder="121">
+                    <navLabel>
+                        <text>NÍVEL 4</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-ofuscacao-nivel-4-ocultamento-nivel-4" playOrder="122">
+                        <navLabel>
+                            <text>OCULTAMENTO (NÍVEL 4)</text>
+                        </navLabel>
+                        <content src="disciplinas/ofuscacao/nivel-4/ocultamento-nivel-4.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-ofuscacao-nivel-4-desaparecimento-nivel-4" playOrder="123">
+                        <navLabel>
+                            <text>DESAPARECIMENTO (NÍVEL 4)</text>
+                        </navLabel>
+                        <content src="disciplinas/ofuscacao/nivel-4/desaparecimento-nivel-4.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-ofuscacao-nivel-5" playOrder="124">
+                    <navLabel>
+                        <text>NÍVEL 5</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-ofuscacao-nivel-5-cobrindo-o-grupo-nivel-5" playOrder="125">
+                        <navLabel>
+                            <text>COBRINDO O GRUPO (NÍVEL 5)</text>
+                        </navLabel>
+                        <content src="disciplinas/ofuscacao/nivel-5/cobrindo-o-grupo-nivel-5.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-ofuscacao-nivel-5-disfarce-do-impostor-nivel-5" playOrder="126">
+                        <navLabel>
+                            <text>DISFARCE DO IMPOSTOR (NÍVEL 5)</text>
+                        </navLabel>
+                        <content src="disciplinas/ofuscacao/nivel-5/disfarce-do-impostor-nivel-5.html" />
+                    </navPoint>
+                </navPoint>
+            </navPoint>
+            <navPoint id="disciplinas-potencia" playOrder="127">
+                <navLabel>
+                    <text>POTÊNCIA</text>
+                </navLabel>
+                <content src="disciplinas/potencia/index.html" />
+                <navPoint id="disciplinas-potencia-nivel-1" playOrder="128">
+                    <navLabel>
+                        <text>NÍVEL 1</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-potencia-nivel-1-corpo-letal-nivel-1" playOrder="129">
+                        <navLabel>
+                            <text>CORPO LETAL (NÍVEL 1)</text>
+                        </navLabel>
+                        <content src="disciplinas/potencia/nivel-1/corpo-letal-nivel-1.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-potencia-nivel-1-salto-crescente-nivel-1" playOrder="130">
+                        <navLabel>
+                            <text>SALTO CRESCENTE (NÍVEL 1)</text>
+                        </navLabel>
+                        <content src="disciplinas/potencia/nivel-1/salto-crescente-nivel-1.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-potencia-nivel-2" playOrder="131">
+                    <navLabel>
+                        <text>NÍVEL 2</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-potencia-nivel-2-proeza-nivel-2" playOrder="132">
+                        <navLabel>
+                            <text>PROEZA (NÍVEL 2)</text>
+                        </navLabel>
+                        <content src="disciplinas/potencia/nivel-2/proeza-nivel-2.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-potencia-nivel-3" playOrder="133">
+                    <navLabel>
+                        <text>NÍVEL 3</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-potencia-nivel-3-alimentacao-brutal-nivel-3" playOrder="134">
+                        <navLabel>
+                            <text>ALIMENTAÇÃO BRUTAL (NÍVEL 3)</text>
+                        </navLabel>
+                        <content src="disciplinas/potencia/nivel-3/alimentacao-brutal-nivel-3.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-potencia-nivel-3-fagulha-de-furia-nivel-3" playOrder="135">
+                        <navLabel>
+                            <text>FAGULHA DE FÚRIA (NÍVEL 3)</text>
+                        </navLabel>
+                        <content src="disciplinas/potencia/nivel-3/fagulha-de-furia-nivel-3.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-potencia-nivel-3-pegada-sobrenatural-nivel-3" playOrder="136">
+                        <navLabel>
+                            <text>PEGADA SOBRENATURAL (NÍVEL 3)</text>
+                        </navLabel>
+                        <content src="disciplinas/potencia/nivel-3/pegada-sobrenatural-nivel-3.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-potencia-nivel-4" playOrder="137">
+                    <navLabel>
+                        <text>NÍVEL 4</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-potencia-nivel-4-formula-do-poder-nivel-4" playOrder="138">
+                        <navLabel>
+                            <text>FÓRMULA DO PODER (NÍVEL 4)</text>
+                        </navLabel>
+                        <content src="disciplinas/potencia/nivel-4/formula-do-poder-nivel-4.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-potencia-nivel-5" playOrder="139">
+                    <navLabel>
+                        <text>NÍVEL 5</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-potencia-nivel-5-choque-de-terra-nivel-5" playOrder="140">
+                        <navLabel>
+                            <text>CHOQUE DE TERRA (NÍVEL 5)</text>
+                        </navLabel>
+                        <content src="disciplinas/potencia/nivel-5/choque-de-terra-nivel-5.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-potencia-nivel-5-duracao:-um-uso,-por-cena." playOrder="141">
+                        <navLabel>
+                            <text>DURAÇÃO: UM USO, POR CENA.</text>
+                        </navLabel>
+                        <content src="disciplinas/potencia/nivel-5/duracao:-um-uso,-por-cena..html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-potencia-nivel-5-punhos-de-caim-nivel-5" playOrder="142">
+                        <navLabel>
+                            <text>PUNHOS DE CAIM (NÍVEL 5)</text>
+                        </navLabel>
+                        <content src="disciplinas/potencia/nivel-5/punhos-de-caim-nivel-5.html" />
+                    </navPoint>
+                </navPoint>
+            </navPoint>
+            <navPoint id="disciplinas-presenca" playOrder="143">
+                <navLabel>
+                    <text>PRESENÇA</text>
+                </navLabel>
+                <content src="disciplinas/presenca/index.html" />
+                <navPoint id="disciplinas-presenca-nivel-1" playOrder="144">
+                    <navLabel>
+                        <text>NÍVEL 1</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-presenca-nivel-1-fascinio-nivel-1" playOrder="145">
+                        <navLabel>
+                            <text>FASCÍNIO (NÍVEL 1)</text>
+                        </navLabel>
+                        <content src="disciplinas/presenca/nivel-1/fascinio-nivel-1.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-presenca-nivel-1-temor-nivel-1" playOrder="146">
+                        <navLabel>
+                            <text>TEMOR (NÍVEL 1)</text>
+                        </navLabel>
+                        <content src="disciplinas/presenca/nivel-1/temor-nivel-1.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-presenca-nivel-1-olhos-da-serpente-nivel-1" playOrder="147">
+                        <navLabel>
+                            <text>OLHOS DA SERPENTE (NÍVEL 1)</text>
+                        </navLabel>
+                        <content src="disciplinas/presenca/nivel-1/olhos-da-serpente-nivel-1.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-presenca-nivel-2" playOrder="148">
+                    <navLabel>
+                        <text>NÍVEL 2</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-presenca-nivel-2-beijo-prolongado-nivel-2" playOrder="149">
+                        <navLabel>
+                            <text>BEIJO PROLONGADO (NÍVEL 2)</text>
+                        </navLabel>
+                        <content src="disciplinas/presenca/nivel-2/beijo-prolongado-nivel-2.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-presenca-nivel-3" playOrder="150">
+                    <navLabel>
+                        <text>NÍVEL 3</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-presenca-nivel-3-olhar-aterrorizante-nivel-3" playOrder="151">
+                        <navLabel>
+                            <text>OLHAR ATERRORIZANTE (NÍVEL 3)</text>
+                        </navLabel>
+                        <content src="disciplinas/presenca/nivel-3/olhar-aterrorizante-nivel-3.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-presenca-nivel-3-transe-nivel-3" playOrder="152">
+                        <navLabel>
+                            <text>TRANSE (NÍVEL 3)</text>
+                        </navLabel>
+                        <content src="disciplinas/presenca/nivel-3/transe-nivel-3.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-presenca-nivel-4" playOrder="153">
+                    <navLabel>
+                        <text>NÍVEL 4</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-presenca-nivel-4-voz-irresistivel-nivel-4" playOrder="154">
+                        <navLabel>
+                            <text>VOZ IRRESISTÍVEL (NÍVEL 4)</text>
+                        </navLabel>
+                        <content src="disciplinas/presenca/nivel-4/voz-irresistivel-nivel-4.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-presenca-nivel-4-convocacao-nivel-4" playOrder="155">
+                        <navLabel>
+                            <text>CONVOCAÇÃO (NÍVEL 4)</text>
+                        </navLabel>
+                        <content src="disciplinas/presenca/nivel-4/convocacao-nivel-4.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-presenca-nivel-5" playOrder="156">
+                    <navLabel>
+                        <text>NÍVEL 5</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-presenca-nivel-5-majestade-nivel-5" playOrder="157">
+                        <navLabel>
+                            <text>MAJESTADE (NÍVEL 5)</text>
+                        </navLabel>
+                        <content src="disciplinas/presenca/nivel-5/majestade-nivel-5.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-presenca-nivel-5-magnetismo-estelar-nivel-5" playOrder="158">
+                        <navLabel>
+                            <text>MAGNETISMO ESTELAR (NÍVEL 5)</text>
+                        </navLabel>
+                        <content src="disciplinas/presenca/nivel-5/magnetismo-estelar-nivel-5.html" />
+                    </navPoint>
+                </navPoint>
+            </navPoint>
+            <navPoint id="disciplinas-feiticaria-de-sangue" playOrder="159">
+                <navLabel>
+                    <text>FEITIÇARIA DE SANGUE</text>
+                </navLabel>
+                <content src="disciplinas/feiticaria-de-sangue/index.html" />
+                <navPoint id="disciplinas-feiticaria-de-sangue-nivel-1" playOrder="160">
+                    <navLabel>
+                        <text>NÍVEL 1</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-feiticaria-de-sangue-nivel-1-vitae-corrosivo-nivel-1" playOrder="161">
+                        <navLabel>
+                            <text>VITAE CORROSIVO (NÍVEL 1)</text>
+                        </navLabel>
+                        <content src="disciplinas/feiticaria-de-sangue/nivel-1/vitae-corrosivo-nivel-1.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-feiticaria-de-sangue-nivel-1-um-gosto-por-sangue-nivel-1" playOrder="162">
+                        <navLabel>
+                            <text>UM GOSTO POR SANGUE (NÍVEL 1)</text>
+                        </navLabel>
+                        <content src="disciplinas/feiticaria-de-sangue/nivel-1/um-gosto-por-sangue-nivel-1.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-feiticaria-de-sangue-nivel-2" playOrder="163">
+                    <navLabel>
+                        <text>NÍVEL 2</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-feiticaria-de-sangue-nivel-2-extinguir-vitae-nivel-2" playOrder="164">
+                        <navLabel>
+                            <text>EXTINGUIR VITAE (NÍVEL 2)</text>
+                        </navLabel>
+                        <content src="disciplinas/feiticaria-de-sangue/nivel-2/extinguir-vitae-nivel-2.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-feiticaria-de-sangue-nivel-3" playOrder="165">
+                    <navLabel>
+                        <text>NÍVEL 3</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-feiticaria-de-sangue-nivel-3-potencializar-o-sangue-nivel-3"
+                        playOrder="166">
+                        <navLabel>
+                            <text>POTENCIALIZAR O SANGUE (NÍVEL 3)</text>
+                        </navLabel>
+                        <content src="disciplinas/feiticaria-de-sangue/nivel-3/potencializar-o-sangue-nivel-3.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-feiticaria-de-sangue-nivel-3-toque-do-escorpiao-nivel-3" playOrder="167">
+                        <navLabel>
+                            <text>TOQUE DO ESCORPIÃO (NÍVEL 3)</text>
+                        </navLabel>
+                        <content src="disciplinas/feiticaria-de-sangue/nivel-3/toque-do-escorpiao-nivel-3.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-feiticaria-de-sangue-nivel-4" playOrder="168">
+                    <navLabel>
+                        <text>NÍVEL 4</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-feiticaria-de-sangue-nivel-4-furto-de-vitae-nivel-4" playOrder="169">
+                        <navLabel>
+                            <text>FURTO DE VITAE (NÍVEL 4)</text>
+                        </navLabel>
+                        <content src="disciplinas/feiticaria-de-sangue/nivel-4/furto-de-vitae-nivel-4.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-feiticaria-de-sangue-nivel-5" playOrder="170">
+                    <navLabel>
+                        <text>NÍVEL 5</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-feiticaria-de-sangue-nivel-5-caricia-de-baal-nivel-5" playOrder="171">
+                        <navLabel>
+                            <text>CARÍCIA DE BAAL (NÍVEL 5)</text>
+                        </navLabel>
+                        <content src="disciplinas/feiticaria-de-sangue/nivel-5/caricia-de-baal-nivel-5.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-feiticaria-de-sangue-nivel-5-caldeirao-de-sangue-nivel-5" playOrder="172">
+                        <navLabel>
+                            <text>CALDEIRÃO DE SANGUE (NÍVEL 5)</text>
+                        </navLabel>
+                        <content src="disciplinas/feiticaria-de-sangue/nivel-5/caldeirao-de-sangue-nivel-5.html" />
+                    </navPoint>
+                </navPoint>
+            </navPoint>
+            <navPoint id="disciplinas-rituais-de-feiticaria-de-sangue-" playOrder="173">
+                <navLabel>
+                    <text>RITUAIS DE FEITIÇARIA DE SANGUE </text>
+                </navLabel>
+                <content src="disciplinas/rituais-de-feiticaria-de-sangue-/index.html" />
+                <navPoint id="disciplinas-rituais-de-feiticaria-de-sangue--protecao" playOrder="174">
+                    <navLabel>
+                        <text>PROTEÇÃO</text>
+                    </navLabel>
+                    <content src="disciplinas/rituais-de-feiticaria-de-sangue-/protecao.html" />
+                </navPoint>
+                <navPoint id="disciplinas-rituais-de-feiticaria-de-sangue--circulo-de-protecao" playOrder="175">
+                    <navLabel>
+                        <text>CÍRCULO DE PROTEÇÃO</text>
+                    </navLabel>
+                    <content src="disciplinas/rituais-de-feiticaria-de-sangue-/circulo-de-protecao.html" />
+                </navPoint>
+            </navPoint>
+            <navPoint id="disciplinas-alquimia-de-sangue-fraco" playOrder="176">
+                <navLabel>
+                    <text>ALQUIMIA DE SANGUE-FRACO</text>
+                </navLabel>
+                <content src="disciplinas/alquimia-de-sangue-fraco/index.html" />
+                <navPoint id="disciplinas-alquimia-de-sangue-fraco-nivel-1" playOrder="177">
+                    <navLabel>
+                        <text>NÍVEL 1</text>
+                    </navLabel>
+                    <navPoint id="disciplinas-alquimia-de-sangue-fraco-nivel-1-alcance-distante-nivel-1"
+                        playOrder="178">
+                        <navLabel>
+                            <text>ALCANCE DISTANTE (NÍVEL 1)</text>
+                        </navLabel>
+                        <content src="disciplinas/alquimia-de-sangue-fraco/nivel-1/alcance-distante-nivel-1.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-alquimia-de-sangue-fraco-nivel-1-nevoa-nivel-1" playOrder="179">
+                        <navLabel>
+                            <text>NÉVOA (NÍVEL 1)</text>
+                        </navLabel>
+                        <content src="disciplinas/alquimia-de-sangue-fraco/nivel-1/nevoa-nivel-1.html" />
+                    </navPoint>
+                    <navPoint id="disciplinas-alquimia-de-sangue-fraco-nivel-1-hieros-gamos-profano-nivel-1"
+                        playOrder="180">
+                        <navLabel>
+                            <text>HIEROS GAMOS PROFANO (NÍVEL 1)</text>
+                        </navLabel>
+                        <content src="disciplinas/alquimia-de-sangue-fraco/nivel-1/hieros-gamos-profano-nivel-1.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-alquimia-de-sangue-fraco-nivel-2" playOrder="181">
+                    <navLabel>
+                        <text>NÍVEL 2</text>
+                    </navLabel>
+                    <content src="disciplinas/alquimia-de-sangue-fraco/nivel-2/index.html" />
+                    <navPoint id="disciplinas-alquimia-de-sangue-fraco-nivel-2-envolver-nivel-2" playOrder="182">
+                        <navLabel>
+                            <text>ENVOLVER (NÍVEL 2)</text>
+                        </navLabel>
+                        <content src="disciplinas/alquimia-de-sangue-fraco/nivel-2/envolver-nivel-2.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-alquimia-de-sangue-fraco-nivel-3" playOrder="183">
+                    <navLabel>
+                        <text>NÍVEL 3</text>
+                    </navLabel>
+                    <content src="disciplinas/alquimia-de-sangue-fraco/nivel-3/index.html" />
+                    <navPoint id="disciplinas-alquimia-de-sangue-fraco-nivel-3-recompor-nivel-3" playOrder="184">
+                        <navLabel>
+                            <text>RECOMPOR (NÍVEL 3)</text>
+                        </navLabel>
+                        <content src="disciplinas/alquimia-de-sangue-fraco/nivel-3/recompor-nivel-3.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-alquimia-de-sangue-fraco-nivel-4" playOrder="185">
+                    <navLabel>
+                        <text>NÍVEL 4</text>
+                    </navLabel>
+                    <content src="disciplinas/alquimia-de-sangue-fraco/nivel-4/index.html" />
+                    <navPoint id="disciplinas-alquimia-de-sangue-fraco-nivel-4-impulso-aereo-nivel-4" playOrder="186">
+                        <navLabel>
+                            <text>IMPULSO AÉREO (NÍVEL 4)</text>
+                        </navLabel>
+                        <content src="disciplinas/alquimia-de-sangue-fraco/nivel-4/impulso-aereo-nivel-4.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="disciplinas-alquimia-de-sangue-fraco-nivel-5" playOrder="187">
+                    <navLabel>
+                        <text>NÍVEL 5</text>
+                    </navLabel>
+                    <content src="disciplinas/alquimia-de-sangue-fraco/nivel-5/index.html" />
+                    <navPoint id="disciplinas-alquimia-de-sangue-fraco-nivel-5-despertar-o-adormecido-nivel-5"
+                        playOrder="188">
+                        <navLabel>
+                            <text>DESPERTAR O ADORMECIDO (NÍVEL 5)</text>
+                        </navLabel>
+                        <content
+                            src="disciplinas/alquimia-de-sangue-fraco/nivel-5/despertar-o-adormecido-nivel-5.html" />
+                    </navPoint>
+                </navPoint>
+            </navPoint>
+        </navPoint>
+    </navMap>
 </ncx>

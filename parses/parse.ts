@@ -24,9 +24,8 @@ function folderBack(amount: number): string {
     return result;
 }
 
-let index = parseInt(Deno.args[0]);
-const group = Deno.args[1];
-const html = await Deno.readTextFile(Deno.args[2]);
+const group = Deno.args[0];
+const html = await Deno.readTextFile(Deno.args[1]);
 
 const doc = new DOMParser().parseFromString(html, "text/html")!;
 
@@ -112,7 +111,7 @@ function treat(parentName: string): (item: Item) => void {
         let id = `${parentName.replaceAll('/', '-')}-${name}`;
         let location = `${parentName}/${name}${hasChildrens ? "/index" : ""}.html`;
 
-        toc += `<navPoint id="${id}" playOrder="${index++}">
+        toc += `<navPoint id="${id}">
                     <navLabel>
                         <text>${label}</text>
                     </navLabel>`;
@@ -120,14 +119,14 @@ function treat(parentName: string): (item: Item) => void {
         if (item.content != "") {
             opf += `<item id="${id}" href="${location}" media-type="application/xhtml+xml" />\n`; 
             spine += `<itemref idref="${id}" linear="yes" />\n`;
-            toc += `<content src="${location}"/>`;
         }   
             
-        toc += `\n`;
+        toc += `<content src="${item.content != "" ? location : ""}"/>\n`;
 
         if (hasChildrens) {
             item.childrens.forEach(treat(`${parentName}/${name}`));
         }
+
         toc += "</navPoint>\n";
         if (item.content != "") {
             ensureFileSync(location);

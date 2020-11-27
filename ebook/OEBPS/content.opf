@@ -197,8 +197,6 @@
          href="disciplinas/potencia/nivel-4/formula-do-poder-nivel-4.html" media-type="application/xhtml+xml" />
       <item id="disciplinas-potencia-nivel-5-choque-de-terra-nivel-5"
          href="disciplinas/potencia/nivel-5/choque-de-terra-nivel-5.html" media-type="application/xhtml+xml" />
-      <item id="disciplinas-potencia-nivel-5-duracao:-um-uso,-por-cena."
-         href="disciplinas/potencia/nivel-5/duracao:-um-uso,-por-cena..html" media-type="application/xhtml+xml" />
       <item id="disciplinas-potencia-nivel-5-punhos-de-caim-nivel-5"
          href="disciplinas/potencia/nivel-5/punhos-de-caim-nivel-5.html" media-type="application/xhtml+xml" />
       <item id="disciplinas-presenca" href="disciplinas/presenca/index.html" media-type="application/xhtml+xml" />
@@ -292,7 +290,6 @@
    </manifest>
    <spine toc="idtoc">
       <itemref idref="index" linear="yes" />
-      <itemref idref="disciplinas.index" linear="yes" />
       <itemref idref="disciplinas-regras-gerais-aprendendo-disciplinas" linear="yes" />
       <itemref idref="disciplinas-regras-gerais-escolhendo-poderes" linear="yes" />
       <itemref idref="disciplinas-regras-gerais-usando-poderes" linear="yes" />
@@ -385,7 +382,6 @@
       <itemref idref="disciplinas-potencia-nivel-3-pegada-sobrenatural-nivel-3" linear="yes" />
       <itemref idref="disciplinas-potencia-nivel-4-formula-do-poder-nivel-4" linear="yes" />
       <itemref idref="disciplinas-potencia-nivel-5-choque-de-terra-nivel-5" linear="yes" />
-      <itemref idref="disciplinas-potencia-nivel-5-duracao:-um-uso,-por-cena." linear="yes" />
       <itemref idref="disciplinas-potencia-nivel-5-punhos-de-caim-nivel-5" linear="yes" />
       <itemref idref="disciplinas-presenca" linear="yes" />
       <itemref idref="disciplinas-presenca-nivel-1-fascinio-nivel-1" linear="yes" />

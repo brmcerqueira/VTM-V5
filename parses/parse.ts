@@ -100,6 +100,8 @@ for (const p of doc.querySelectorAll("*")) {
 
 let opf = "";
 
+let spine = "";
+
 let toc = "";
 
 function treat(parentName: string): (item: Item) => void {
@@ -109,17 +111,17 @@ function treat(parentName: string): (item: Item) => void {
         let name = removeAccents(item.name).toLowerCase().replaceAll(/\s+/g, '-').replaceAll('(', '').replaceAll(')', '');
         let id = `${parentName.replaceAll('/', '-')}-${name}`;
         let location = `${parentName}/${name}${hasChildrens ? "/index" : ""}.html`;
-        if (item.content != "") {
-            opf += `<item id="${id}" href="${location}" media-type="application/xhtml+xml" />\n`; 
-        }   
+
         toc += `<navPoint id="${id}" playOrder="${index++}">
                     <navLabel>
                         <text>${label}</text>
                     </navLabel>`;
 
         if (item.content != "") {
+            opf += `<item id="${id}" href="${location}" media-type="application/xhtml+xml" />\n`; 
+            spine += `<itemref idref="${id}" linear="yes" />\n`;
             toc += `<content src="${location}"/>`;
-        }
+        }   
             
         toc += `\n`;
 
@@ -134,10 +136,8 @@ function treat(parentName: string): (item: Item) => void {
                 <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
                 <title>${label}</title>
                 <link href="${folderBack(item.depth + (hasChildrens ? 1 : 0))}style.css" rel="stylesheet" type="text/css" />
-            </head>
-            
-            <body>${item.content}</body>
-            
+            </head>  
+            <body><h2>${label}</h2>${item.content}</body>     
             </html>`); 
         }
     };
@@ -146,5 +146,7 @@ function treat(parentName: string): (item: Item) => void {
 root.forEach(treat(group));
 
 Deno.writeTextFileSync(`_${group}-opf.xhtml`, opf); 
+
+Deno.writeTextFileSync(`_${group}-spine.xhtml`, spine); 
 
 Deno.writeTextFileSync(`_${group}-toc.xhtml`, toc); 

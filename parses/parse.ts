@@ -1,4 +1,5 @@
 import { DOMParser, Element } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
+import { ensureFileSync } from "https://deno.land/std@/fs/mod.ts";
 
 function removeAccents(text: string): string {
     const accents =
@@ -107,6 +108,8 @@ function treat(parentName?: string): (item: Item) => void {
             item.childrens.forEach(treat(name));
         }
         toc += "</navPoint>\n";
+        ensureFileSync(location);
+        Deno.writeTextFileSync(location, item.content);
     };
 }
 

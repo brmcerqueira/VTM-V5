@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "importsNotUsedAsValues": "preserve",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "plugins": [
+      {
+        "name": "typescript-deno-plugin",
+        "enable": true
+      }
+    ]
+  }
+}

@@ -1,6 +1,20 @@
 import { DOMParser, Element } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
 
-const html = await Deno.readTextFile(Deno.args[0]);
+function removeAccents(text: string): string {
+    const accents =
+      "ÀÁÂÃÄÅàáâãäåßÒÓÔÕÕÖØòóôõöøÈÉÊËèéêëðÇçÐÌÍÎÏìíîïÙÚÛÜùúûüÑñŠšŸÿýŽž";
+    const accentsOut =
+      "AAAAAAaaaaaaBOOOOOOOooooooEEEEeeeeeCcDIIIIiiiiUUUUuuuuNnSsYyyZz";
+    return text.split("")
+      .map((letter, index) => {
+        const accentIndex = accents.indexOf(letter);
+        return accentIndex !== -1 ? accentsOut[accentIndex] : letter;
+      })
+      .join("");
+  }
+
+const group = Deno.args[0];
+const html = await Deno.readTextFile(Deno.args[1]);
 
 const doc = new DOMParser().parseFromString(html, "text/html")!;
 
@@ -72,4 +86,19 @@ for (const p of doc.querySelectorAll("*")) {
     }
 }
 
-console.log(root[1]);
+let opf = "";
+
+function itemOpf(parentName?: string): (item: Item) => void {
+    return (item: Item) => {
+        let hasChildrens = item.childrens.length > 0;
+        let name = removeAccents(item.name).toLowerCase().replaceAll(/\s+/g, '-');
+        opf += `<item id="${group}${parentName ? `-${parentName}` : ""}-${name}" href="${group}${parentName ? `/${parentName}` : ""}/${name}.html" media-type="application/xhtml+xml" />\n`;
+        if (hasChildrens) {
+            item.childrens.forEach(itemOpf(name));
+        }
+    };
+}
+
+root.forEach(itemOpf());
+
+console.log(opf);

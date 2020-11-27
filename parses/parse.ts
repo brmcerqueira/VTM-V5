@@ -92,12 +92,12 @@ let opf = "";
 
 let toc = "";
 
-function treat(parentName?: string): (item: Item) => void {
+function treat(parentName: string): (item: Item) => void {
     return (item: Item) => {
         let hasChildrens = item.childrens.length > 0;
-        let name = removeAccents(item.name).toLowerCase().replaceAll(/\s+/g, '-');
-        let id = `${group}${parentName ? `-${parentName}` : ""}-${name}`;
-        let location = `${group}${parentName ? `/${parentName}` : ""}/${name}.html`;
+        let name = removeAccents(item.name).toLowerCase().replaceAll(/\s+/g, '-').replaceAll('(', '').replaceAll(')', '');
+        let id = `${parentName.replaceAll('/', '-')}-${name}`;
+        let location = `${parentName}/${name}.html`;
         opf += `<item id="${id}" href="${location}" media-type="application/xhtml+xml" />\n`;
         toc += `<navPoint id="${id}" playOrder="${index++}">
                     <navLabel>
@@ -105,7 +105,7 @@ function treat(parentName?: string): (item: Item) => void {
                     </navLabel>
                     <content src="${location}"/>\n`;
         if (hasChildrens) {
-            item.childrens.forEach(treat(name));
+            item.childrens.forEach(treat(`${parentName}/${name}`));
         }
         toc += "</navPoint>\n";
         ensureFileSync(location);
@@ -113,7 +113,7 @@ function treat(parentName?: string): (item: Item) => void {
     };
 }
 
-root.forEach(treat());
+root.forEach(treat(group));
 
 console.log(opf);
 

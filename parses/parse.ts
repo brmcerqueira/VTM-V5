@@ -13,8 +13,9 @@ function removeAccents(text: string): string {
       .join("");
   }
 
-const group = Deno.args[0];
-const html = await Deno.readTextFile(Deno.args[1]);
+let index = parseInt(Deno.args[0]);
+const group = Deno.args[1];
+const html = await Deno.readTextFile(Deno.args[2]);
 
 const doc = new DOMParser().parseFromString(html, "text/html")!;
 
@@ -88,17 +89,29 @@ for (const p of doc.querySelectorAll("*")) {
 
 let opf = "";
 
-function itemOpf(parentName?: string): (item: Item) => void {
+let toc = "";
+
+function treat(parentName?: string): (item: Item) => void {
     return (item: Item) => {
         let hasChildrens = item.childrens.length > 0;
         let name = removeAccents(item.name).toLowerCase().replaceAll(/\s+/g, '-');
-        opf += `<item id="${group}${parentName ? `-${parentName}` : ""}-${name}" href="${group}${parentName ? `/${parentName}` : ""}/${name}.html" media-type="application/xhtml+xml" />\n`;
+        let id = `${group}${parentName ? `-${parentName}` : ""}-${name}`;
+        let location = `${group}${parentName ? `/${parentName}` : ""}/${name}.html`;
+        opf += `<item id="${id}" href="${location}" media-type="application/xhtml+xml" />\n`;
+        toc += `<navPoint id="${id}" playOrder="${index++}">
+                    <navLabel>
+                        <text>${item.name.replaceAll(/\s+/g, ' ').toUpperCase()}</text>
+                    </navLabel>
+                    <content src="${location}"/>\n`;
         if (hasChildrens) {
-            item.childrens.forEach(itemOpf(name));
+            item.childrens.forEach(treat(name));
         }
+        toc += "</navPoint>\n";
     };
 }
 
-root.forEach(itemOpf());
+root.forEach(treat());
 
 console.log(opf);
+
+console.log(toc);

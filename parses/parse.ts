@@ -121,7 +121,7 @@ function treat(parentName: string): (item: Item) => void {
             spine += `<itemref idref="${id}" linear="yes" />\n`;
         }   
             
-        toc += `<content src="${item.content != "" ? location : ""}"/>\n`;
+        toc += `<content src="${item.content != "" ? location : "none.html"}"/>\n`;
 
         if (hasChildrens) {
             item.childrens.forEach(treat(`${parentName}/${name}`));

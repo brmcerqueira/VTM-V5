@@ -9,6 +9,7 @@
    <manifest>
       <!-- Documentos -->
       <item id="index" href="index.html" media-type="application/xhtml+xml" />
+      <item id="none" href="none.html" media-type="application/xhtml+xml" />
       <item id="disciplinas-regras-gerais-aprendendo-disciplinas"
          href="disciplinas/regras-gerais/aprendendo-disciplinas.html" media-type="application/xhtml+xml" />
       <item id="disciplinas-regras-gerais-escolhendo-poderes" href="disciplinas/regras-gerais/escolhendo-poderes.html"
@@ -290,6 +291,7 @@
    </manifest>
    <spine toc="idtoc">
       <itemref idref="index" linear="yes" />
+      <itemref idref="none" linear="yes" />
       <itemref idref="disciplinas-regras-gerais-aprendendo-disciplinas" linear="yes" />
       <itemref idref="disciplinas-regras-gerais-escolhendo-poderes" linear="yes" />
       <itemref idref="disciplinas-regras-gerais-usando-poderes" linear="yes" />

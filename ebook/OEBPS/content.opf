@@ -9,6 +9,11 @@
    <manifest>
       <!-- Documentos -->
       <item id="index" href="index.html" media-type="application/xhtml+xml" />
+
+      <item id="clas-visao-geral" href="clas/visao-geral.html" media-type="application/xhtml+xml" />
+      <item id="clas-os-13-clas-maiores" href="clas/os-13-clas-maiores/index.html" media-type="application/xhtml+xml" />
+      <item id="clas-os-13-clas-maiores-os-sem-cla-e-autarquias" href="clas/os-13-clas-maiores/os-sem-cla-e-autarquias.html" media-type="application/xhtml+xml" />
+
       <item id="disciplinas-regras-gerais-aprendendo-disciplinas"
          href="disciplinas/regras-gerais/aprendendo-disciplinas.html" media-type="application/xhtml+xml" />
       <item id="disciplinas-regras-gerais-escolhendo-poderes" href="disciplinas/regras-gerais/escolhendo-poderes.html"
@@ -290,6 +295,9 @@
    </manifest>
    <spine toc="idtoc">
       <itemref idref="index" linear="yes" />
+      <itemref idref="clas-visao-geral" linear="yes" />
+      <itemref idref="clas-os-13-clas-maiores" linear="yes" />
+      <itemref idref="clas-os-13-clas-maiores-os-sem-cla-e-autarquias" linear="yes" />
       <itemref idref="disciplinas-regras-gerais-aprendendo-disciplinas" linear="yes" />
       <itemref idref="disciplinas-regras-gerais-escolhendo-poderes" linear="yes" />
       <itemref idref="disciplinas-regras-gerais-usando-poderes" linear="yes" />

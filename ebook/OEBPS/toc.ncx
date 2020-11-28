@@ -21,6 +21,36 @@
             </navLabel>
             <content src="index.html" />
         </navPoint>
+        <navPoint id="clas">
+            <navLabel>
+                <text>CLÃS</text>
+            </navLabel>
+            <content src="clas/visao-geral.html" />
+            <navPoint id="clas-visao-geral">
+                <navLabel>
+                    <text>VISÃO GERAL</text>
+                </navLabel>
+                <content src="clas/visao-geral.html" />
+            </navPoint>
+            <navPoint id="clas-os-13-clas-maiores">
+                <navLabel>
+                    <text>OS 13 CLÃS MAIORES</text>
+                </navLabel>
+                <content src="clas/os-13-clas-maiores/index.html" />
+                <navPoint id="clas-os-13-clas-maiores-os-sem-cla-e-autarquias">
+                    <navLabel>
+                        <text>OS SEM CLÃ E AUTARQUIAS</text>
+                    </navLabel>
+                    <content src="clas/os-13-clas-maiores/os-sem-cla-e-autarquias.html" />
+                </navPoint>
+            </navPoint>
+            <navPoint id="clas-referencias">
+                <navLabel>
+                    <text>REFERÊNCIAS</text>
+                </navLabel>
+                <content src="clas/referencias" />
+            </navPoint>                        
+        </navPoint>
         <navPoint id="disciplinas">
             <navLabel>
                 <text>DISCIPLINAS</text>

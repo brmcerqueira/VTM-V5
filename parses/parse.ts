@@ -62,7 +62,12 @@ for (const p of doc.querySelectorAll("*")) {
         const name = p.textContent.replaceAll(/\s+/g, ' ').toUpperCase(); 
         const item: Item = {
             name: name,
-            id: removeAccents(name).toLowerCase().replaceAll(/\s+/g, '-').replaceAll('(', '').replaceAll(')', ''),
+            id: removeAccents(name).toLowerCase().replaceAll(/\s+/g, '-')
+            .replaceAll('(', '')
+            .replaceAll(')', '')
+            .replaceAll('?', '')
+            .replaceAll(':', '')
+            .replaceAll(';', ''),
             content: "",
             depth: depth,
             childrens: []

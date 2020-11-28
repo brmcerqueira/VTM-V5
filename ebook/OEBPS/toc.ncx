@@ -187,11 +187,11 @@
                     </navLabel>
                     <content src="clas/brujah/arquetipos-brujah.html" />
                 </navPoint>
-                <navPoint id="clas-brujah-disciplinas:">
+                <navPoint id="clas-brujah-disciplinas">
                     <navLabel>
-                        <text>DISCIPLINAS:</text>
+                        <text>disciplinas</text>
                     </navLabel>
-                    <content src="clas/brujah/disciplinas:.html" />
+                    <content src="clas/brujah/disciplinas.html" />
                 </navPoint>
                 <navPoint id="clas-brujah-maldicao-e-fraqueza-de-cla-">
                     <navLabel>
@@ -211,11 +211,11 @@
                     </navLabel>
                     <content src="clas/gangrel/quem-sao-os-gangrel.html" />
                 </navPoint>
-                <navPoint id="clas-gangrel-os-gangrel-na-sociedade-dos-vampiros:">
+                <navPoint id="clas-gangrel-os-gangrel-na-sociedade-dos-vampiros">
                     <navLabel>
-                        <text>OS GANGREL NA SOCIEDADE DOS VAMPIROS:</text>
+                        <text>OS GANGREL NA SOCIEDADE DOS vampiros</text>
                     </navLabel>
-                    <content src="clas/gangrel/os-gangrel-na-sociedade-dos-vampiros:.html" />
+                    <content src="clas/gangrel/os-gangrel-na-sociedade-dos-vampiros.html" />
                 </navPoint>
                 <navPoint id="clas-gangrel-arquetipos-gangrel">
                     <navLabel>
@@ -223,11 +223,11 @@
                     </navLabel>
                     <content src="clas/gangrel/arquetipos-gangrel.html" />
                 </navPoint>
-                <navPoint id="clas-gangrel-disciplinas:">
+                <navPoint id="clas-gangrel-disciplinas">
                     <navLabel>
-                        <text>DISCIPLINAS:</text>
+                        <text>disciplinas</text>
                     </navLabel>
-                    <content src="clas/gangrel/disciplinas:.html" />
+                    <content src="clas/gangrel/disciplinas.html" />
                 </navPoint>
                 <navPoint id="clas-gangrel-maldicao-e-fraqueza-de-cla">
                     <navLabel>

@@ -93,10 +93,8 @@ for (const p of doc.querySelectorAll("*")) {
 
         current = item;
     }
-    else if (p.nodeName == "P") {
-        if (current) {
-            current.content += (<Element>p).outerHTML.replaceAll('<br>', '').replaceAll('<br/>', '').replaceAll('<br />', '');
-        }
+    else if (current) {
+        current.content += (<Element>p).outerHTML.replaceAll('<br>', '').replaceAll('<br/>', '').replaceAll('<br />', '');
     }
 }
 

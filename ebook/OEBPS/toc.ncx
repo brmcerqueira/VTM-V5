@@ -44,11 +44,131 @@
                     <content src="clas/os-13-clas-maiores/os-sem-cla-e-autarquias.html" />
                 </navPoint>
             </navPoint>
-            <navPoint id="clas-referencias">
+            <navPoint id="clas-banu-haqim">
                 <navLabel>
-                    <text>REFERÊNCIAS</text>
+                    <text>BANU HAQIM (ASSAMITAS)</text>
                 </navLabel>
-                <content src="clas/referencias" />
+                <content src="clas/banu-haqim/perfil-resumido.html" />
+                <navPoint id="clas-banu-haqim-perfil-resumido">
+                    <navLabel>
+                        <text>PERFIL RESUMIDO</text>
+                    </navLabel>
+                    <content src="clas/banu-haqim/perfil-resumido.html" />
+                </navPoint>
+                <navPoint id="clas-banu-haqim-visao-geral">
+                    <navLabel>
+                        <text>VISÃO GERAL</text>
+                    </navLabel>
+                    <content src="clas/banu-haqim/visao-geral.html" />
+                </navPoint>
+                <navPoint id="clas-banu-haqim-historia">
+                    <navLabel>
+                        <text>HISTORIA</text>
+                    </navLabel>
+                    <content src="clas/banu-haqim/historia/index.html" />
+                    <navPoint id="clas-banu-haqim-historia-antiguidade">
+                        <navLabel>
+                            <text>ANTIGUIDADE</text>
+                        </navLabel>
+                        <content src="clas/banu-haqim/historia/antiguidade.html" />
+                    </navPoint>
+                    <navPoint id="clas-banu-haqim-historia-idade-das-trevas">
+                        <navLabel>
+                            <text>IDADE DAS TREVAS</text>
+                        </navLabel>
+                        <content src="clas/banu-haqim/historia/idade-das-trevas.html" />
+                    </navPoint>
+                    <navPoint id="clas-banu-haqim-historia-era-vitoriana">
+                        <navLabel>
+                            <text>ERA VITORIANA</text>
+                        </navLabel>
+                        <content src="clas/banu-haqim/historia/era-vitoriana.html" />
+                    </navPoint>
+                    <navPoint id="clas-banu-haqim-historia-noites-modernas">
+                        <navLabel>
+                            <text>NOITES MODERNAS</text>
+                        </navLabel>
+                        <content src="clas/banu-haqim/historia/noites-modernas.html" />
+                    </navPoint>
+                    <navPoint id="clas-banu-haqim-historia-o-cisma-dos-assamitas-">
+                        <navLabel>
+                            <text>O CISMA DOS ASSAMITAS </text>
+                        </navLabel>
+                        <content src="clas/banu-haqim/historia/o-cisma-dos-assamitas-.html" />
+                    </navPoint>
+                    <navPoint id="clas-banu-haqim-historia-linha-do-tempo-no-v5">
+                        <navLabel>
+                            <text>LINHA DO TEMPO NO V5</text>
+                        </navLabel>
+                        <content src="clas/banu-haqim/historia/linha-do-tempo-no-v5.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="clas-banu-haqim-organizacao">
+                    <navLabel>
+                        <text>ORGANIZAÇÃO</text>
+                    </navLabel>
+                    <content src="clas/banu-haqim/organizacao.html" />
+                </navPoint>
+                <navPoint id="clas-banu-haqim-variantes-do-cla">
+                    <navLabel>
+                        <text>VARIANTES DO CLÃ</text>
+                    </navLabel>
+                    <content src="clas/banu-haqim/variantes-do-cla/index.html" />
+                    <navPoint id="clas-banu-haqim-variantes-do-cla-a-casta-dos-feiticeiros-">
+                        <navLabel>
+                            <text>A CASTA DOS FEITICEIROS </text>
+                        </navLabel>
+                        <content src="clas/banu-haqim/variantes-do-cla/a-casta-dos-feiticeiros-.html" />
+                    </navPoint>
+                    <navPoint id="clas-banu-haqim-variantes-do-cla-a-casta-dos-vizires">
+                        <navLabel>
+                            <text>A CASTA DOS VIZIRES</text>
+                        </navLabel>
+                        <content src="clas/banu-haqim/variantes-do-cla/a-casta-dos-vizires.html" />
+                    </navPoint>
+                    <navPoint id="clas-banu-haqim-variantes-do-cla-assamitas-antitribu">
+                        <navLabel>
+                            <text>ASSAMITAS ANTITRIBU</text>
+                        </navLabel>
+                        <content src="clas/banu-haqim/variantes-do-cla/assamitas-antitribu.html" />
+                    </navPoint>
+                    <navPoint id="clas-banu-haqim-variantes-do-cla-banu-haqim">
+                        <navLabel>
+                            <text>BANU HAQIM</text>
+                        </navLabel>
+                        <content src="clas/banu-haqim/variantes-do-cla/banu-haqim.html" />
+                    </navPoint>
+                    <navPoint id="clas-banu-haqim-variantes-do-cla-beduinos">
+                        <navLabel>
+                            <text>BEDUÍNOS</text>
+                        </navLabel>
+                        <content src="clas/banu-haqim/variantes-do-cla/beduinos.html" />
+                    </navPoint>
+                    <navPoint id="clas-banu-haqim-variantes-do-cla-cortesaos">
+                        <navLabel>
+                            <text>CORTESÃOS</text>
+                        </navLabel>
+                        <content src="clas/banu-haqim/variantes-do-cla/cortesaos.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="clas-banu-haqim-cultura-interna">
+                    <navLabel>
+                        <text>CULTURA INTERNA</text>
+                    </navLabel>
+                    <content src="clas/banu-haqim/cultura-interna/index.html" />
+                    <navPoint id="clas-banu-haqim-cultura-interna-abraco-">
+                        <navLabel>
+                            <text>ABRAÇO </text>
+                        </navLabel>
+                        <content src="clas/banu-haqim/cultura-interna/abraco-.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="clas-banu-haqim-diferencas-entre-as-versoes">
+                    <navLabel>
+                        <text>DIFERENÇAS ENTRE AS VERSÕES</text>
+                    </navLabel>
+                    <content src="clas/banu-haqim/diferencas-entre-as-versoes.html" />
+                </navPoint>
             </navPoint>                        
         </navPoint>
         <navPoint id="disciplinas">

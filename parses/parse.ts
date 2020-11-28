@@ -157,8 +157,10 @@ function treat(parentName: string, depth: number): (item: Item) => void {
 
 root.forEach(treat(group, 1));
 
-Deno.writeTextFileSync(`_${group}-opf.xhtml`, opf); 
+const groupFile = group.replaceAll('/','-');
 
-Deno.writeTextFileSync(`_${group}-spine.xhtml`, spine); 
+Deno.writeTextFileSync(`_${groupFile}-opf.xhtml`, opf); 
 
-Deno.writeTextFileSync(`_${group}-ncx.xhtml`, toc); 
+Deno.writeTextFileSync(`_${groupFile}-spine.xhtml`, spine); 
+
+Deno.writeTextFileSync(`_${groupFile}-ncx.xhtml`, toc); 

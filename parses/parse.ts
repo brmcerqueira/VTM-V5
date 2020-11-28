@@ -31,6 +31,7 @@ const doc = new DOMParser().parseFromString(html, "text/html")!;
 
 type Item = {
     name: string,
+    id: string,
     content: string,
     depth: number,
     childrens: Item[]
@@ -57,9 +58,11 @@ for (const p of doc.querySelectorAll("*")) {
             break;
     }
 
-    if (depth > 0) {  
-        let item: Item = {
-            name: p.textContent.toUpperCase(),
+    if (depth > 0) { 
+        const name = p.textContent.replaceAll(/\s+/g, ' ').toUpperCase(); 
+        const item: Item = {
+            name: name,
+            id: removeAccents(name).toLowerCase().replaceAll(/\s+/g, '-').replaceAll('(', '').replaceAll(')', ''),
             content: "",
             depth: depth,
             childrens: []
@@ -103,49 +106,61 @@ let spine = "";
 
 let toc = "";
 
-function treat(parentName: string): (item: Item) => void {
+function bestSrc(item: Item): string {
+    let result = item.id;
+
+    if (item.content == "" && item.childrens.length > 0) {
+        result += `/${bestSrc(item.childrens[0])}`;
+    }
+    else if (item.content != "") {
+        result += `${item.childrens.length > 0 ? "/index" : ""}.html`;
+    } 
+
+    return result;
+}
+
+function treat(parentName: string, depth: number): (item: Item) => void {
     return (item: Item) => {
         let hasChildrens = item.childrens.length > 0;
-        let label = item.name.replaceAll(/\s+/g, ' ').toUpperCase();
-        let name = removeAccents(item.name).toLowerCase().replaceAll(/\s+/g, '-').replaceAll('(', '').replaceAll(')', '');
-        let id = `${parentName.replaceAll('/', '-')}-${name}`;
-        let location = `${parentName}/${name}${hasChildrens ? "/index" : ""}.html`;
+
+        let id = `${parentName.replaceAll('/', '-')}-${item.id}`;
+        let location = `${parentName}/${item.id}${hasChildrens ? "/index" : ""}.html`;
 
         toc += `<navPoint id="${id}">
                     <navLabel>
-                        <text>${label}</text>
+                        <text>${item.name}</text>
                     </navLabel>`;
 
         if (item.content != "") {
             opf += `<item id="${id}" href="${location}" media-type="application/xhtml+xml" />\n`; 
             spine += `<itemref idref="${id}" linear="yes" />\n`;
-        }   
-            
-        toc += `<content src="${item.content != "" ? location : "none.html"}"/>\n`;
-
-        if (hasChildrens) {
-            item.childrens.forEach(treat(`${parentName}/${name}`));
-        }
-
-        toc += "</navPoint>\n";
-        if (item.content != "") {
+            toc += `<content src="${location}"/>\n`;
             ensureFileSync(location);
             Deno.writeTextFileSync(location, `<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pt">
             <head>
                 <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
-                <title>${label}</title>
-                <link href="${folderBack(item.depth + (hasChildrens ? 1 : 0))}style.css" rel="stylesheet" type="text/css" />
+                <title>${item.name}</title>
+                <link href="${folderBack(depth + (hasChildrens ? 1 : 0))}style.css" rel="stylesheet" type="text/css" />
             </head>  
-            <body><h2>${label}</h2>${item.content}</body>     
+            <body><h2>${item.name}</h2>${item.content}</body>     
             </html>`); 
         }
+        else {
+            toc += `<content src="${parentName}/${bestSrc(item)}"/>\n`;
+        }   
+            
+        if (hasChildrens) {
+            item.childrens.forEach(treat(`${parentName}/${item.id}`, depth + 1));
+        }
+
+        toc += "</navPoint>\n";
     };
 }
 
-root.forEach(treat(group));
+root.forEach(treat(group, 1));
 
 Deno.writeTextFileSync(`_${group}-opf.xhtml`, opf); 
 
 Deno.writeTextFileSync(`_${group}-spine.xhtml`, spine); 
 
-Deno.writeTextFileSync(`_${group}-toc.xhtml`, toc); 
+Deno.writeTextFileSync(`_${group}-ncx.xhtml`, toc); 

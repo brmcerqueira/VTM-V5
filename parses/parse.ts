@@ -93,7 +93,7 @@ for (const p of doc.querySelectorAll("*")) {
 
         current = item;
     }
-    else if (current) {
+    else if (current && (p.nodeName == "P" || p.nodeName == "UL")) {
         current.content += (<Element>p).outerHTML.replaceAll('<br>', '').replaceAll('<br/>', '').replaceAll('<br />', '');
     }
 }

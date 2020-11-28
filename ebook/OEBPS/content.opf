@@ -35,23 +35,11 @@
       <item id="clas-banu-haqim-cultura-interna-abraco-" href="clas/banu-haqim/cultura-interna/abraco-.html" media-type="application/xhtml+xml" />
       <item id="clas-banu-haqim-diferencas-entre-as-versoes" href="clas/banu-haqim/diferencas-entre-as-versoes.html" media-type="application/xhtml+xml" />
 
-      <item id="clas-brujah-perfil-resumido" href="clas/brujah/perfil-resumido.html" media-type="application/xhtml+xml" />
-      <item id="clas-brujah-visao-geral" href="clas/brujah/visao-geral.html" media-type="application/xhtml+xml" />
-      <item id="clas-brujah-historia-antiguidade" href="clas/brujah/historia/antiguidade.html" media-type="application/xhtml+xml" />
-      <item id="clas-brujah-historia-idade-das-trevas" href="clas/brujah/historia/idade-das-trevas.html" media-type="application/xhtml+xml" />
-      <item id="clas-brujah-historia-era-vitoriana" href="clas/brujah/historia/era-vitoriana.html" media-type="application/xhtml+xml" />
-      <item id="clas-brujah-historia-noites-finais" href="clas/brujah/historia/noites-finais.html" media-type="application/xhtml+xml" />
-      <item id="clas-brujah-historia-linha-do-tempo-do-v5" href="clas/brujah/historia/linha-do-tempo-do-v5.html" media-type="application/xhtml+xml" />
-      <item id="clas-brujah-organizacao" href="clas/brujah/organizacao/index.html" media-type="application/xhtml+xml" />
-      <item id="clas-brujah-organizacao-iconoclastas" href="clas/brujah/organizacao/iconoclastas.html" media-type="application/xhtml+xml" />
-      <item id="clas-brujah-organizacao-idealistas" href="clas/brujah/organizacao/idealistas.html" media-type="application/xhtml+xml" />
-      <item id="clas-brujah-variantes-do-cla" href="clas/brujah/variantes-do-cla/index.html" media-type="application/xhtml+xml" />
-      <item id="clas-brujah-variantes-do-cla-brujah-antitibru" href="clas/brujah/variantes-do-cla/brujah-antitibru.html" media-type="application/xhtml+xml" />
-      <item id="clas-brujah-variantes-do-cla-bayt-mushakis" href="clas/brujah/variantes-do-cla/bayt-mushakis.html" media-type="application/xhtml+xml" />
-      <item id="clas-brujah-variantes-do-cla-linhagens" href="clas/brujah/variantes-do-cla/linhagens.html" media-type="application/xhtml+xml" />
-      <item id="clas-brujah-cultura" href="clas/brujah/cultura.html" media-type="application/xhtml+xml" />
-      <item id="clas-brujah-abracos" href="clas/brujah/abracos.html" media-type="application/xhtml+xml" />
-      <item id="clas-brujah-pronuncia" href="clas/brujah/pronuncia.html" media-type="application/xhtml+xml" />
+      <item id="clas-brujah" href="clas/brujah/index.html" media-type="application/xhtml+xml" />
+      <item id="clas-brujah-quem-sao-os-brujah" href="clas/brujah/quem-sao-os-brujah.html" media-type="application/xhtml+xml" />
+      <item id="clas-brujah-arquetipos-brujah" href="clas/brujah/arquetipos-brujah.html" media-type="application/xhtml+xml" />
+      <item id="clas-brujah-disciplinas:" href="clas/brujah/disciplinas:.html" media-type="application/xhtml+xml" />
+      <item id="clas-brujah-maldicao-e-fraqueza-de-cla-" href="clas/brujah/maldicao-e-fraqueza-de-cla-.html" media-type="application/xhtml+xml" />
 
       <item id="disciplinas-regras-gerais-aprendendo-disciplinas"
          href="disciplinas/regras-gerais/aprendendo-disciplinas.html" media-type="application/xhtml+xml" />
@@ -360,23 +348,11 @@
       <itemref idref="clas-banu-haqim-cultura-interna-abraco-" linear="yes" />
       <itemref idref="clas-banu-haqim-diferencas-entre-as-versoes" linear="yes" />
 
-      <itemref idref="clas-brujah-perfil-resumido" linear="yes" />
-      <itemref idref="clas-brujah-visao-geral" linear="yes" />
-      <itemref idref="clas-brujah-historia-antiguidade" linear="yes" />
-      <itemref idref="clas-brujah-historia-idade-das-trevas" linear="yes" />
-      <itemref idref="clas-brujah-historia-era-vitoriana" linear="yes" />
-      <itemref idref="clas-brujah-historia-noites-finais" linear="yes" />
-      <itemref idref="clas-brujah-historia-linha-do-tempo-do-v5" linear="yes" />
-      <itemref idref="clas-brujah-organizacao" linear="yes" />
-      <itemref idref="clas-brujah-organizacao-iconoclastas" linear="yes" />
-      <itemref idref="clas-brujah-organizacao-idealistas" linear="yes" />
-      <itemref idref="clas-brujah-variantes-do-cla" linear="yes" />
-      <itemref idref="clas-brujah-variantes-do-cla-brujah-antitibru" linear="yes" />
-      <itemref idref="clas-brujah-variantes-do-cla-bayt-mushakis" linear="yes" />
-      <itemref idref="clas-brujah-variantes-do-cla-linhagens" linear="yes" />
-      <itemref idref="clas-brujah-cultura" linear="yes" />
-      <itemref idref="clas-brujah-abracos" linear="yes" />
-      <itemref idref="clas-brujah-pronuncia" linear="yes" />
+      <itemref idref="clas-brujah" linear="yes" />
+      <itemref idref="clas-brujah-quem-sao-os-brujah" linear="yes" />
+      <itemref idref="clas-brujah-arquetipos-brujah" linear="yes" />
+      <itemref idref="clas-brujah-disciplinas:" linear="yes" />
+      <itemref idref="clas-brujah-maldicao-e-fraqueza-de-cla-" linear="yes" />
 
       <itemref idref="disciplinas-regras-gerais-aprendendo-disciplinas" linear="yes" />
       <itemref idref="disciplinas-regras-gerais-escolhendo-poderes" linear="yes" />

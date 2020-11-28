@@ -174,116 +174,32 @@
                 <navLabel>
                     <text>BRUJAH</text>
                 </navLabel>
-                <content src="clas/brujah/perfil-resumido.html" />
-                <navPoint id="clas-brujah-perfil-resumido">
+                <content src="clas/brujah/index.html" />
+                <navPoint id="clas-brujah-quem-sao-os-brujah">
                     <navLabel>
-                        <text>PERFIL RESUMIDO</text>
+                        <text>QUEM SÃO OS BRUJAH?</text>
                     </navLabel>
-                    <content src="clas/brujah/perfil-resumido.html" />
+                    <content src="clas/brujah/quem-sao-os-brujah.html" />
                 </navPoint>
-                <navPoint id="clas-brujah-visao-geral">
+                <navPoint id="clas-brujah-arquetipos-brujah">
                     <navLabel>
-                        <text>VISÃO GERAL</text>
+                        <text>ARQUÉTIPOS BRUJAH</text>
                     </navLabel>
-                    <content src="clas/brujah/visao-geral.html" />
+                    <content src="clas/brujah/arquetipos-brujah.html" />
                 </navPoint>
-                <navPoint id="clas-brujah-historia">
+                <navPoint id="clas-brujah-disciplinas:">
                     <navLabel>
-                        <text>HISTORIA</text>
+                        <text>DISCIPLINAS:</text>
                     </navLabel>
-                    <content src="clas/brujah/historia/antiguidade.html" />
-                    <navPoint id="clas-brujah-historia-antiguidade">
-                        <navLabel>
-                            <text>ANTIGUIDADE</text>
-                        </navLabel>
-                        <content src="clas/brujah/historia/antiguidade.html" />
-                    </navPoint>
-                    <navPoint id="clas-brujah-historia-idade-das-trevas">
-                        <navLabel>
-                            <text>IDADE DAS TREVAS</text>
-                        </navLabel>
-                        <content src="clas/brujah/historia/idade-das-trevas.html" />
-                    </navPoint>
-                    <navPoint id="clas-brujah-historia-era-vitoriana">
-                        <navLabel>
-                            <text>ERA VITORIANA</text>
-                        </navLabel>
-                        <content src="clas/brujah/historia/era-vitoriana.html" />
-                    </navPoint>
-                    <navPoint id="clas-brujah-historia-noites-finais">
-                        <navLabel>
-                            <text>NOITES FINAIS</text>
-                        </navLabel>
-                        <content src="clas/brujah/historia/noites-finais.html" />
-                    </navPoint>
-                    <navPoint id="clas-brujah-historia-linha-do-tempo-do-v5">
-                        <navLabel>
-                            <text>LINHA DO TEMPO DO V5</text>
-                        </navLabel>
-                        <content src="clas/brujah/historia/linha-do-tempo-do-v5.html" />
-                    </navPoint>
+                    <content src="clas/brujah/disciplinas:.html" />
                 </navPoint>
-                <navPoint id="clas-brujah-organizacao">
+                <navPoint id="clas-brujah-maldicao-e-fraqueza-de-cla-">
                     <navLabel>
-                        <text>ORGANIZAÇÃO</text>
+                        <text>MALDIÇÃO E FRAQUEZA DE CLÃ </text>
                     </navLabel>
-                    <content src="clas/brujah/organizacao/index.html" />
-                    <navPoint id="clas-brujah-organizacao-iconoclastas">
-                        <navLabel>
-                            <text>ICONOCLASTAS</text>
-                        </navLabel>
-                        <content src="clas/brujah/organizacao/iconoclastas.html" />
-                    </navPoint>
-                    <navPoint id="clas-brujah-organizacao-idealistas">
-                        <navLabel>
-                            <text>IDEALISTAS</text>
-                        </navLabel>
-                        <content src="clas/brujah/organizacao/idealistas.html" />
-                    </navPoint>
+                    <content src="clas/brujah/maldicao-e-fraqueza-de-cla-.html" />
                 </navPoint>
-                <navPoint id="clas-brujah-variantes-do-cla">
-                    <navLabel>
-                        <text>VARIANTES DO CLÃ</text>
-                    </navLabel>
-                    <content src="clas/brujah/variantes-do-cla/index.html" />
-                    <navPoint id="clas-brujah-variantes-do-cla-brujah-antitibru">
-                        <navLabel>
-                            <text>BRUJAH ANTITIBRU</text>
-                        </navLabel>
-                        <content src="clas/brujah/variantes-do-cla/brujah-antitibru.html" />
-                    </navPoint>
-                    <navPoint id="clas-brujah-variantes-do-cla-bayt-mushakis">
-                        <navLabel>
-                            <text>BAY’T MUSHAKIS</text>
-                        </navLabel>
-                        <content src="clas/brujah/variantes-do-cla/bayt-mushakis.html" />
-                    </navPoint>
-                    <navPoint id="clas-brujah-variantes-do-cla-linhagens">
-                        <navLabel>
-                            <text>LINHAGENS</text>
-                        </navLabel>
-                        <content src="clas/brujah/variantes-do-cla/linhagens.html" />
-                    </navPoint>
-                </navPoint>
-                <navPoint id="clas-brujah-cultura">
-                    <navLabel>
-                        <text>CULTURA</text>
-                    </navLabel>
-                    <content src="clas/brujah/cultura.html" />
-                </navPoint>
-                <navPoint id="clas-brujah-abracos">
-                    <navLabel>
-                        <text>ABRAÇOS</text>
-                    </navLabel>
-                    <content src="clas/brujah/abracos.html" />
-                </navPoint>
-                <navPoint id="clas-brujah-pronuncia">
-                    <navLabel>
-                        <text>PRONUNCIA</text>
-                    </navLabel>
-                    <content src="clas/brujah/pronuncia.html" />
-                </navPoint>                
-            </navPoint>                        
+            </navPoint>                         
         </navPoint>
         <navPoint id="disciplinas">
             <navLabel>

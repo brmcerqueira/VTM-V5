@@ -189,7 +189,7 @@
                 </navPoint>
                 <navPoint id="clas-brujah-disciplinas">
                     <navLabel>
-                        <text>disciplinas</text>
+                        <text>DISCIPLINAS</text>
                     </navLabel>
                     <content src="clas/brujah/disciplinas.html" />
                 </navPoint>
@@ -225,7 +225,7 @@
                 </navPoint>
                 <navPoint id="clas-gangrel-disciplinas">
                     <navLabel>
-                        <text>disciplinas</text>
+                        <text>DISCIPLINAS</text>
                     </navLabel>
                     <content src="clas/gangrel/disciplinas.html" />
                 </navPoint>

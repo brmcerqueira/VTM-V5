@@ -36,13 +36,13 @@
       <item id="clas-banu-haqim-diferencas-entre-as-versoes" href="clas/banu-haqim/diferencas-entre-as-versoes.html" media-type="application/xhtml+xml" />
 
       <item id="clas-brujah" href="clas/brujah/index.html" media-type="application/xhtml+xml" />
-      <item id="clas-brujah-quem-sao-os-brujah?" href="clas/brujah/quem-sao-os-brujah?.html" media-type="application/xhtml+xml" />
+      <item id="clas-brujah-quem-sao-os-brujah" href="clas/brujah/quem-sao-os-brujah.html" media-type="application/xhtml+xml" />
       <item id="clas-brujah-arquetipos-brujah" href="clas/brujah/arquetipos-brujah.html" media-type="application/xhtml+xml" />
       <item id="clas-brujah-disciplinas:" href="clas/brujah/disciplinas:.html" media-type="application/xhtml+xml" />
       <item id="clas-brujah-maldicao-e-fraqueza-de-cla-" href="clas/brujah/maldicao-e-fraqueza-de-cla-.html" media-type="application/xhtml+xml" />
 
       <item id="clas-gangrel" href="clas/gangrel/index.html" media-type="application/xhtml+xml" />
-      <item id="clas-gangrel-quem-sao-os-gangrel?" href="clas/gangrel/quem-sao-os-gangrel?.html" media-type="application/xhtml+xml" />
+      <item id="clas-gangrel-quem-sao-os-gangrel" href="clas/gangrel/quem-sao-os-gangrel.html" media-type="application/xhtml+xml" />
       <item id="clas-gangrel-os-gangrel-na-sociedade-dos-vampiros:" href="clas/gangrel/os-gangrel-na-sociedade-dos-vampiros:.html" media-type="application/xhtml+xml" />
       <item id="clas-gangrel-arquetipos-gangrel" href="clas/gangrel/arquetipos-gangrel.html" media-type="application/xhtml+xml" />
       <item id="clas-gangrel-disciplinas:" href="clas/gangrel/disciplinas:.html" media-type="application/xhtml+xml" />
@@ -356,13 +356,13 @@
       <itemref idref="clas-banu-haqim-diferencas-entre-as-versoes" linear="yes" />
 
       <itemref idref="clas-brujah" linear="yes" />
-      <itemref idref="clas-brujah-quem-sao-os-brujah?" linear="yes" />
+      <itemref idref="clas-brujah-quem-sao-os-brujah" linear="yes" />
       <itemref idref="clas-brujah-arquetipos-brujah" linear="yes" />
       <itemref idref="clas-brujah-disciplinas:" linear="yes" />
       <itemref idref="clas-brujah-maldicao-e-fraqueza-de-cla-" linear="yes" />
 
       <itemref idref="clas-gangrel" linear="yes" />
-      <itemref idref="clas-gangrel-quem-sao-os-gangrel?" linear="yes" />
+      <itemref idref="clas-gangrel-quem-sao-os-gangrel" linear="yes" />
       <itemref idref="clas-gangrel-os-gangrel-na-sociedade-dos-vampiros:" linear="yes" />
       <itemref idref="clas-gangrel-arquetipos-gangrel" linear="yes" />
       <itemref idref="clas-gangrel-disciplinas:" linear="yes" />

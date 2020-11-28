@@ -175,11 +175,11 @@
                     <text>BRUJAH</text>
                 </navLabel>
                 <content src="clas/brujah/index.html" />
-                <navPoint id="clas-brujah-quem-sao-os-brujah?">
+                <navPoint id="clas-brujah-quem-sao-os-brujah">
                     <navLabel>
-                        <text>QUEM SÃO OS BRUJAH?</text>
+                        <text>QUEM SÃO OS brujah</text>
                     </navLabel>
-                    <content src="clas/brujah/quem-sao-os-brujah?.html" />
+                    <content src="clas/brujah/quem-sao-os-brujah.html" />
                 </navPoint>
                 <navPoint id="clas-brujah-arquetipos-brujah">
                     <navLabel>
@@ -205,11 +205,11 @@
                     <text>GANGREL</text>
                 </navLabel>
                 <content src="clas/gangrel/index.html" />
-                <navPoint id="clas-gangrel-quem-sao-os-gangrel?">
+                <navPoint id="clas-gangrel-quem-sao-os-gangrel">
                     <navLabel>
-                        <text>QUEM SÃO OS GANGREL?</text>
+                        <text>QUEM SÃO OS gangrel</text>
                     </navLabel>
-                    <content src="clas/gangrel/quem-sao-os-gangrel?.html" />
+                    <content src="clas/gangrel/quem-sao-os-gangrel.html" />
                 </navPoint>
                 <navPoint id="clas-gangrel-os-gangrel-na-sociedade-dos-vampiros:">
                     <navLabel>

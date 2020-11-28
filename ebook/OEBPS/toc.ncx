@@ -169,6 +169,120 @@
                     </navLabel>
                     <content src="clas/banu-haqim/diferencas-entre-as-versoes.html" />
                 </navPoint>
+            </navPoint>
+            <navPoint id="clas-brujah">
+                <navLabel>
+                    <text>BRUJAH</text>
+                </navLabel>
+                <content src="clas/brujah/perfil-resumido.html" />
+                <navPoint id="clas-brujah-perfil-resumido">
+                    <navLabel>
+                        <text>PERFIL RESUMIDO</text>
+                    </navLabel>
+                    <content src="clas/brujah/perfil-resumido.html" />
+                </navPoint>
+                <navPoint id="clas-brujah-visao-geral">
+                    <navLabel>
+                        <text>VISÃO GERAL</text>
+                    </navLabel>
+                    <content src="clas/brujah/visao-geral.html" />
+                </navPoint>
+                <navPoint id="clas-brujah-historia">
+                    <navLabel>
+                        <text>HISTORIA</text>
+                    </navLabel>
+                    <content src="clas/brujah/historia/antiguidade.html" />
+                    <navPoint id="clas-brujah-historia-antiguidade">
+                        <navLabel>
+                            <text>ANTIGUIDADE</text>
+                        </navLabel>
+                        <content src="clas/brujah/historia/antiguidade.html" />
+                    </navPoint>
+                    <navPoint id="clas-brujah-historia-idade-das-trevas">
+                        <navLabel>
+                            <text>IDADE DAS TREVAS</text>
+                        </navLabel>
+                        <content src="clas/brujah/historia/idade-das-trevas.html" />
+                    </navPoint>
+                    <navPoint id="clas-brujah-historia-era-vitoriana">
+                        <navLabel>
+                            <text>ERA VITORIANA</text>
+                        </navLabel>
+                        <content src="clas/brujah/historia/era-vitoriana.html" />
+                    </navPoint>
+                    <navPoint id="clas-brujah-historia-noites-finais">
+                        <navLabel>
+                            <text>NOITES FINAIS</text>
+                        </navLabel>
+                        <content src="clas/brujah/historia/noites-finais.html" />
+                    </navPoint>
+                    <navPoint id="clas-brujah-historia-linha-do-tempo-do-v5">
+                        <navLabel>
+                            <text>LINHA DO TEMPO DO V5</text>
+                        </navLabel>
+                        <content src="clas/brujah/historia/linha-do-tempo-do-v5.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="clas-brujah-organizacao">
+                    <navLabel>
+                        <text>ORGANIZAÇÃO</text>
+                    </navLabel>
+                    <content src="clas/brujah/organizacao/index.html" />
+                    <navPoint id="clas-brujah-organizacao-iconoclastas">
+                        <navLabel>
+                            <text>ICONOCLASTAS</text>
+                        </navLabel>
+                        <content src="clas/brujah/organizacao/iconoclastas.html" />
+                    </navPoint>
+                    <navPoint id="clas-brujah-organizacao-idealistas">
+                        <navLabel>
+                            <text>IDEALISTAS</text>
+                        </navLabel>
+                        <content src="clas/brujah/organizacao/idealistas.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="clas-brujah-variantes-do-cla">
+                    <navLabel>
+                        <text>VARIANTES DO CLÃ</text>
+                    </navLabel>
+                    <content src="clas/brujah/variantes-do-cla/index.html" />
+                    <navPoint id="clas-brujah-variantes-do-cla-brujah-antitibru">
+                        <navLabel>
+                            <text>BRUJAH ANTITIBRU</text>
+                        </navLabel>
+                        <content src="clas/brujah/variantes-do-cla/brujah-antitibru.html" />
+                    </navPoint>
+                    <navPoint id="clas-brujah-variantes-do-cla-bayt-mushakis">
+                        <navLabel>
+                            <text>BAY’T MUSHAKIS</text>
+                        </navLabel>
+                        <content src="clas/brujah/variantes-do-cla/bayt-mushakis.html" />
+                    </navPoint>
+                    <navPoint id="clas-brujah-variantes-do-cla-linhagens">
+                        <navLabel>
+                            <text>LINHAGENS</text>
+                        </navLabel>
+                        <content src="clas/brujah/variantes-do-cla/linhagens.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="clas-brujah-cultura">
+                    <navLabel>
+                        <text>CULTURA</text>
+                    </navLabel>
+                    <content src="clas/brujah/cultura.html" />
+                </navPoint>
+                <navPoint id="clas-brujah-abracos">
+                    <navLabel>
+                        <text>ABRAÇOS</text>
+                    </navLabel>
+                    <content src="clas/brujah/abracos.html" />
+                </navPoint>
+                <navPoint id="clas-brujah-pronuncia">
+                    <navLabel>
+                        <text>PRONUNCIA</text>
+                    </navLabel>
+                    <content src="clas/brujah/pronuncia.html" />
+                </navPoint>                
             </navPoint>                        
         </navPoint>
         <navPoint id="disciplinas">

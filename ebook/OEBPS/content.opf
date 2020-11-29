@@ -89,6 +89,11 @@
       <item id="clas-caitiff-disciplinas" href="clas/caitiff/disciplinas.html" media-type="application/xhtml+xml" />
       <item id="clas-caitiff-maldicao-e-fraqueza" href="clas/caitiff/maldicao-e-fraqueza.html" media-type="application/xhtml+xml" />
 
+      <item id="clas-sangue-fraco" href="clas/sangue-fraco/index.html" media-type="application/xhtml+xml" />
+      <item id="clas-sangue-fraco-quem-sao-os-sangue-fracos" href="clas/sangue-fraco/quem-sao-os-sangue-fracos.html" media-type="application/xhtml+xml" />
+      <item id="clas-sangue-fraco-arquetipos-sangue-fraco" href="clas/sangue-fraco/arquetipos-sangue-fraco.html" media-type="application/xhtml+xml" />
+      <item id="clas-sangue-fraco-caracteristicas-dos-sangue-fraco" href="clas/sangue-fraco/caracteristicas-dos-sangue-fraco.html" media-type="application/xhtml+xml" />
+
       <item id="disciplinas-regras-gerais-aprendendo-disciplinas"
          href="disciplinas/regras-gerais/aprendendo-disciplinas.html" media-type="application/xhtml+xml" />
       <item id="disciplinas-regras-gerais-escolhendo-poderes" href="disciplinas/regras-gerais/escolhendo-poderes.html"
@@ -449,6 +454,11 @@
       <itemref idref="clas-caitiff-arquetipos-caitiff" linear="yes" />
       <itemref idref="clas-caitiff-disciplinas" linear="yes" />
       <itemref idref="clas-caitiff-maldicao-e-fraqueza" linear="yes" />
+
+      <itemref idref="clas-sangue-fraco" linear="yes" />
+      <itemref idref="clas-sangue-fraco-quem-sao-os-sangue-fracos" linear="yes" />
+      <itemref idref="clas-sangue-fraco-arquetipos-sangue-fraco" linear="yes" />
+      <itemref idref="clas-sangue-fraco-caracteristicas-dos-sangue-fraco" linear="yes" />
 
       <itemref idref="disciplinas-regras-gerais-aprendendo-disciplinas" linear="yes" />
       <itemref idref="disciplinas-regras-gerais-escolhendo-poderes" linear="yes" />

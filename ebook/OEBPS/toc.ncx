@@ -427,7 +427,31 @@
                     </navLabel>
                     <content src="clas/caitiff/maldicao-e-fraqueza.html" />
                 </navPoint>
-            </navPoint>                                                                                                                                    
+            </navPoint>
+            <navPoint id="clas-sangue-fraco">
+                <navLabel>
+                    <text>SANGUE FRACO</text>
+                </navLabel>
+                <content src="clas/sangue-fraco/index.html" />
+                <navPoint id="clas-sangue-fraco-quem-sao-os-sangue-fracos">
+                    <navLabel>
+                        <text>QUEM SÃO OS SANGUE FRACOS?</text>
+                    </navLabel>
+                    <content src="clas/sangue-fraco/quem-sao-os-sangue-fracos.html" />
+                </navPoint>
+                <navPoint id="clas-sangue-fraco-arquetipos-sangue-fraco">
+                    <navLabel>
+                        <text>ARQUÉTIPOS SANGUE FRACO:</text>
+                    </navLabel>
+                    <content src="clas/sangue-fraco/arquetipos-sangue-fraco.html" />
+                </navPoint>
+                <navPoint id="clas-sangue-fraco-caracteristicas-dos-sangue-fraco">
+                    <navLabel>
+                        <text>CARACTERÍSTICAS DOS SANGUE FRACO:</text>
+                    </navLabel>
+                    <content src="clas/sangue-fraco/caracteristicas-dos-sangue-fraco.html" />
+                </navPoint>
+            </navPoint>                                                                                                                                                
         </navPoint>
         <navPoint id="disciplinas">
             <navLabel>

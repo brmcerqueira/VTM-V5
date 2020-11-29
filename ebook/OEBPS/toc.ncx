@@ -217,7 +217,67 @@
                     </navLabel>
                     <content src="clas/malkavianos/maldicao-e-fraqueza-do-cla.html" />
                 </navPoint>
-            </navPoint>                                                             
+            </navPoint>
+            <navPoint id="clas-o-ministerio">
+                <navLabel>
+                    <text>O MINISTÉRIO</text>
+                </navLabel>
+                <content src="clas/o-ministerio/index.html" />
+                <navPoint id="clas-o-ministerio-quem-e-o-ministerio">
+                    <navLabel>
+                        <text>QUEM É O MINISTÉRIO?</text>
+                    </navLabel>
+                    <content src="clas/o-ministerio/quem-e-o-ministerio.html" />
+                </navPoint>
+                <navPoint id="clas-o-ministerio-o-ministerio-na-sociedade-vampirica-">
+                    <navLabel>
+                        <text>O MINISTÉRIO NA SOCIEDADE VAMPIRICA </text>
+                    </navLabel>
+                    <content src="clas/o-ministerio/o-ministerio-na-sociedade-vampirica-.html" />
+                </navPoint>
+                <navPoint id="clas-o-ministerio-o-ministerio-na-sociedade-mortal">
+                    <navLabel>
+                        <text>O MINISTÉRIO NA SOCIEDADE MORTAL</text>
+                    </navLabel>
+                    <content src="clas/o-ministerio/o-ministerio-na-sociedade-mortal.html" />
+                </navPoint>
+                <navPoint id="clas-o-ministerio-a-traicao-da-camarilla-">
+                    <navLabel>
+                        <text>A TRAIÇÃO DA CAMARILLA </text>
+                    </navLabel>
+                    <content src="clas/o-ministerio/a-traicao-da-camarilla-.html" />
+                </navPoint>
+                <navPoint id="clas-o-ministerio-os-pecados-do-ministerio-">
+                    <navLabel>
+                        <text>OS PECADOS DO MINISTÉRIO </text>
+                    </navLabel>
+                    <content src="clas/o-ministerio/os-pecados-do-ministerio-.html" />
+                </navPoint>
+                <navPoint id="clas-o-ministerio-arquetipos-dos-ministros">
+                    <navLabel>
+                        <text>ARQUETIPOS DOS MINISTROS</text>
+                    </navLabel>
+                    <content src="clas/o-ministerio/arquetipos-dos-ministros.html" />
+                </navPoint>
+                <navPoint id="clas-o-ministerio-disciplinas">
+                    <navLabel>
+                        <text>DISCIPLINAS</text>
+                    </navLabel>
+                    <content src="clas/o-ministerio/disciplinas.html" />
+                </navPoint>
+                <navPoint id="clas-o-ministerio-maldicao-e-fraqueza-de-cla">
+                    <navLabel>
+                        <text>MALDIÇÃO E FRAQUEZA DE CLÃ</text>
+                    </navLabel>
+                    <content src="clas/o-ministerio/maldicao-e-fraqueza-de-cla.html" />
+                </navPoint>
+                <navPoint id="clas-o-ministerio-compulsao-de-cla">
+                    <navLabel>
+                        <text>COMPULSÃO DE CLÃ</text>
+                    </navLabel>
+                    <content src="clas/o-ministerio/compulsao-de-cla.html" />
+                </navPoint>
+            </navPoint>                                                                         
         </navPoint>
         <navPoint id="disciplinas">
             <navLabel>

@@ -14,26 +14,12 @@
       <item id="clas-os-13-clas-maiores" href="clas/os-13-clas-maiores/index.html" media-type="application/xhtml+xml" />
       <item id="clas-os-13-clas-maiores-os-sem-cla-e-autarquias" href="clas/os-13-clas-maiores/os-sem-cla-e-autarquias.html" media-type="application/xhtml+xml" />
 
-      <item id="clas-banu-haqim-perfil-resumido" href="clas/banu-haqim/perfil-resumido.html" media-type="application/xhtml+xml" />
-      <item id="clas-banu-haqim-visao-geral" href="clas/banu-haqim/visao-geral.html" media-type="application/xhtml+xml" />
-      <item id="clas-banu-haqim-historia" href="clas/banu-haqim/historia/index.html" media-type="application/xhtml+xml" />
-      <item id="clas-banu-haqim-historia-antiguidade" href="clas/banu-haqim/historia/antiguidade.html" media-type="application/xhtml+xml" />
-      <item id="clas-banu-haqim-historia-idade-das-trevas" href="clas/banu-haqim/historia/idade-das-trevas.html" media-type="application/xhtml+xml" />
-      <item id="clas-banu-haqim-historia-era-vitoriana" href="clas/banu-haqim/historia/era-vitoriana.html" media-type="application/xhtml+xml" />
-      <item id="clas-banu-haqim-historia-noites-modernas" href="clas/banu-haqim/historia/noites-modernas.html" media-type="application/xhtml+xml" />
-      <item id="clas-banu-haqim-historia-o-cisma-dos-assamitas-" href="clas/banu-haqim/historia/o-cisma-dos-assamitas-.html" media-type="application/xhtml+xml" />
-      <item id="clas-banu-haqim-historia-linha-do-tempo-no-v5" href="clas/banu-haqim/historia/linha-do-tempo-no-v5.html" media-type="application/xhtml+xml" />
-      <item id="clas-banu-haqim-organizacao" href="clas/banu-haqim/organizacao.html" media-type="application/xhtml+xml" />
-      <item id="clas-banu-haqim-variantes-do-cla" href="clas/banu-haqim/variantes-do-cla/index.html" media-type="application/xhtml+xml" />
-      <item id="clas-banu-haqim-variantes-do-cla-a-casta-dos-feiticeiros-" href="clas/banu-haqim/variantes-do-cla/a-casta-dos-feiticeiros-.html" media-type="application/xhtml+xml" />
-      <item id="clas-banu-haqim-variantes-do-cla-a-casta-dos-vizires" href="clas/banu-haqim/variantes-do-cla/a-casta-dos-vizires.html" media-type="application/xhtml+xml" />
-      <item id="clas-banu-haqim-variantes-do-cla-assamitas-antitribu" href="clas/banu-haqim/variantes-do-cla/assamitas-antitribu.html" media-type="application/xhtml+xml" />
-      <item id="clas-banu-haqim-variantes-do-cla-banu-haqim" href="clas/banu-haqim/variantes-do-cla/banu-haqim.html" media-type="application/xhtml+xml" />
-      <item id="clas-banu-haqim-variantes-do-cla-beduinos" href="clas/banu-haqim/variantes-do-cla/beduinos.html" media-type="application/xhtml+xml" />
-      <item id="clas-banu-haqim-variantes-do-cla-cortesaos" href="clas/banu-haqim/variantes-do-cla/cortesaos.html" media-type="application/xhtml+xml" />
-      <item id="clas-banu-haqim-cultura-interna" href="clas/banu-haqim/cultura-interna/index.html" media-type="application/xhtml+xml" />
-      <item id="clas-banu-haqim-cultura-interna-abraco-" href="clas/banu-haqim/cultura-interna/abraco-.html" media-type="application/xhtml+xml" />
-      <item id="clas-banu-haqim-diferencas-entre-as-versoes" href="clas/banu-haqim/diferencas-entre-as-versoes.html" media-type="application/xhtml+xml" />
+      <item id="clas-banu-haqim" href="clas/banu-haqim/index.html" media-type="application/xhtml+xml" />
+      <item id="clas-banu-haqim-quem-sao-os-banu-haqim" href="clas/banu-haqim/quem-sao-os-banu-haqim.html" media-type="application/xhtml+xml" />
+      <item id="clas-banu-haqim-arquetipos-banu-haquim" href="clas/banu-haqim/arquetipos-banu-haquim.html" media-type="application/xhtml+xml" />
+      <item id="clas-banu-haqim-disciplinas" href="clas/banu-haqim/disciplinas.html" media-type="application/xhtml+xml" />
+      <item id="clas-banu-haqim-maldicao-e-fraqueza-de-cla" href="clas/banu-haqim/maldicao-e-fraqueza-de-cla/index.html" media-type="application/xhtml+xml" />
+      <item id="clas-banu-haqim-maldicao-e-fraqueza-de-cla-compulsao-do-cla-julgamento" href="clas/banu-haqim/maldicao-e-fraqueza-de-cla/compulsao-do-cla-julgamento.html" media-type="application/xhtml+xml" />
 
       <item id="clas-brujah" href="clas/brujah/index.html" media-type="application/xhtml+xml" />
       <item id="clas-brujah-quem-sao-os-brujah" href="clas/brujah/quem-sao-os-brujah.html" media-type="application/xhtml+xml" />
@@ -334,26 +320,12 @@
       <itemref idref="clas-os-13-clas-maiores" linear="yes" />
       <itemref idref="clas-os-13-clas-maiores-os-sem-cla-e-autarquias" linear="yes" />
 
-      <itemref idref="clas-banu-haqim-perfil-resumido" linear="yes" />
-      <itemref idref="clas-banu-haqim-visao-geral" linear="yes" />
-      <itemref idref="clas-banu-haqim-historia" linear="yes" />
-      <itemref idref="clas-banu-haqim-historia-antiguidade" linear="yes" />
-      <itemref idref="clas-banu-haqim-historia-idade-das-trevas" linear="yes" />
-      <itemref idref="clas-banu-haqim-historia-era-vitoriana" linear="yes" />
-      <itemref idref="clas-banu-haqim-historia-noites-modernas" linear="yes" />
-      <itemref idref="clas-banu-haqim-historia-o-cisma-dos-assamitas-" linear="yes" />
-      <itemref idref="clas-banu-haqim-historia-linha-do-tempo-no-v5" linear="yes" />
-      <itemref idref="clas-banu-haqim-organizacao" linear="yes" />
-      <itemref idref="clas-banu-haqim-variantes-do-cla" linear="yes" />
-      <itemref idref="clas-banu-haqim-variantes-do-cla-a-casta-dos-feiticeiros-" linear="yes" />
-      <itemref idref="clas-banu-haqim-variantes-do-cla-a-casta-dos-vizires" linear="yes" />
-      <itemref idref="clas-banu-haqim-variantes-do-cla-assamitas-antitribu" linear="yes" />
-      <itemref idref="clas-banu-haqim-variantes-do-cla-banu-haqim" linear="yes" />
-      <itemref idref="clas-banu-haqim-variantes-do-cla-beduinos" linear="yes" />
-      <itemref idref="clas-banu-haqim-variantes-do-cla-cortesaos" linear="yes" />
-      <itemref idref="clas-banu-haqim-cultura-interna" linear="yes" />
-      <itemref idref="clas-banu-haqim-cultura-interna-abraco-" linear="yes" />
-      <itemref idref="clas-banu-haqim-diferencas-entre-as-versoes" linear="yes" />
+      <itemref idref="clas-banu-haqim" linear="yes" />
+      <itemref idref="clas-banu-haqim-quem-sao-os-banu-haqim" linear="yes" />
+      <itemref idref="clas-banu-haqim-arquetipos-banu-haquim" linear="yes" />
+      <itemref idref="clas-banu-haqim-disciplinas" linear="yes" />
+      <itemref idref="clas-banu-haqim-maldicao-e-fraqueza-de-cla" linear="yes" />
+      <itemref idref="clas-banu-haqim-maldicao-e-fraqueza-de-cla-compulsao-do-cla-julgamento" linear="yes" />
 
       <itemref idref="clas-brujah" linear="yes" />
       <itemref idref="clas-brujah-quem-sao-os-brujah" linear="yes" />

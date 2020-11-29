@@ -187,7 +187,37 @@
                     </navLabel>
                     <content src="clas/lasombra/os-lasombra-e-a-tecnologia.html" />
                 </navPoint>                
-            </navPoint>                                                 
+            </navPoint>
+            <navPoint id="clas-malkavianos">
+                <navLabel>
+                    <text>MALKAVIANOS</text>
+                </navLabel>
+                <content src="clas/malkavianos/index.html" />
+                <navPoint id="clas-malkavianos-quem-sao-os-malkavianos">
+                    <navLabel>
+                        <text>QUEM SÃO OS MALKAVIANOS?</text>
+                    </navLabel>
+                    <content src="clas/malkavianos/quem-sao-os-malkavianos.html" />
+                </navPoint>
+                <navPoint id="clas-malkavianos-arquetipos-malkavianos">
+                    <navLabel>
+                        <text>ARQUÉTIPOS MALKAVIANOS</text>
+                    </navLabel>
+                    <content src="clas/malkavianos/arquetipos-malkavianos.html" />
+                </navPoint>
+                <navPoint id="clas-malkavianos-disciplinas">
+                    <navLabel>
+                        <text>DISCIPLINAS:</text>
+                    </navLabel>
+                    <content src="clas/malkavianos/disciplinas.html" />
+                </navPoint>
+                <navPoint id="clas-malkavianos-maldicao-e-fraqueza-do-cla">
+                    <navLabel>
+                        <text>MALDIÇÃO E FRAQUEZA DO CLÃ:</text>
+                    </navLabel>
+                    <content src="clas/malkavianos/maldicao-e-fraqueza-do-cla.html" />
+                </navPoint>
+            </navPoint>                                                             
         </navPoint>
         <navPoint id="disciplinas">
             <navLabel>

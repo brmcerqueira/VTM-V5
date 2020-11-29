@@ -42,6 +42,12 @@
       <item id="clas-lasombra-maldicao-e-fraqueza-de-cla" href="clas/lasombra/maldicao-e-fraqueza-de-cla.html" media-type="application/xhtml+xml" />
       <item id="clas-lasombra-os-lasombra-e-a-tecnologia" href="clas/lasombra/os-lasombra-e-a-tecnologia.html" media-type="application/xhtml+xml" />
 
+      <item id="clas-malkavianos" href="clas/malkavianos/index.html" media-type="application/xhtml+xml" />
+      <item id="clas-malkavianos-quem-sao-os-malkavianos" href="clas/malkavianos/quem-sao-os-malkavianos.html" media-type="application/xhtml+xml" />
+      <item id="clas-malkavianos-arquetipos-malkavianos" href="clas/malkavianos/arquetipos-malkavianos.html" media-type="application/xhtml+xml" />
+      <item id="clas-malkavianos-disciplinas" href="clas/malkavianos/disciplinas.html" media-type="application/xhtml+xml" />
+      <item id="clas-malkavianos-maldicao-e-fraqueza-do-cla" href="clas/malkavianos/maldicao-e-fraqueza-do-cla.html" media-type="application/xhtml+xml" />
+
       <item id="disciplinas-regras-gerais-aprendendo-disciplinas"
          href="disciplinas/regras-gerais/aprendendo-disciplinas.html" media-type="application/xhtml+xml" />
       <item id="disciplinas-regras-gerais-escolhendo-poderes" href="disciplinas/regras-gerais/escolhendo-poderes.html"
@@ -355,6 +361,12 @@
       <itemref idref="clas-lasombra-compulsao-lasombra-sem-piedade" linear="yes" />
       <itemref idref="clas-lasombra-maldicao-e-fraqueza-de-cla" linear="yes" />
       <itemref idref="clas-lasombra-os-lasombra-e-a-tecnologia" linear="yes" />
+
+      <itemref idref="clas-malkavianos" linear="yes" />
+      <itemref idref="clas-malkavianos-quem-sao-os-malkavianos" linear="yes" />
+      <itemref idref="clas-malkavianos-arquetipos-malkavianos" linear="yes" />
+      <itemref idref="clas-malkavianos-disciplinas" linear="yes" />
+      <itemref idref="clas-malkavianos-maldicao-e-fraqueza-do-cla" linear="yes" />
 
       <itemref idref="disciplinas-regras-gerais-aprendendo-disciplinas" linear="yes" />
       <itemref idref="disciplinas-regras-gerais-escolhendo-poderes" linear="yes" />

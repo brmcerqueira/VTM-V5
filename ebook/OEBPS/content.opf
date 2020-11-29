@@ -48,6 +48,11 @@
       <item id="clas-malkavianos-disciplinas" href="clas/malkavianos/disciplinas.html" media-type="application/xhtml+xml" />
       <item id="clas-malkavianos-maldicao-e-fraqueza-do-cla" href="clas/malkavianos/maldicao-e-fraqueza-do-cla.html" media-type="application/xhtml+xml" />
 
+      <item id="clas-nosferatu" href="clas/nosferatu/index.html" media-type="application/xhtml+xml" />
+      <item id="clas-nosferatu-arquetipos-nosferatu" href="clas/nosferatu/arquetipos-nosferatu.html" media-type="application/xhtml+xml" />
+      <item id="clas-nosferatu-disciplinas" href="clas/nosferatu/disciplinas.html" media-type="application/xhtml+xml" />
+      <item id="clas-nosferatu-maldicao-e-fraqueza-de-cla" href="clas/nosferatu/maldicao-e-fraqueza-de-cla.html" media-type="application/xhtml+xml" />
+
       <item id="clas-o-ministerio" href="clas/o-ministerio/index.html" media-type="application/xhtml+xml" />
       <item id="clas-o-ministerio-quem-e-o-ministerio" href="clas/o-ministerio/quem-e-o-ministerio.html" media-type="application/xhtml+xml" />
       <item id="clas-o-ministerio-o-ministerio-na-sociedade-vampirica-" href="clas/o-ministerio/o-ministerio-na-sociedade-vampirica-.html" media-type="application/xhtml+xml" />
@@ -59,10 +64,11 @@
       <item id="clas-o-ministerio-maldicao-e-fraqueza-de-cla" href="clas/o-ministerio/maldicao-e-fraqueza-de-cla.html" media-type="application/xhtml+xml" />
       <item id="clas-o-ministerio-compulsao-de-cla" href="clas/o-ministerio/compulsao-de-cla.html" media-type="application/xhtml+xml" />
 
-      <item id="clas-nosferatu" href="clas/nosferatu/index.html" media-type="application/xhtml+xml" />
-      <item id="clas-nosferatu-arquetipos-nosferatu" href="clas/nosferatu/arquetipos-nosferatu.html" media-type="application/xhtml+xml" />
-      <item id="clas-nosferatu-disciplinas" href="clas/nosferatu/disciplinas.html" media-type="application/xhtml+xml" />
-      <item id="clas-nosferatu-maldicao-e-fraqueza-de-cla" href="clas/nosferatu/maldicao-e-fraqueza-de-cla.html" media-type="application/xhtml+xml" />
+      <item id="clas-toreador" href="clas/toreador/index.html" media-type="application/xhtml+xml" />
+      <item id="clas-toreador-quem-sao-os-toreador" href="clas/toreador/quem-sao-os-toreador.html" media-type="application/xhtml+xml" />
+      <item id="clas-toreador-arquetipos-toreador" href="clas/toreador/arquetipos-toreador.html" media-type="application/xhtml+xml" />
+      <item id="clas-toreador-disciplinas" href="clas/toreador/disciplinas.html" media-type="application/xhtml+xml" />
+      <item id="clas-toreador-maldicao-e-fraqueza-de-cla" href="clas/toreador/maldicao-e-fraqueza-de-cla.html" media-type="application/xhtml+xml" />
 
       <item id="disciplinas-regras-gerais-aprendendo-disciplinas"
          href="disciplinas/regras-gerais/aprendendo-disciplinas.html" media-type="application/xhtml+xml" />
@@ -399,6 +405,12 @@
       <itemref idref="clas-o-ministerio-disciplinas" linear="yes" />
       <itemref idref="clas-o-ministerio-maldicao-e-fraqueza-de-cla" linear="yes" />
       <itemref idref="clas-o-ministerio-compulsao-de-cla" linear="yes" />
+
+      <itemref idref="clas-toreador" linear="yes" />
+      <itemref idref="clas-toreador-quem-sao-os-toreador" linear="yes" />
+      <itemref idref="clas-toreador-arquetipos-toreador" linear="yes" />
+      <itemref idref="clas-toreador-disciplinas" linear="yes" />
+      <itemref idref="clas-toreador-maldicao-e-fraqueza-de-cla" linear="yes" />
 
       <itemref idref="disciplinas-regras-gerais-aprendendo-disciplinas" linear="yes" />
       <itemref idref="disciplinas-regras-gerais-escolhendo-poderes" linear="yes" />

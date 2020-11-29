@@ -218,6 +218,30 @@
                     <content src="clas/malkavianos/maldicao-e-fraqueza-do-cla.html" />
                 </navPoint>
             </navPoint>
+            <navPoint id="clas-nosferatu">
+                <navLabel>
+                    <text>NOSFERATU</text>
+                </navLabel>
+                <content src="clas/nosferatu/index.html" />
+                <navPoint id="clas-nosferatu-arquetipos-nosferatu">
+                    <navLabel>
+                        <text>ARQUÉTIPOS NOSFERATU</text>
+                    </navLabel>
+                    <content src="clas/nosferatu/arquetipos-nosferatu.html" />
+                </navPoint>
+                <navPoint id="clas-nosferatu-disciplinas">
+                    <navLabel>
+                        <text>DISCIPLINAS:</text>
+                    </navLabel>
+                    <content src="clas/nosferatu/disciplinas.html" />
+                </navPoint>
+                <navPoint id="clas-nosferatu-maldicao-e-fraqueza-de-cla">
+                    <navLabel>
+                        <text>MALDIÇÃO E FRAQUEZA DE CLÃ:</text>
+                    </navLabel>
+                    <content src="clas/nosferatu/maldicao-e-fraqueza-de-cla.html" />
+                </navPoint>
+            </navPoint>            
             <navPoint id="clas-o-ministerio">
                 <navLabel>
                     <text>O MINISTÉRIO</text>
@@ -278,30 +302,36 @@
                     <content src="clas/o-ministerio/compulsao-de-cla.html" />
                 </navPoint>
             </navPoint>
-            <navPoint id="clas-nosferatu">
+            <navPoint id="clas-toreador">
                 <navLabel>
-                    <text>NOSFERATU</text>
+                    <text>TOREADOR</text>
                 </navLabel>
-                <content src="clas/nosferatu/index.html" />
-                <navPoint id="clas-nosferatu-arquetipos-nosferatu">
+                <content src="clas/toreador/index.html" />
+                <navPoint id="clas-toreador-quem-sao-os-toreador">
                     <navLabel>
-                        <text>ARQUÉTIPOS NOSFERATU</text>
+                        <text>QUEM SÃO OS TOREADOR?</text>
                     </navLabel>
-                    <content src="clas/nosferatu/arquetipos-nosferatu.html" />
+                    <content src="clas/toreador/quem-sao-os-toreador.html" />
                 </navPoint>
-                <navPoint id="clas-nosferatu-disciplinas">
+                <navPoint id="clas-toreador-arquetipos-toreador">
+                    <navLabel>
+                        <text>ARQUETIPOS TOREADOR</text>
+                    </navLabel>
+                    <content src="clas/toreador/arquetipos-toreador.html" />
+                </navPoint>
+                <navPoint id="clas-toreador-disciplinas">
                     <navLabel>
                         <text>DISCIPLINAS:</text>
                     </navLabel>
-                    <content src="clas/nosferatu/disciplinas.html" />
+                    <content src="clas/toreador/disciplinas.html" />
                 </navPoint>
-                <navPoint id="clas-nosferatu-maldicao-e-fraqueza-de-cla">
+                <navPoint id="clas-toreador-maldicao-e-fraqueza-de-cla">
                     <navLabel>
-                        <text>MALDIÇÃO E FRAQUEZA DE CLÃ:</text>
+                        <text>MALDIÇÃO E FRAQUEZA DE CLÃ</text>
                     </navLabel>
-                    <content src="clas/nosferatu/maldicao-e-fraqueza-de-cla.html" />
+                    <content src="clas/toreador/maldicao-e-fraqueza-de-cla.html" />
                 </navPoint>
-            </navPoint>                                                                                    
+            </navPoint>                                                                                                
         </navPoint>
         <navPoint id="disciplinas">
             <navLabel>

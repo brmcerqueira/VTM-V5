@@ -70,6 +70,13 @@
       <item id="clas-toreador-disciplinas" href="clas/toreador/disciplinas.html" media-type="application/xhtml+xml" />
       <item id="clas-toreador-maldicao-e-fraqueza-de-cla" href="clas/toreador/maldicao-e-fraqueza-de-cla.html" media-type="application/xhtml+xml" />
 
+      <item id="clas-tremere" href="clas/tremere/index.html" media-type="application/xhtml+xml" />
+      <item id="clas-tremere-quem-sao-os-tremere" href="clas/tremere/quem-sao-os-tremere.html" media-type="application/xhtml+xml" />
+      <item id="clas-tremere-os-tremeres-na-sociedade-dos-vampiros-" href="clas/tremere/os-tremeres-na-sociedade-dos-vampiros-.html" media-type="application/xhtml+xml" />
+      <item id="clas-tremere-arquetipos-tremere" href="clas/tremere/arquetipos-tremere.html" media-type="application/xhtml+xml" />
+      <item id="clas-tremere-disciplinas" href="clas/tremere/disciplinas.html" media-type="application/xhtml+xml" />
+      <item id="clas-tremere-maldicao-e-fraqueza-de-cla" href="clas/tremere/maldicao-e-fraqueza-de-cla.html" media-type="application/xhtml+xml" />
+
       <item id="disciplinas-regras-gerais-aprendendo-disciplinas"
          href="disciplinas/regras-gerais/aprendendo-disciplinas.html" media-type="application/xhtml+xml" />
       <item id="disciplinas-regras-gerais-escolhendo-poderes" href="disciplinas/regras-gerais/escolhendo-poderes.html"
@@ -411,6 +418,13 @@
       <itemref idref="clas-toreador-arquetipos-toreador" linear="yes" />
       <itemref idref="clas-toreador-disciplinas" linear="yes" />
       <itemref idref="clas-toreador-maldicao-e-fraqueza-de-cla" linear="yes" />
+
+      <itemref idref="clas-tremere" linear="yes" />
+      <itemref idref="clas-tremere-quem-sao-os-tremere" linear="yes" />
+      <itemref idref="clas-tremere-os-tremeres-na-sociedade-dos-vampiros-" linear="yes" />
+      <itemref idref="clas-tremere-arquetipos-tremere" linear="yes" />
+      <itemref idref="clas-tremere-disciplinas" linear="yes" />
+      <itemref idref="clas-tremere-maldicao-e-fraqueza-de-cla" linear="yes" />
 
       <itemref idref="disciplinas-regras-gerais-aprendendo-disciplinas" linear="yes" />
       <itemref idref="disciplinas-regras-gerais-escolhendo-poderes" linear="yes" />

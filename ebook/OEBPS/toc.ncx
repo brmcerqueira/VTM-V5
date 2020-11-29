@@ -331,7 +331,43 @@
                     </navLabel>
                     <content src="clas/toreador/maldicao-e-fraqueza-de-cla.html" />
                 </navPoint>
-            </navPoint>                                                                                                
+            </navPoint>
+            <navPoint id="clas-tremere">
+                <navLabel>
+                    <text>TREMERE</text>
+                </navLabel>
+                <content src="clas/tremere/index.html" />
+                <navPoint id="clas-tremere-quem-sao-os-tremere">
+                    <navLabel>
+                        <text>QUEM SÃO OS TREMERE?</text>
+                    </navLabel>
+                    <content src="clas/tremere/quem-sao-os-tremere.html" />
+                </navPoint>
+                <navPoint id="clas-tremere-os-tremeres-na-sociedade-dos-vampiros-">
+                    <navLabel>
+                        <text>OS TREMERES NA SOCIEDADE DOS VAMPIROS: </text>
+                    </navLabel>
+                    <content src="clas/tremere/os-tremeres-na-sociedade-dos-vampiros-.html" />
+                </navPoint>
+                <navPoint id="clas-tremere-arquetipos-tremere">
+                    <navLabel>
+                        <text>ARQUETIPOS TREMERE</text>
+                    </navLabel>
+                    <content src="clas/tremere/arquetipos-tremere.html" />
+                </navPoint>
+                <navPoint id="clas-tremere-disciplinas">
+                    <navLabel>
+                        <text>DISCIPLINAS:</text>
+                    </navLabel>
+                    <content src="clas/tremere/disciplinas.html" />
+                </navPoint>
+                <navPoint id="clas-tremere-maldicao-e-fraqueza-de-cla">
+                    <navLabel>
+                        <text>MALDIÇÃO E FRAQUEZA DE CLÃ</text>
+                    </navLabel>
+                    <content src="clas/tremere/maldicao-e-fraqueza-de-cla.html" />
+                </navPoint>
+            </navPoint>                                                                                                            
         </navPoint>
         <navPoint id="disciplinas">
             <navLabel>

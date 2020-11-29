@@ -397,7 +397,37 @@
                     </navLabel>
                     <content src="clas/ventrue/maldicao-e-fraqueza-de-cla.html" />
                 </navPoint>
-            </navPoint>                                                                                                                        
+            </navPoint>
+            <navPoint id="clas-caitiff">
+                <navLabel>
+                    <text>CAITIFF</text>
+                </navLabel>
+                <content src="clas/caitiff/index.html" />
+                <navPoint id="clas-caitiff-quem-sao-os-caitiff">
+                    <navLabel>
+                        <text>QUEM SÃO OS CAITIFF?</text>
+                    </navLabel>
+                    <content src="clas/caitiff/quem-sao-os-caitiff.html" />
+                </navPoint>
+                <navPoint id="clas-caitiff-arquetipos-caitiff">
+                    <navLabel>
+                        <text>ARQUÉTIPOS CAITIFF</text>
+                    </navLabel>
+                    <content src="clas/caitiff/arquetipos-caitiff.html" />
+                </navPoint>
+                <navPoint id="clas-caitiff-disciplinas">
+                    <navLabel>
+                        <text>DISCIPLINAS:</text>
+                    </navLabel>
+                    <content src="clas/caitiff/disciplinas.html" />
+                </navPoint>
+                <navPoint id="clas-caitiff-maldicao-e-fraqueza">
+                    <navLabel>
+                        <text>MALDIÇÃO E FRAQUEZA:</text>
+                    </navLabel>
+                    <content src="clas/caitiff/maldicao-e-fraqueza.html" />
+                </navPoint>
+            </navPoint>                                                                                                                                    
         </navPoint>
         <navPoint id="disciplinas">
             <navLabel>

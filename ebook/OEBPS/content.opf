@@ -83,6 +83,12 @@
       <item id="clas-ventrue-disciplinas" href="clas/ventrue/disciplinas.html" media-type="application/xhtml+xml" />
       <item id="clas-ventrue-maldicao-e-fraqueza-de-cla" href="clas/ventrue/maldicao-e-fraqueza-de-cla.html" media-type="application/xhtml+xml" />
 
+      <item id="clas-caitiff" href="clas/caitiff/index.html" media-type="application/xhtml+xml" />
+      <item id="clas-caitiff-quem-sao-os-caitiff" href="clas/caitiff/quem-sao-os-caitiff.html" media-type="application/xhtml+xml" />
+      <item id="clas-caitiff-arquetipos-caitiff" href="clas/caitiff/arquetipos-caitiff.html" media-type="application/xhtml+xml" />
+      <item id="clas-caitiff-disciplinas" href="clas/caitiff/disciplinas.html" media-type="application/xhtml+xml" />
+      <item id="clas-caitiff-maldicao-e-fraqueza" href="clas/caitiff/maldicao-e-fraqueza.html" media-type="application/xhtml+xml" />
+
       <item id="disciplinas-regras-gerais-aprendendo-disciplinas"
          href="disciplinas/regras-gerais/aprendendo-disciplinas.html" media-type="application/xhtml+xml" />
       <item id="disciplinas-regras-gerais-escolhendo-poderes" href="disciplinas/regras-gerais/escolhendo-poderes.html"
@@ -437,6 +443,12 @@
       <itemref idref="clas-ventrue-arquetipos-ventrue" linear="yes" />
       <itemref idref="clas-ventrue-disciplinas" linear="yes" />
       <itemref idref="clas-ventrue-maldicao-e-fraqueza-de-cla" linear="yes" />
+
+      <itemref idref="clas-caitiff" linear="yes" />
+      <itemref idref="clas-caitiff-quem-sao-os-caitiff" linear="yes" />
+      <itemref idref="clas-caitiff-arquetipos-caitiff" linear="yes" />
+      <itemref idref="clas-caitiff-disciplinas" linear="yes" />
+      <itemref idref="clas-caitiff-maldicao-e-fraqueza" linear="yes" />
 
       <itemref idref="disciplinas-regras-gerais-aprendendo-disciplinas" linear="yes" />
       <itemref idref="disciplinas-regras-gerais-escolhendo-poderes" linear="yes" />

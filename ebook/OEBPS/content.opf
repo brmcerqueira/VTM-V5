@@ -59,6 +59,11 @@
       <item id="clas-o-ministerio-maldicao-e-fraqueza-de-cla" href="clas/o-ministerio/maldicao-e-fraqueza-de-cla.html" media-type="application/xhtml+xml" />
       <item id="clas-o-ministerio-compulsao-de-cla" href="clas/o-ministerio/compulsao-de-cla.html" media-type="application/xhtml+xml" />
 
+      <item id="clas-nosferatu" href="clas/nosferatu/index.html" media-type="application/xhtml+xml" />
+      <item id="clas-nosferatu-arquetipos-nosferatu" href="clas/nosferatu/arquetipos-nosferatu.html" media-type="application/xhtml+xml" />
+      <item id="clas-nosferatu-disciplinas" href="clas/nosferatu/disciplinas.html" media-type="application/xhtml+xml" />
+      <item id="clas-nosferatu-maldicao-e-fraqueza-de-cla" href="clas/nosferatu/maldicao-e-fraqueza-de-cla.html" media-type="application/xhtml+xml" />
+
       <item id="disciplinas-regras-gerais-aprendendo-disciplinas"
          href="disciplinas/regras-gerais/aprendendo-disciplinas.html" media-type="application/xhtml+xml" />
       <item id="disciplinas-regras-gerais-escolhendo-poderes" href="disciplinas/regras-gerais/escolhendo-poderes.html"
@@ -379,6 +384,11 @@
       <itemref idref="clas-malkavianos-disciplinas" linear="yes" />
       <itemref idref="clas-malkavianos-maldicao-e-fraqueza-do-cla" linear="yes" />
 
+      <itemref idref="clas-nosferatu" linear="yes" />
+      <itemref idref="clas-nosferatu-arquetipos-nosferatu" linear="yes" />
+      <itemref idref="clas-nosferatu-disciplinas" linear="yes" />
+      <itemref idref="clas-nosferatu-maldicao-e-fraqueza-de-cla" linear="yes" />
+      
       <itemref idref="clas-o-ministerio" linear="yes" />
       <itemref idref="clas-o-ministerio-quem-e-o-ministerio" linear="yes" />
       <itemref idref="clas-o-ministerio-o-ministerio-na-sociedade-vampirica-" linear="yes" />

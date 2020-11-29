@@ -277,7 +277,31 @@
                     </navLabel>
                     <content src="clas/o-ministerio/compulsao-de-cla.html" />
                 </navPoint>
-            </navPoint>                                                                         
+            </navPoint>
+            <navPoint id="clas-nosferatu">
+                <navLabel>
+                    <text>NOSFERATU</text>
+                </navLabel>
+                <content src="clas/nosferatu/index.html" />
+                <navPoint id="clas-nosferatu-arquetipos-nosferatu">
+                    <navLabel>
+                        <text>ARQUÉTIPOS NOSFERATU</text>
+                    </navLabel>
+                    <content src="clas/nosferatu/arquetipos-nosferatu.html" />
+                </navPoint>
+                <navPoint id="clas-nosferatu-disciplinas">
+                    <navLabel>
+                        <text>DISCIPLINAS:</text>
+                    </navLabel>
+                    <content src="clas/nosferatu/disciplinas.html" />
+                </navPoint>
+                <navPoint id="clas-nosferatu-maldicao-e-fraqueza-de-cla">
+                    <navLabel>
+                        <text>MALDIÇÃO E FRAQUEZA DE CLÃ:</text>
+                    </navLabel>
+                    <content src="clas/nosferatu/maldicao-e-fraqueza-de-cla.html" />
+                </navPoint>
+            </navPoint>                                                                                    
         </navPoint>
         <navPoint id="disciplinas">
             <navLabel>

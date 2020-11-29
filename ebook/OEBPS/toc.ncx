@@ -145,7 +145,49 @@
                     </navLabel>
                     <content src="clas/gangrel/maldicao-e-fraqueza-de-cla.html" />
                 </navPoint>
-            </navPoint>                                     
+            </navPoint>
+            <navPoint id="clas-lasombra">
+                <navLabel>
+                    <text>LASOMBRA</text>
+                </navLabel>
+                <content src="clas/lasombra/index.html" />
+                <navPoint id="clas-lasombra-quem-sao-os-lasombra">
+                    <navLabel>
+                        <text>QUEM SÃO OS LASOMBRA?</text>
+                    </navLabel>
+                    <content src="clas/lasombra/quem-sao-os-lasombra.html" />
+                </navPoint>
+                <navPoint id="clas-lasombra-arquetipos-lasombra">
+                    <navLabel>
+                        <text>ARQUÉTIPOS LASOMBRA</text>
+                    </navLabel>
+                    <content src="clas/lasombra/arquetipos-lasombra.html" />
+                </navPoint>
+                <navPoint id="clas-lasombra-disciplinas">
+                    <navLabel>
+                        <text>DISCIPLINAS:</text>
+                    </navLabel>
+                    <content src="clas/lasombra/disciplinas.html" />
+                </navPoint>
+                <navPoint id="clas-lasombra-compulsao-lasombra-sem-piedade">
+                    <navLabel>
+                        <text>COMPULSÃO LASOMBRA: SEM PIEDADE</text>
+                    </navLabel>
+                    <content src="clas/lasombra/compulsao-lasombra-sem-piedade.html" />
+                </navPoint>                
+                <navPoint id="clas-lasombra-maldicao-e-fraqueza-de-cla">
+                    <navLabel>
+                        <text>MALDIÇÃO E FRAQUEZA DE CLÃ</text>
+                    </navLabel>
+                    <content src="clas/lasombra/maldicao-e-fraqueza-de-cla.html" />
+                </navPoint>
+                <navPoint id="clas-lasombra-os-lasombra-e-a-tecnologia">
+                    <navLabel>
+                        <text>OS LASOMBRA E A TECNOLOGIA</text>
+                    </navLabel>
+                    <content src="clas/lasombra/os-lasombra-e-a-tecnologia.html" />
+                </navPoint>                
+            </navPoint>                                                 
         </navPoint>
         <navPoint id="disciplinas">
             <navLabel>

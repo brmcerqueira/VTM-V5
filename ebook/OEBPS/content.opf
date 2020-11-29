@@ -34,6 +34,14 @@
       <item id="clas-gangrel-disciplinas" href="clas/gangrel/disciplinas.html" media-type="application/xhtml+xml" />
       <item id="clas-gangrel-maldicao-e-fraqueza-de-cla" href="clas/gangrel/maldicao-e-fraqueza-de-cla.html" media-type="application/xhtml+xml" />
 
+      <item id="clas-lasombra" href="clas/lasombra/index.html" media-type="application/xhtml+xml" />
+      <item id="clas-lasombra-quem-sao-os-lasombra" href="clas/lasombra/quem-sao-os-lasombra.html" media-type="application/xhtml+xml" />
+      <item id="clas-lasombra-arquetipos-lasombra" href="clas/lasombra/arquetipos-lasombra.html" media-type="application/xhtml+xml" />
+      <item id="clas-lasombra-disciplinas" href="clas/lasombra/disciplinas.html" media-type="application/xhtml+xml" />
+      <item id="clas-lasombra-compulsao-lasombra-sem-piedade" href="clas/lasombra/compulsao-lasombra-sem-piedade.html" media-type="application/xhtml+xml" />
+      <item id="clas-lasombra-maldicao-e-fraqueza-de-cla" href="clas/lasombra/maldicao-e-fraqueza-de-cla.html" media-type="application/xhtml+xml" />
+      <item id="clas-lasombra-os-lasombra-e-a-tecnologia" href="clas/lasombra/os-lasombra-e-a-tecnologia.html" media-type="application/xhtml+xml" />
+
       <item id="disciplinas-regras-gerais-aprendendo-disciplinas"
          href="disciplinas/regras-gerais/aprendendo-disciplinas.html" media-type="application/xhtml+xml" />
       <item id="disciplinas-regras-gerais-escolhendo-poderes" href="disciplinas/regras-gerais/escolhendo-poderes.html"
@@ -339,6 +347,14 @@
       <itemref idref="clas-gangrel-arquetipos-gangrel" linear="yes" />
       <itemref idref="clas-gangrel-disciplinas" linear="yes" />
       <itemref idref="clas-gangrel-maldicao-e-fraqueza-de-cla" linear="yes" />
+
+      <itemref idref="clas-lasombra" linear="yes" />
+      <itemref idref="clas-lasombra-quem-sao-os-lasombra" linear="yes" />
+      <itemref idref="clas-lasombra-arquetipos-lasombra" linear="yes" />
+      <itemref idref="clas-lasombra-disciplinas" linear="yes" />
+      <itemref idref="clas-lasombra-compulsao-lasombra-sem-piedade" linear="yes" />
+      <itemref idref="clas-lasombra-maldicao-e-fraqueza-de-cla" linear="yes" />
+      <itemref idref="clas-lasombra-os-lasombra-e-a-tecnologia" linear="yes" />
 
       <itemref idref="disciplinas-regras-gerais-aprendendo-disciplinas" linear="yes" />
       <itemref idref="disciplinas-regras-gerais-escolhendo-poderes" linear="yes" />

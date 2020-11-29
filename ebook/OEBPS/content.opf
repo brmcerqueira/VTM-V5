@@ -28,6 +28,23 @@
       <item id="conceitos-interpretando-e-narrando-represente-os-auxiliares" href="conceitos/interpretando-e-narrando/represente-os-auxiliares.html" media-type="application/xhtml+xml" />
       <item id="conceitos-exemplo-de-jogo-de-v5" href="conceitos/exemplo-de-jogo-de-v5.html" media-type="application/xhtml+xml" />
 
+      <item id="a-sociedade-dos-membros-mentalidades-antigas-e-contemporaneas" href="a-sociedade-dos-membros/mentalidades-antigas-e-contemporaneas.html" media-type="application/xhtml+xml" />
+      <item id="a-sociedade-dos-membros-jihad" href="a-sociedade-dos-membros/jihad.html" media-type="application/xhtml+xml" />
+      <item id="a-sociedade-dos-membros-a-camarilla" href="a-sociedade-dos-membros/a-camarilla/index.html" media-type="application/xhtml+xml" />
+      <item id="a-sociedade-dos-membros-a-camarilla-as-seis-tradicoes" href="a-sociedade-dos-membros/a-camarilla/as-seis-tradicoes.html" media-type="application/xhtml+xml" />
+      <item id="a-sociedade-dos-membros-a-camarilla-a-primeira-tradicao-a-mascara" href="a-sociedade-dos-membros/a-camarilla/a-primeira-tradicao-a-mascara.html" media-type="application/xhtml+xml" />
+      <item id="a-sociedade-dos-membros-a-camarilla-a-segunda-tradicao-o-dominio" href="a-sociedade-dos-membros/a-camarilla/a-segunda-tradicao-o-dominio.html" media-type="application/xhtml+xml" />
+      <item id="a-sociedade-dos-membros-a-camarilla-a-terceira-tradicao-a-progenie" href="a-sociedade-dos-membros/a-camarilla/a-terceira-tradicao-a-progenie.html" media-type="application/xhtml+xml" />
+      <item id="a-sociedade-dos-membros-a-camarilla-a-quarta-tradicao-a-responsabilidade" href="a-sociedade-dos-membros/a-camarilla/a-quarta-tradicao-a-responsabilidade.html" media-type="application/xhtml+xml" />
+      <item id="a-sociedade-dos-membros-a-camarilla-a-quinta-tradicao-a-hospitalidade" href="a-sociedade-dos-membros/a-camarilla/a-quinta-tradicao-a-hospitalidade.html" media-type="application/xhtml+xml" />
+      <item id="a-sociedade-dos-membros-a-camarilla-a-sexta-tradicao-a-destruicao" href="a-sociedade-dos-membros/a-camarilla/a-sexta-tradicao-a-destruicao.html" media-type="application/xhtml+xml" />
+      <item id="a-sociedade-dos-membros-a-camarilla-moda-dos-membros" href="a-sociedade-dos-membros/a-camarilla/moda-dos-membros.html" media-type="application/xhtml+xml" />
+      <item id="a-sociedade-dos-membros-a-camarilla-iconografia" href="a-sociedade-dos-membros/a-camarilla/iconografia.html" media-type="application/xhtml+xml" />
+      <item id="a-sociedade-dos-membros-a-camarilla-o-movimento-anarquista" href="a-sociedade-dos-membros/a-camarilla/o-movimento-anarquista.html" media-type="application/xhtml+xml" />
+      <item id="a-sociedade-dos-membros-os-autarkas" href="a-sociedade-dos-membros/os-autarkas.html" media-type="application/xhtml+xml" />
+      <item id="a-sociedade-dos-membros-fins-e-comecos" href="a-sociedade-dos-membros/fins-e-comecos/index.html" media-type="application/xhtml+xml" />
+      <item id="a-sociedade-dos-membros-fins-e-comecos-lexicon-dos-amaldicoados" href="a-sociedade-dos-membros/fins-e-comecos/lexicon-dos-amaldicoados.html" media-type="application/xhtml+xml" />
+
       <item id="clas-visao-geral" href="clas/visao-geral.html" media-type="application/xhtml+xml" />
       <item id="clas-os-13-clas-maiores" href="clas/os-13-clas-maiores/index.html" media-type="application/xhtml+xml" />
       <item id="clas-os-13-clas-maiores-os-sem-cla-e-autarquias" href="clas/os-13-clas-maiores/os-sem-cla-e-autarquias.html" media-type="application/xhtml+xml" />
@@ -411,6 +428,23 @@
       <itemref idref="conceitos-interpretando-e-narrando-os-jogadores" linear="yes" />
       <itemref idref="conceitos-interpretando-e-narrando-represente-os-auxiliares" linear="yes" />
       <itemref idref="conceitos-exemplo-de-jogo-de-v5" linear="yes" />
+
+      <itemref idref="a-sociedade-dos-membros-mentalidades-antigas-e-contemporaneas" linear="yes" />
+      <itemref idref="a-sociedade-dos-membros-jihad" linear="yes" />
+      <itemref idref="a-sociedade-dos-membros-a-camarilla" linear="yes" />
+      <itemref idref="a-sociedade-dos-membros-a-camarilla-as-seis-tradicoes" linear="yes" />
+      <itemref idref="a-sociedade-dos-membros-a-camarilla-a-primeira-tradicao-a-mascara" linear="yes" />
+      <itemref idref="a-sociedade-dos-membros-a-camarilla-a-segunda-tradicao-o-dominio" linear="yes" />
+      <itemref idref="a-sociedade-dos-membros-a-camarilla-a-terceira-tradicao-a-progenie" linear="yes" />
+      <itemref idref="a-sociedade-dos-membros-a-camarilla-a-quarta-tradicao-a-responsabilidade" linear="yes" />
+      <itemref idref="a-sociedade-dos-membros-a-camarilla-a-quinta-tradicao-a-hospitalidade" linear="yes" />
+      <itemref idref="a-sociedade-dos-membros-a-camarilla-a-sexta-tradicao-a-destruicao" linear="yes" />
+      <itemref idref="a-sociedade-dos-membros-a-camarilla-moda-dos-membros" linear="yes" />
+      <itemref idref="a-sociedade-dos-membros-a-camarilla-iconografia" linear="yes" />
+      <itemref idref="a-sociedade-dos-membros-a-camarilla-o-movimento-anarquista" linear="yes" />
+      <itemref idref="a-sociedade-dos-membros-os-autarkas" linear="yes" />
+      <itemref idref="a-sociedade-dos-membros-fins-e-comecos" linear="yes" />
+      <itemref idref="a-sociedade-dos-membros-fins-e-comecos-lexicon-dos-amaldicoados" linear="yes" />
 
       <itemref idref="clas-visao-geral" linear="yes" />
       <itemref idref="clas-os-13-clas-maiores" linear="yes" />

@@ -367,7 +367,37 @@
                     </navLabel>
                     <content src="clas/tremere/maldicao-e-fraqueza-de-cla.html" />
                 </navPoint>
-            </navPoint>                                                                                                            
+            </navPoint>
+            <navPoint id="clas-ventrue">
+                <navLabel>
+                    <text>VENTRUE</text>
+                </navLabel>
+                <content src="clas/ventrue/index.html" />
+                <navPoint id="clas-ventrue-quem-sao-os-ventrue">
+                    <navLabel>
+                        <text>QUEM SÃO OS VENTRUE?</text>
+                    </navLabel>
+                    <content src="clas/ventrue/quem-sao-os-ventrue.html" />
+                </navPoint>
+                <navPoint id="clas-ventrue-arquetipos-ventrue">
+                    <navLabel>
+                        <text>ARQUÉTIPOS VENTRUE</text>
+                    </navLabel>
+                    <content src="clas/ventrue/arquetipos-ventrue.html" />
+                </navPoint>
+                <navPoint id="clas-ventrue-disciplinas">
+                    <navLabel>
+                        <text>DISCIPLINAS:</text>
+                    </navLabel>
+                    <content src="clas/ventrue/disciplinas.html" />
+                </navPoint>
+                <navPoint id="clas-ventrue-maldicao-e-fraqueza-de-cla">
+                    <navLabel>
+                        <text>MALDIÇÃO E FRAQUEZA DE CLÃ</text>
+                    </navLabel>
+                    <content src="clas/ventrue/maldicao-e-fraqueza-de-cla.html" />
+                </navPoint>
+            </navPoint>                                                                                                                        
         </navPoint>
         <navPoint id="disciplinas">
             <navLabel>

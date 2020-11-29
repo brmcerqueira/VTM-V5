@@ -77,6 +77,12 @@
       <item id="clas-tremere-disciplinas" href="clas/tremere/disciplinas.html" media-type="application/xhtml+xml" />
       <item id="clas-tremere-maldicao-e-fraqueza-de-cla" href="clas/tremere/maldicao-e-fraqueza-de-cla.html" media-type="application/xhtml+xml" />
 
+      <item id="clas-ventrue" href="clas/ventrue/index.html" media-type="application/xhtml+xml" />
+      <item id="clas-ventrue-quem-sao-os-ventrue" href="clas/ventrue/quem-sao-os-ventrue.html" media-type="application/xhtml+xml" />
+      <item id="clas-ventrue-arquetipos-ventrue" href="clas/ventrue/arquetipos-ventrue.html" media-type="application/xhtml+xml" />
+      <item id="clas-ventrue-disciplinas" href="clas/ventrue/disciplinas.html" media-type="application/xhtml+xml" />
+      <item id="clas-ventrue-maldicao-e-fraqueza-de-cla" href="clas/ventrue/maldicao-e-fraqueza-de-cla.html" media-type="application/xhtml+xml" />
+
       <item id="disciplinas-regras-gerais-aprendendo-disciplinas"
          href="disciplinas/regras-gerais/aprendendo-disciplinas.html" media-type="application/xhtml+xml" />
       <item id="disciplinas-regras-gerais-escolhendo-poderes" href="disciplinas/regras-gerais/escolhendo-poderes.html"
@@ -425,6 +431,12 @@
       <itemref idref="clas-tremere-arquetipos-tremere" linear="yes" />
       <itemref idref="clas-tremere-disciplinas" linear="yes" />
       <itemref idref="clas-tremere-maldicao-e-fraqueza-de-cla" linear="yes" />
+
+      <itemref idref="clas-ventrue" linear="yes" />
+      <itemref idref="clas-ventrue-quem-sao-os-ventrue" linear="yes" />
+      <itemref idref="clas-ventrue-arquetipos-ventrue" linear="yes" />
+      <itemref idref="clas-ventrue-disciplinas" linear="yes" />
+      <itemref idref="clas-ventrue-maldicao-e-fraqueza-de-cla" linear="yes" />
 
       <itemref idref="disciplinas-regras-gerais-aprendendo-disciplinas" linear="yes" />
       <itemref idref="disciplinas-regras-gerais-escolhendo-poderes" linear="yes" />

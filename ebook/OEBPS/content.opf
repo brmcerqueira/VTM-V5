@@ -10,6 +10,24 @@
       <!-- Documentos -->
       <item id="index" href="index.html" media-type="application/xhtml+xml" />
 
+      <item id="conceitos-o-mundo-das-trevas" href="conceitos/o-mundo-das-trevas/index.html" media-type="application/xhtml+xml" />
+      <item id="conceitos-o-mundo-das-trevas-a-sombra-do-arranha-ceu" href="conceitos/o-mundo-das-trevas/a-sombra-do-arranha-ceu.html" media-type="application/xhtml+xml" />
+      <item id="conceitos-o-mundo-das-trevas-sem-herois" href="conceitos/o-mundo-das-trevas/sem-herois.html" media-type="application/xhtml+xml" />
+      <item id="conceitos-o-mundo-das-trevas-limites-individuais" href="conceitos/o-mundo-das-trevas/limites-individuais.html" media-type="application/xhtml+xml" />
+      <item id="conceitos-o-mundo-das-trevas-o-que-esta-acontecendo" href="conceitos/o-mundo-das-trevas/o-que-esta-acontecendo.html" media-type="application/xhtml+xml" />
+      <item id="conceitos-o-mundo-das-trevas-como-voce-se-conecta-com-o-resto-do-mundo-das-trevas" href="conceitos/o-mundo-das-trevas/como-voce-se-conecta-com-o-resto-do-mundo-das-trevas.html" media-type="application/xhtml+xml" />
+      <item id="conceitos-o-mundo-das-trevas-nova-geracao-tirana" href="conceitos/o-mundo-das-trevas/nova-geracao-tirana.html" media-type="application/xhtml+xml" />
+      <item id="conceitos-o-mundo-das-trevas-a-ocultacao-do-saba" href="conceitos/o-mundo-das-trevas/a-ocultacao-do-saba.html" media-type="application/xhtml+xml" />
+      <item id="conceitos-o-mundo-das-trevas-revolucao-total" href="conceitos/o-mundo-das-trevas/revolucao-total.html" media-type="application/xhtml+xml" />
+      <item id="conceitos-o-mundo-das-trevas-monstros-individuais" href="conceitos/o-mundo-das-trevas/monstros-individuais.html" media-type="application/xhtml+xml" />
+      <item id="conceitos-o-mundo-das-trevas-a-segunda-inquisicao" href="conceitos/o-mundo-das-trevas/a-segunda-inquisicao.html" media-type="application/xhtml+xml" />
+      <item id="conceitos-o-mundo-das-trevas-um-mundo-em-mudanca" href="conceitos/o-mundo-das-trevas/um-mundo-em-mudanca.html" media-type="application/xhtml+xml" />
+      <item id="conceitos-interpretando-e-narrando" href="conceitos/interpretando-e-narrando/index.html" media-type="application/xhtml+xml" />
+      <item id="conceitos-interpretando-e-narrando-o-narrador" href="conceitos/interpretando-e-narrando/o-narrador.html" media-type="application/xhtml+xml" />
+      <item id="conceitos-interpretando-e-narrando-os-jogadores" href="conceitos/interpretando-e-narrando/os-jogadores.html" media-type="application/xhtml+xml" />
+      <item id="conceitos-interpretando-e-narrando-represente-os-auxiliares" href="conceitos/interpretando-e-narrando/represente-os-auxiliares.html" media-type="application/xhtml+xml" />
+      <item id="conceitos-exemplo-de-jogo-de-v5" href="conceitos/exemplo-de-jogo-de-v5.html" media-type="application/xhtml+xml" />
+
       <item id="clas-visao-geral" href="clas/visao-geral.html" media-type="application/xhtml+xml" />
       <item id="clas-os-13-clas-maiores" href="clas/os-13-clas-maiores/index.html" media-type="application/xhtml+xml" />
       <item id="clas-os-13-clas-maiores-os-sem-cla-e-autarquias" href="clas/os-13-clas-maiores/os-sem-cla-e-autarquias.html" media-type="application/xhtml+xml" />
@@ -375,6 +393,24 @@
    </manifest>
    <spine toc="idtoc">
       <itemref idref="index" linear="yes" />
+
+      <itemref idref="conceitos-o-mundo-das-trevas" linear="yes" />
+      <itemref idref="conceitos-o-mundo-das-trevas-a-sombra-do-arranha-ceu" linear="yes" />
+      <itemref idref="conceitos-o-mundo-das-trevas-sem-herois" linear="yes" />
+      <itemref idref="conceitos-o-mundo-das-trevas-limites-individuais" linear="yes" />
+      <itemref idref="conceitos-o-mundo-das-trevas-o-que-esta-acontecendo" linear="yes" />
+      <itemref idref="conceitos-o-mundo-das-trevas-como-voce-se-conecta-com-o-resto-do-mundo-das-trevas" linear="yes" />
+      <itemref idref="conceitos-o-mundo-das-trevas-nova-geracao-tirana" linear="yes" />
+      <itemref idref="conceitos-o-mundo-das-trevas-a-ocultacao-do-saba" linear="yes" />
+      <itemref idref="conceitos-o-mundo-das-trevas-revolucao-total" linear="yes" />
+      <itemref idref="conceitos-o-mundo-das-trevas-monstros-individuais" linear="yes" />
+      <itemref idref="conceitos-o-mundo-das-trevas-a-segunda-inquisicao" linear="yes" />
+      <itemref idref="conceitos-o-mundo-das-trevas-um-mundo-em-mudanca" linear="yes" />
+      <itemref idref="conceitos-interpretando-e-narrando" linear="yes" />
+      <itemref idref="conceitos-interpretando-e-narrando-o-narrador" linear="yes" />
+      <itemref idref="conceitos-interpretando-e-narrando-os-jogadores" linear="yes" />
+      <itemref idref="conceitos-interpretando-e-narrando-represente-os-auxiliares" linear="yes" />
+      <itemref idref="conceitos-exemplo-de-jogo-de-v5" linear="yes" />
 
       <itemref idref="clas-visao-geral" linear="yes" />
       <itemref idref="clas-os-13-clas-maiores" linear="yes" />

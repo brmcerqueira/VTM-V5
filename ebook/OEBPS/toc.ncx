@@ -230,7 +230,7 @@
                     <content src="a-sociedade-dos-membros/fins-e-comecos/lexicon-dos-amaldicoados.html" />
                 </navPoint>
             </navPoint>            
-        </navPoint>                
+        </navPoint>                      
         <navPoint id="clas">
             <navLabel>
                 <text>CLÃS</text>
@@ -663,6 +663,156 @@
                 </navPoint>
             </navPoint>                                                                                                                                                
         </navPoint>
+        <navPoint id="regras">
+            <navLabel>
+                <text>REGRAS</text>
+            </navLabel>
+            <content src="regras/tempo/index.html" />
+            <navPoint id="regras-tempo">
+                <navLabel>
+                    <text>TEMPO</text>
+                </navLabel>
+                <content src="regras/tempo/index.html" />
+                <navPoint id="regras-tempo-jogando-os-dados">
+                    <navLabel>
+                        <text>JOGANDO OS DADOS</text>
+                    </navLabel>
+                    <content src="regras/tempo/jogando-os-dados.html" />
+                </navPoint>
+            </navPoint>
+            <navPoint id="regras-testes-simples">
+                <navLabel>
+                    <text>TESTES SIMPLES</text>
+                </navLabel>
+                <content src="regras/testes-simples/index.html" />
+                <navPoint id="regras-testes-simples-caracteristicas">
+                    <navLabel>
+                        <text>CARACTERÍSTICAS</text>
+                    </navLabel>
+                    <content src="regras/testes-simples/caracteristicas.html" />
+                </navPoint>
+                <navPoint id="regras-testes-simples-paradas-de-dados">
+                    <navLabel>
+                        <text>PARADAS DE DADOS</text>
+                    </navLabel>
+                    <content src="regras/testes-simples/paradas-de-dados.html" />
+                </navPoint>
+                <navPoint id="regras-testes-simples-exemplo">
+                    <navLabel>
+                        <text>EXEMPLO:</text>
+                    </navLabel>
+                    <content src="regras/testes-simples/exemplo.html" />
+                </navPoint>
+                <navPoint id="regras-testes-simples-dificuldades">
+                    <navLabel>
+                        <text>DIFICULDADES</text>
+                    </navLabel>
+                    <content src="regras/testes-simples/dificuldades.html" />
+                </navPoint>
+                <navPoint id="regras-testes-simples-">
+                    <navLabel>
+                        <text></text>
+                    </navLabel>
+                    <content src="regras/testes-simples/.html" />
+                </navPoint>
+                <navPoint id="regras-testes-simples-resultados-da-parada-de-dados">
+                    <navLabel>
+                        <text>RESULTADOS DA PARADA DE DADOS</text>
+                    </navLabel>
+                    <content src="regras/testes-simples/resultados-da-parada-de-dados.html" />
+                </navPoint>
+                <navPoint id="regras-testes-simples-sucesso-e-falha-de-acordo-com-os-dados">
+                    <navLabel>
+                        <text>SUCESSO E FALHA DE ACORDO COM OS DADOS</text>
+                    </navLabel>
+                    <content src="regras/testes-simples/sucesso-e-falha-de-acordo-com-os-dados.html" />
+                </navPoint>
+                <navPoint id="regras-testes-simples-criticos-no-jogo">
+                    <navLabel>
+                        <text>CRÍTICOS NO JOGO:</text>
+                    </navLabel>
+                    <content src="regras/testes-simples/criticos-no-jogo.html" />
+                </navPoint>
+                <navPoint id="regras-testes-simples-checagem">
+                    <navLabel>
+                        <text>CHECAGEM</text>
+                    </navLabel>
+                    <content src="regras/testes-simples/checagem.html" />
+                </navPoint>
+                <navPoint id="regras-testes-simples-descrevendo-o-teste">
+                    <navLabel>
+                        <text>DESCREVENDO O TESTE</text>
+                    </navLabel>
+                    <content src="regras/testes-simples/descrevendo-o-teste.html" />
+                </navPoint>
+            </navPoint>
+            <navPoint id="regras-testes-disputados">
+                <navLabel>
+                    <text>TESTES DISPUTADOS</text>
+                </navLabel>
+                <content src="regras/testes-disputados.html" />
+            </navPoint>
+            <navPoint id="regras-conflitos">
+                <navLabel>
+                    <text>CONFLITOS</text>
+                </navLabel>
+                <content src="regras/conflitos/index.html" />
+                <navPoint id="regras-conflitos-o-turnos-de-um-conflito">
+                    <navLabel>
+                        <text>O TURNOS DE UM CONFLITO</text>
+                    </navLabel>
+                    <content src="regras/conflitos/o-turnos-de-um-conflito.html" />
+                </navPoint>
+                <navPoint id="regras-conflitos-paradas-de-dados-de-um-conflito">
+                    <navLabel>
+                        <text>PARADAS DE DADOS DE UM CONFLITO</text>
+                    </navLabel>
+                    <content src="regras/conflitos/paradas-de-dados-de-um-conflito.html" />
+                </navPoint>
+                <navPoint id="regras-conflitos-quem-vai-primeiro">
+                    <navLabel>
+                        <text>QUEM VAI PRIMEIRO?</text>
+                    </navLabel>
+                    <content src="regras/conflitos/quem-vai-primeiro.html" />
+                </navPoint>
+                <navPoint id="regras-conflitos-dano">
+                    <navLabel>
+                        <text>DANO</text>
+                    </navLabel>
+                    <content src="regras/conflitos/dano.html" />
+                </navPoint>
+                <navPoint id="regras-conflitos-curando">
+                    <navLabel>
+                        <text>CURANDO</text>
+                    </navLabel>
+                    <content src="regras/conflitos/curando.html" />
+                </navPoint>
+            </navPoint>
+            <navPoint id="regras-exemplos-de-testes">
+                <navLabel>
+                    <text>EXEMPLOS DE TESTES</text>
+                </navLabel>
+                <content src="regras/exemplos-de-testes.html" />
+            </navPoint>
+            <navPoint id="regras-experiencia-e-aprimoramento">
+                <navLabel>
+                    <text>EXPERIÊNCIA E APRIMORAMENTO</text>
+                </navLabel>
+                <content src="regras/experiencia-e-aprimoramento.html" />
+            </navPoint>
+            <navPoint id="regras-a-regra-de-ouro">
+                <navLabel>
+                    <text>A REGRA DE OURO</text>
+                </navLabel>
+                <content src="regras/a-regra-de-ouro.html" />
+            </navPoint>
+            <navPoint id="regras-as-tradicoes-cainitas">
+                <navLabel>
+                    <text>AS TRADIÇÕES CAINITAS</text>
+                </navLabel>
+                <content src="regras/as-tradicoes-cainitas.html" />
+            </navPoint>            
+        </navPoint>        
         <navPoint id="disciplinas">
             <navLabel>
                 <text>DISCIPLINAS</text>

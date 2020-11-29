@@ -129,6 +129,31 @@
       <item id="clas-sangue-fraco-arquetipos-sangue-fraco" href="clas/sangue-fraco/arquetipos-sangue-fraco.html" media-type="application/xhtml+xml" />
       <item id="clas-sangue-fraco-caracteristicas-dos-sangue-fraco" href="clas/sangue-fraco/caracteristicas-dos-sangue-fraco.html" media-type="application/xhtml+xml" />
 
+      <item id="regras-tempo" href="regras/tempo/index.html" media-type="application/xhtml+xml" />
+      <item id="regras-tempo-jogando-os-dados" href="regras/tempo/jogando-os-dados.html" media-type="application/xhtml+xml" />
+      <item id="regras-testes-simples" href="regras/testes-simples/index.html" media-type="application/xhtml+xml" />
+      <item id="regras-testes-simples-caracteristicas" href="regras/testes-simples/caracteristicas.html" media-type="application/xhtml+xml" />
+      <item id="regras-testes-simples-paradas-de-dados" href="regras/testes-simples/paradas-de-dados.html" media-type="application/xhtml+xml" />
+      <item id="regras-testes-simples-exemplo" href="regras/testes-simples/exemplo.html" media-type="application/xhtml+xml" />
+      <item id="regras-testes-simples-dificuldades" href="regras/testes-simples/dificuldades.html" media-type="application/xhtml+xml" />
+      <item id="regras-testes-simples-" href="regras/testes-simples/.html" media-type="application/xhtml+xml" />
+      <item id="regras-testes-simples-resultados-da-parada-de-dados" href="regras/testes-simples/resultados-da-parada-de-dados.html" media-type="application/xhtml+xml" />
+      <item id="regras-testes-simples-sucesso-e-falha-de-acordo-com-os-dados" href="regras/testes-simples/sucesso-e-falha-de-acordo-com-os-dados.html" media-type="application/xhtml+xml" />
+      <item id="regras-testes-simples-criticos-no-jogo" href="regras/testes-simples/criticos-no-jogo.html" media-type="application/xhtml+xml" />
+      <item id="regras-testes-simples-checagem" href="regras/testes-simples/checagem.html" media-type="application/xhtml+xml" />
+      <item id="regras-testes-simples-descrevendo-o-teste" href="regras/testes-simples/descrevendo-o-teste.html" media-type="application/xhtml+xml" />
+      <item id="regras-testes-disputados" href="regras/testes-disputados.html" media-type="application/xhtml+xml" />
+      <item id="regras-conflitos" href="regras/conflitos/index.html" media-type="application/xhtml+xml" />
+      <item id="regras-conflitos-o-turnos-de-um-conflito" href="regras/conflitos/o-turnos-de-um-conflito.html" media-type="application/xhtml+xml" />
+      <item id="regras-conflitos-paradas-de-dados-de-um-conflito" href="regras/conflitos/paradas-de-dados-de-um-conflito.html" media-type="application/xhtml+xml" />
+      <item id="regras-conflitos-quem-vai-primeiro" href="regras/conflitos/quem-vai-primeiro.html" media-type="application/xhtml+xml" />
+      <item id="regras-conflitos-dano" href="regras/conflitos/dano.html" media-type="application/xhtml+xml" />
+      <item id="regras-conflitos-curando" href="regras/conflitos/curando.html" media-type="application/xhtml+xml" />
+      <item id="regras-exemplos-de-testes" href="regras/exemplos-de-testes.html" media-type="application/xhtml+xml" />
+      <item id="regras-experiencia-e-aprimoramento" href="regras/experiencia-e-aprimoramento.html" media-type="application/xhtml+xml" />
+      <item id="regras-a-regra-de-ouro" href="regras/a-regra-de-ouro.html" media-type="application/xhtml+xml" />
+      <item id="regras-as-tradicoes-cainitas" href="regras/as-tradicoes-cainitas.html" media-type="application/xhtml+xml" />
+
       <item id="disciplinas-regras-gerais-aprendendo-disciplinas"
          href="disciplinas/regras-gerais/aprendendo-disciplinas.html" media-type="application/xhtml+xml" />
       <item id="disciplinas-regras-gerais-escolhendo-poderes" href="disciplinas/regras-gerais/escolhendo-poderes.html"
@@ -529,6 +554,31 @@
       <itemref idref="clas-sangue-fraco-quem-sao-os-sangue-fracos" linear="yes" />
       <itemref idref="clas-sangue-fraco-arquetipos-sangue-fraco" linear="yes" />
       <itemref idref="clas-sangue-fraco-caracteristicas-dos-sangue-fraco" linear="yes" />
+
+      <itemref idref="regras-tempo" linear="yes" />
+      <itemref idref="regras-tempo-jogando-os-dados" linear="yes" />
+      <itemref idref="regras-testes-simples" linear="yes" />
+      <itemref idref="regras-testes-simples-caracteristicas" linear="yes" />
+      <itemref idref="regras-testes-simples-paradas-de-dados" linear="yes" />
+      <itemref idref="regras-testes-simples-exemplo" linear="yes" />
+      <itemref idref="regras-testes-simples-dificuldades" linear="yes" />
+      <itemref idref="regras-testes-simples-" linear="yes" />
+      <itemref idref="regras-testes-simples-resultados-da-parada-de-dados" linear="yes" />
+      <itemref idref="regras-testes-simples-sucesso-e-falha-de-acordo-com-os-dados" linear="yes" />
+      <itemref idref="regras-testes-simples-criticos-no-jogo" linear="yes" />
+      <itemref idref="regras-testes-simples-checagem" linear="yes" />
+      <itemref idref="regras-testes-simples-descrevendo-o-teste" linear="yes" />
+      <itemref idref="regras-testes-disputados" linear="yes" />
+      <itemref idref="regras-conflitos" linear="yes" />
+      <itemref idref="regras-conflitos-o-turnos-de-um-conflito" linear="yes" />
+      <itemref idref="regras-conflitos-paradas-de-dados-de-um-conflito" linear="yes" />
+      <itemref idref="regras-conflitos-quem-vai-primeiro" linear="yes" />
+      <itemref idref="regras-conflitos-dano" linear="yes" />
+      <itemref idref="regras-conflitos-curando" linear="yes" />
+      <itemref idref="regras-exemplos-de-testes" linear="yes" />
+      <itemref idref="regras-experiencia-e-aprimoramento" linear="yes" />
+      <itemref idref="regras-a-regra-de-ouro" linear="yes" />
+      <itemref idref="regras-as-tradicoes-cainitas" linear="yes" />
 
       <itemref idref="disciplinas-regras-gerais-aprendendo-disciplinas" linear="yes" />
       <itemref idref="disciplinas-regras-gerais-escolhendo-poderes" linear="yes" />

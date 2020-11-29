@@ -98,7 +98,7 @@ for (const p of doc.querySelectorAll("*")) {
 
         current = item;
     }
-    else if (current && (p.nodeName == "P" || p.nodeName == "UL")) {
+    else if (current && (p.nodeName == "P" || p.nodeName == "UL" || p.nodeName == "TABLE")) {
         current.content += (<Element>p).outerHTML.replaceAll('<br>', '').replaceAll('<br/>', '').replaceAll('<br />', '');
     }
 }

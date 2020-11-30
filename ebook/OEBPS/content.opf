@@ -270,6 +270,19 @@
       <item id="criacao-de-personagens-tipos-de-predadores-sereia" href="criacao-de-personagens/tipos-de-predadores/sereia.html" media-type="application/xhtml+xml" />
       <item id="criacao-de-personagens-vantagens" href="criacao-de-personagens/vantagens/index.html" media-type="application/xhtml+xml" />
       <item id="criacao-de-personagens-vantagens-ganhando-e-perdendo-vantagens" href="criacao-de-personagens/vantagens/ganhando-e-perdendo-vantagens.html" media-type="application/xhtml+xml" />
+
+      <item id="criacao-de-personagens-vantagens-qualidades-e-defeitos" href="criacao-de-personagens/vantagens/qualidades-e-defeitos/index.html" media-type="application/xhtml+xml" />
+      <item id="criacao-de-personagens-vantagens-qualidades-e-defeitos-linguistica" href="criacao-de-personagens/vantagens/qualidades-e-defeitos/linguistica.html" media-type="application/xhtml+xml" />
+      <item id="criacao-de-personagens-vantagens-qualidades-e-defeitos-visual" href="criacao-de-personagens/vantagens/qualidades-e-defeitos/visual.html" media-type="application/xhtml+xml" />
+      <item id="criacao-de-personagens-vantagens-qualidades-e-defeitos-uso-de-substancia" href="criacao-de-personagens/vantagens/qualidades-e-defeitos/uso-de-substancia.html" media-type="application/xhtml+xml" />
+      <item id="criacao-de-personagens-vantagens-qualidades-e-defeitos-arcaico" href="criacao-de-personagens/vantagens/qualidades-e-defeitos/arcaico.html" media-type="application/xhtml+xml" />
+      <item id="criacao-de-personagens-vantagens-qualidades-e-defeitos-laco" href="criacao-de-personagens/vantagens/qualidades-e-defeitos/laco.html" media-type="application/xhtml+xml" />
+      <item id="criacao-de-personagens-vantagens-qualidades-e-defeitos-alimentacao" href="criacao-de-personagens/vantagens/qualidades-e-defeitos/alimentacao.html" media-type="application/xhtml+xml" />
+      <item id="criacao-de-personagens-vantagens-qualidades-e-defeitos-qualidades-e-defeitos-miticos" href="criacao-de-personagens/vantagens/qualidades-e-defeitos/qualidades-e-defeitos-miticos.html" media-type="application/xhtml+xml" />
+      <item id="criacao-de-personagens-vantagens-qualidades-e-defeitos-qualidades-e-defeitos-de-sangue-fraco" href="criacao-de-personagens/vantagens/qualidades-e-defeitos/qualidades-e-defeitos-de-sangue-fraco/index.html" media-type="application/xhtml+xml" />
+      <item id="criacao-de-personagens-vantagens-qualidades-e-defeitos-qualidades-e-defeitos-de-sangue-fraco-defeitos-de-sangue-fraco" href="criacao-de-personagens/vantagens/qualidades-e-defeitos/qualidades-e-defeitos-de-sangue-fraco/defeitos-de-sangue-fraco.html" media-type="application/xhtml+xml" />
+      <item id="criacao-de-personagens-vantagens-qualidades-e-defeitos-qualidades-e-defeitos-de-sangue-fraco-qualidades-de-sangue-fraco" href="criacao-de-personagens/vantagens/qualidades-e-defeitos/qualidades-e-defeitos-de-sangue-fraco/qualidades-de-sangue-fraco.html" media-type="application/xhtml+xml" />
+            
       <item id="criacao-de-personagens-criacao-da-coterie" href="criacao-de-personagens/criacao-da-coterie/index.html" media-type="application/xhtml+xml" />
       <item id="criacao-de-personagens-criacao-da-coterie-dominio" href="criacao-de-personagens/criacao-da-coterie/dominio/index.html" media-type="application/xhtml+xml" />
       <item id="criacao-de-personagens-criacao-da-coterie-dominio-chasse" href="criacao-de-personagens/criacao-da-coterie/dominio/chasse.html" media-type="application/xhtml+xml" />
@@ -821,6 +834,19 @@
       <itemref idref="criacao-de-personagens-tipos-de-predadores-sereia" linear="yes" />
       <itemref idref="criacao-de-personagens-vantagens" linear="yes" />
       <itemref idref="criacao-de-personagens-vantagens-ganhando-e-perdendo-vantagens" linear="yes" />
+      
+      <itemref idref="criacao-de-personagens-vantagens-qualidades-e-defeitos" linear="yes" />
+      <itemref idref="criacao-de-personagens-vantagens-qualidades-e-defeitos-linguistica" linear="yes" />
+      <itemref idref="criacao-de-personagens-vantagens-qualidades-e-defeitos-visual" linear="yes" />
+      <itemref idref="criacao-de-personagens-vantagens-qualidades-e-defeitos-uso-de-substancia" linear="yes" />
+      <itemref idref="criacao-de-personagens-vantagens-qualidades-e-defeitos-arcaico" linear="yes" />
+      <itemref idref="criacao-de-personagens-vantagens-qualidades-e-defeitos-laco" linear="yes" />
+      <itemref idref="criacao-de-personagens-vantagens-qualidades-e-defeitos-alimentacao" linear="yes" />
+      <itemref idref="criacao-de-personagens-vantagens-qualidades-e-defeitos-qualidades-e-defeitos-miticos" linear="yes" />
+      <itemref idref="criacao-de-personagens-vantagens-qualidades-e-defeitos-qualidades-e-defeitos-de-sangue-fraco" linear="yes" />
+      <itemref idref="criacao-de-personagens-vantagens-qualidades-e-defeitos-qualidades-e-defeitos-de-sangue-fraco-defeitos-de-sangue-fraco" linear="yes" />
+      <itemref idref="criacao-de-personagens-vantagens-qualidades-e-defeitos-qualidades-e-defeitos-de-sangue-fraco-qualidades-de-sangue-fraco" linear="yes" />      
+            
       <itemref idref="criacao-de-personagens-criacao-da-coterie" linear="yes" />
       <itemref idref="criacao-de-personagens-criacao-da-coterie-dominio" linear="yes" />
       <itemref idref="criacao-de-personagens-criacao-da-coterie-dominio-chasse" linear="yes" />

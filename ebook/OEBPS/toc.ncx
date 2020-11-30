@@ -1567,6 +1567,77 @@
                     </navLabel>
                     <content src="criacao-de-personagens/vantagens/ganhando-e-perdendo-vantagens.html" />
                 </navPoint>
+                <navPoint id="criacao-de-personagens-vantagens-qualidades-e-defeitos">
+                    <navLabel>
+                        <text>QUALIDADES E DEFEITOS</text>
+                    </navLabel>
+                    <content src="criacao-de-personagens/vantagens/qualidades-e-defeitos/index.html" />
+                    <navPoint id="criacao-de-personagens-vantagens-qualidades-e-defeitos-linguistica">
+                        <navLabel>
+                            <text>LINGUÍSTICA</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/vantagens/qualidades-e-defeitos/linguistica.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-vantagens-qualidades-e-defeitos-visual">
+                        <navLabel>
+                            <text>VISUAL</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/vantagens/qualidades-e-defeitos/visual.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-vantagens-qualidades-e-defeitos-uso-de-substancia">
+                        <navLabel>
+                            <text>USO DE SUBSTÂNCIA</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/vantagens/qualidades-e-defeitos/uso-de-substancia.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-vantagens-qualidades-e-defeitos-arcaico">
+                        <navLabel>
+                            <text>ARCAICO</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/vantagens/qualidades-e-defeitos/arcaico.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-vantagens-qualidades-e-defeitos-laco">
+                        <navLabel>
+                            <text>LAÇO</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/vantagens/qualidades-e-defeitos/laco.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-vantagens-qualidades-e-defeitos-alimentacao">
+                        <navLabel>
+                            <text>ALIMENTAÇÃO</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/vantagens/qualidades-e-defeitos/alimentacao.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-vantagens-qualidades-e-defeitos-qualidades-e-defeitos-miticos">
+                        <navLabel>
+                            <text>QUALIDADES E DEFEITOS MÍTICOS</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/vantagens/qualidades-e-defeitos/qualidades-e-defeitos-miticos.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-vantagens-qualidades-e-defeitos-qualidades-e-defeitos-de-sangue-fraco">
+                        <navLabel>
+                            <text>QUALIDADES E DEFEITOS DE SANGUE-FRACO</text>
+                        </navLabel>
+                        <content
+                            src="criacao-de-personagens/vantagens/qualidades-e-defeitos/qualidades-e-defeitos-de-sangue-fraco/index.html" />
+                        <navPoint
+                            id="criacao-de-personagens-vantagens-qualidades-e-defeitos-qualidades-e-defeitos-de-sangue-fraco-defeitos-de-sangue-fraco">
+                            <navLabel>
+                                <text>DEFEITOS DE SANGUE FRACO:</text>
+                            </navLabel>
+                            <content
+                                src="criacao-de-personagens/vantagens/qualidades-e-defeitos/qualidades-e-defeitos-de-sangue-fraco/defeitos-de-sangue-fraco.html" />
+                        </navPoint>
+                        <navPoint
+                            id="criacao-de-personagens-vantagens-qualidades-e-defeitos-qualidades-e-defeitos-de-sangue-fraco-qualidades-de-sangue-fraco">
+                            <navLabel>
+                                <text>QUALIDADES DE SANGUE FRACO:</text>
+                            </navLabel>
+                            <content
+                                src="criacao-de-personagens/vantagens/qualidades-e-defeitos/qualidades-e-defeitos-de-sangue-fraco/qualidades-de-sangue-fraco.html" />
+                        </navPoint>
+                    </navPoint>
+                </navPoint>
             </navPoint>
             <navPoint id="criacao-de-personagens-criacao-da-coterie">
                 <navLabel>

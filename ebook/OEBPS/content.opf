@@ -283,11 +283,7 @@
       <item id="criacao-de-personagens-vantagens-qualidades-e-defeitos-qualidades-e-defeitos-de-sangue-fraco-qualidades-de-sangue-fraco" href="criacao-de-personagens/vantagens/qualidades-e-defeitos/qualidades-e-defeitos-de-sangue-fraco/qualidades-de-sangue-fraco.html" media-type="application/xhtml+xml" />
             
       <item id="criacao-de-personagens-criacao-da-coterie" href="criacao-de-personagens/criacao-da-coterie/index.html" media-type="application/xhtml+xml" />
-      <item id="criacao-de-personagens-criacao-da-coterie-dominio" href="criacao-de-personagens/criacao-da-coterie/dominio/index.html" media-type="application/xhtml+xml" />
-      <item id="criacao-de-personagens-criacao-da-coterie-dominio-chasse" href="criacao-de-personagens/criacao-da-coterie/dominio/chasse.html" media-type="application/xhtml+xml" />
-      <item id="criacao-de-personagens-criacao-da-coterie-dominio-lien" href="criacao-de-personagens/criacao-da-coterie/dominio/lien.html" media-type="application/xhtml+xml" />
-      <item id="criacao-de-personagens-criacao-da-coterie-dominio-portillon" href="criacao-de-personagens/criacao-da-coterie/dominio/portillon.html" media-type="application/xhtml+xml" />
-      <item id="criacao-de-personagens-criacao-da-coterie-dominio-coteries-sem-dominio" href="criacao-de-personagens/criacao-da-coterie/dominio/coteries-sem-dominio.html" media-type="application/xhtml+xml" />
+      <item id="criacao-de-personagens-criacao-da-coterie-coteries-sem-dominio" href="criacao-de-personagens/criacao-da-coterie/coteries-sem-dominio.html" media-type="application/xhtml+xml" />
       <item id="criacao-de-personagens-criacao-da-coterie-antecedentes-de-coteries" href="criacao-de-personagens/criacao-da-coterie/antecedentes-de-coteries.html" media-type="application/xhtml+xml" />
       <item id="criacao-de-personagens-criacao-da-coterie-tipos-de-coteries" href="criacao-de-personagens/criacao-da-coterie/tipos-de-coteries.html" media-type="application/xhtml+xml" />
 
@@ -846,11 +842,7 @@
       <itemref idref="criacao-de-personagens-vantagens-qualidades-e-defeitos-qualidades-e-defeitos-de-sangue-fraco-qualidades-de-sangue-fraco" linear="yes" />      
             
       <itemref idref="criacao-de-personagens-criacao-da-coterie" linear="yes" />
-      <itemref idref="criacao-de-personagens-criacao-da-coterie-dominio" linear="yes" />
-      <itemref idref="criacao-de-personagens-criacao-da-coterie-dominio-chasse" linear="yes" />
-      <itemref idref="criacao-de-personagens-criacao-da-coterie-dominio-lien" linear="yes" />
-      <itemref idref="criacao-de-personagens-criacao-da-coterie-dominio-portillon" linear="yes" />
-      <itemref idref="criacao-de-personagens-criacao-da-coterie-dominio-coteries-sem-dominio" linear="yes" />
+      <itemref idref="criacao-de-personagens-criacao-da-coterie-coteries-sem-dominio" linear="yes" />
       <itemref idref="criacao-de-personagens-criacao-da-coterie-antecedentes-de-coteries" linear="yes" />
       <itemref idref="criacao-de-personagens-criacao-da-coterie-tipos-de-coteries" linear="yes" />
 

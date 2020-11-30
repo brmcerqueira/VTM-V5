@@ -1644,35 +1644,11 @@
                     <text>CRIAÇÃO DA COTERIE</text>
                 </navLabel>
                 <content src="criacao-de-personagens/criacao-da-coterie/index.html" />
-                <navPoint id="criacao-de-personagens-criacao-da-coterie-dominio">
+                <navPoint id="criacao-de-personagens-criacao-da-coterie-coteries-sem-dominio">
                     <navLabel>
-                        <text>DOMÍNIO</text>
+                        <text>COTERIES SEM DOMINIO</text>
                     </navLabel>
-                    <content src="criacao-de-personagens/criacao-da-coterie/dominio/index.html" />
-                    <navPoint id="criacao-de-personagens-criacao-da-coterie-dominio-chasse">
-                        <navLabel>
-                            <text>CHASSE</text>
-                        </navLabel>
-                        <content src="criacao-de-personagens/criacao-da-coterie/dominio/chasse.html" />
-                    </navPoint>
-                    <navPoint id="criacao-de-personagens-criacao-da-coterie-dominio-lien">
-                        <navLabel>
-                            <text>LIEN</text>
-                        </navLabel>
-                        <content src="criacao-de-personagens/criacao-da-coterie/dominio/lien.html" />
-                    </navPoint>
-                    <navPoint id="criacao-de-personagens-criacao-da-coterie-dominio-portillon">
-                        <navLabel>
-                            <text>PORTILLON</text>
-                        </navLabel>
-                        <content src="criacao-de-personagens/criacao-da-coterie/dominio/portillon.html" />
-                    </navPoint>
-                    <navPoint id="criacao-de-personagens-criacao-da-coterie-dominio-coteries-sem-dominio">
-                        <navLabel>
-                            <text>COTERIES SEM DOMINIO</text>
-                        </navLabel>
-                        <content src="criacao-de-personagens/criacao-da-coterie/dominio/coteries-sem-dominio.html" />
-                    </navPoint>
+                    <content src="criacao-de-personagens/criacao-da-coterie/coteries-sem-dominio.html" />
                 </navPoint>
                 <navPoint id="criacao-de-personagens-criacao-da-coterie-antecedentes-de-coteries">
                     <navLabel>

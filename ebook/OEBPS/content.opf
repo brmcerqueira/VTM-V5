@@ -302,6 +302,72 @@
       <item id="criacao-de-personagens-criacao-da-coterie-antecedentes-de-coteries" href="criacao-de-personagens/criacao-da-coterie/antecedentes-de-coteries.html" media-type="application/xhtml+xml" />
       <item id="criacao-de-personagens-criacao-da-coterie-tipos-de-coteries" href="criacao-de-personagens/criacao-da-coterie/tipos-de-coteries.html" media-type="application/xhtml+xml" />
 
+      <item id="vampiros-o-que-e-um-vampiro" href="vampiros/o-que-e-um-vampiro/index.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-que-e-um-vampiro-verdades-e-mentiras" href="vampiros/o-que-e-um-vampiro/verdades-e-mentiras.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-que-e-um-vampiro-fome" href="vampiros/o-que-e-um-vampiro/fome.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-que-e-um-vampiro-dados-de-fome" href="vampiros/o-que-e-um-vampiro/dados-de-fome/index.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-que-e-um-vampiro-dados-de-fome-critico-baguncado" href="vampiros/o-que-e-um-vampiro/dados-de-fome/critico-baguncado.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-que-e-um-vampiro-dados-de-fome-falha-bestial" href="vampiros/o-que-e-um-vampiro/dados-de-fome/falha-bestial.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-que-e-um-vampiro-compulsoes" href="vampiros/o-que-e-um-vampiro/compulsoes/index.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-que-e-um-vampiro-compulsoes-compulsoes-simples" href="vampiros/o-que-e-um-vampiro/compulsoes/compulsoes-simples.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-que-e-um-vampiro-compulsoes-fome" href="vampiros/o-que-e-um-vampiro/compulsoes/fome.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-que-e-um-vampiro-compulsoes-dominancia" href="vampiros/o-que-e-um-vampiro/compulsoes/dominancia.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-que-e-um-vampiro-compulsoes-destruicao" href="vampiros/o-que-e-um-vampiro/compulsoes/destruicao.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-que-e-um-vampiro-compulsoes-paranoia" href="vampiros/o-que-e-um-vampiro/compulsoes/paranoia.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-que-e-um-vampiro-compulsoes-compulsoes-de-cla" href="vampiros/o-que-e-um-vampiro/compulsoes/compulsoes-de-cla.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-que-e-um-vampiro-incitar-o-sangue" href="vampiros/o-que-e-um-vampiro/incitar-o-sangue.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-que-e-um-vampiro-saciando-a-fome" href="vampiros/o-que-e-um-vampiro/saciando-a-fome/index.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-que-e-um-vampiro-saciando-a-fome-alimentando-se-de-animais" href="vampiros/o-que-e-um-vampiro/saciando-a-fome/alimentando-se-de-animais.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-que-e-um-vampiro-saciando-a-fome-alimentando-de-de-sangue-ensacado" href="vampiros/o-que-e-um-vampiro/saciando-a-fome/alimentando-de-de-sangue-ensacado.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-que-e-um-vampiro-saciando-a-fome-alimentando-se-de-outros-vampiros" href="vampiros/o-que-e-um-vampiro/saciando-a-fome/alimentando-se-de-outros-vampiros.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-que-e-um-vampiro-saciando-a-fome-ataques-de-mordida" href="vampiros/o-que-e-um-vampiro/saciando-a-fome/ataques-de-mordida.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-sangue" href="vampiros/o-sangue/index.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-sangue-geracao" href="vampiros/o-sangue/geracao/index.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-sangue-geracao-" href="vampiros/o-sangue/geracao/.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-sangue-os-dons-do-sangue" href="vampiros/o-sangue/os-dons-do-sangue/index.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-sangue-os-dons-do-sangue-rubor-da-vida-blush-of-life" href="vampiros/o-sangue/os-dons-do-sangue/rubor-da-vida-blush-of-life.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-sangue-os-dons-do-sangue-surto-de-sangue-blood-surge" href="vampiros/o-sangue/os-dons-do-sangue/surto-de-sangue-blood-surge.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-sangue-os-dons-do-sangue-recuperacao-vampirica-vampiric-mending" href="vampiros/o-sangue/os-dons-do-sangue/recuperacao-vampirica-vampiric-mending.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-sangue-os-dons-do-sangue-disciplinas" href="vampiros/o-sangue/os-dons-do-sangue/disciplinas.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-sangue-o-preco-do-sangue" href="vampiros/o-sangue/o-preco-do-sangue/index.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-sangue-o-preco-do-sangue-efeitos-do-frenesi" href="vampiros/o-sangue/o-preco-do-sangue/efeitos-do-frenesi.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-sangue-o-preco-do-sangue-tipos-de-frenesi" href="vampiros/o-sangue/o-preco-do-sangue/tipos-de-frenesi.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-sangue-os-perigos-do-sangue" href="vampiros/o-sangue/os-perigos-do-sangue/index.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-sangue-os-perigos-do-sangue-luz-solar" href="vampiros/o-sangue/os-perigos-do-sangue/luz-solar.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-sangue-os-perigos-do-sangue-fogo" href="vampiros/o-sangue/os-perigos-do-sangue/fogo.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-sangue-os-perigos-do-sangue-frio-extremo" href="vampiros/o-sangue/os-perigos-do-sangue/frio-extremo.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-sangue-os-perigos-do-sangue-decaptacao" href="vampiros/o-sangue/os-perigos-do-sangue/decaptacao.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-sangue-os-perigos-do-sangue-estacas" href="vampiros/o-sangue/os-perigos-do-sangue/estacas.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-sangue-os-perigos-do-sangue-torpor" href="vampiros/o-sangue/os-perigos-do-sangue/torpor.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-sangue-os-perigos-do-sangue-morte-final" href="vampiros/o-sangue/os-perigos-do-sangue/morte-final.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-sangue-os-perigos-do-sangue-fe-verdadeira" href="vampiros/o-sangue/os-perigos-do-sangue/fe-verdadeira.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-voce-e-o-que-voce-come" href="vampiros/voce-e-o-que-voce-come/index.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-voce-e-o-que-voce-come-o-sangue-e-a-vida" href="vampiros/voce-e-o-que-voce-come/o-sangue-e-a-vida/index.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-voce-e-o-que-voce-come-o-sangue-e-a-vida-ressonancia" href="vampiros/voce-e-o-que-voce-come/o-sangue-e-a-vida/ressonancia.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-voce-e-o-que-voce-come-o-sangue-e-a-vida-os-quatro-humores" href="vampiros/voce-e-o-que-voce-come/o-sangue-e-a-vida/os-quatro-humores.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-voce-e-o-que-voce-come-o-sangue-e-a-vida-temperamento-e-discrasia" href="vampiros/voce-e-o-que-voce-come/o-sangue-e-a-vida/temperamento-e-discrasia.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-voce-e-o-que-voce-come-o-sangue-e-a-vida-ressonancia-e-disciplinas" href="vampiros/voce-e-o-que-voce-come/o-sangue-e-a-vida/ressonancia-e-disciplinas.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-voce-e-o-que-voce-come-cacando-e-os-humores" href="vampiros/voce-e-o-que-voce-come/cacando-e-os-humores/index.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-voce-e-o-que-voce-come-cacando-e-os-humores-mudando-a-ressonancia" href="vampiros/voce-e-o-que-voce-come/cacando-e-os-humores/mudando-a-ressonancia.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-voce-e-o-que-voce-come-cacando-e-os-humores-exemplos-de-discrasias" href="vampiros/voce-e-o-que-voce-come/cacando-e-os-humores/exemplos-de-discrasias.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-voce-e-o-que-voce-come-cacando-e-os-humores-discrasias-colericas" href="vampiros/voce-e-o-que-voce-come/cacando-e-os-humores/discrasias-colericas.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-voce-e-o-que-voce-come-cacando-e-os-humores-discrasias-melancolicas" href="vampiros/voce-e-o-que-voce-come/cacando-e-os-humores/discrasias-melancolicas.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-voce-e-o-que-voce-come-cacando-e-os-humores-discrasias-fleumaticas" href="vampiros/voce-e-o-que-voce-come/cacando-e-os-humores/discrasias-fleumaticas.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-voce-e-o-que-voce-come-cacando-e-os-humores-discrasias-sanguineas" href="vampiros/voce-e-o-que-voce-come/cacando-e-os-humores/discrasias-sanguineas.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-voce-e-o-que-voce-come-ressonancia-e-a-experiencia" href="vampiros/voce-e-o-que-voce-come/ressonancia-e-a-experiencia.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-estados-de-danacao" href="vampiros/estados-de-danacao/index.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-estados-de-danacao-o-laco-de-sangue" href="vampiros/estados-de-danacao/o-laco-de-sangue/index.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-estados-de-danacao-o-laco-de-sangue-o-sistema-do-laco-de-sangue" href="vampiros/estados-de-danacao/o-laco-de-sangue/o-sistema-do-laco-de-sangue.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-estados-de-danacao-o-laco-de-sangue-carnicais" href="vampiros/estados-de-danacao/o-laco-de-sangue/carnicais.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-estados-de-danacao-diablerie" href="vampiros/estados-de-danacao/diablerie.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-humanidade" href="vampiros/humanidade/index.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-humanidade-a-espiral-descendente-" href="vampiros/humanidade/a-espiral-descendente-.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-humanidade-o-registro-da-humanidade-" href="vampiros/humanidade/o-registro-da-humanidade-/index.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-humanidade-o-registro-da-humanidade--manchas" href="vampiros/humanidade/o-registro-da-humanidade-/manchas.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-humanidade-o-registro-da-humanidade--remorso" href="vampiros/humanidade/o-registro-da-humanidade-/remorso.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-humanidade-o-registro-da-humanidade--degeneracao" href="vampiros/humanidade/o-registro-da-humanidade-/degeneracao.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-humanidade-o-registro-da-humanidade--quando-a-humanidade-falha" href="vampiros/humanidade/o-registro-da-humanidade-/quando-a-humanidade-falha.html" media-type="application/xhtml+xml" />
+
       <item id="disciplinas-regras-gerais-aprendendo-disciplinas"
          href="disciplinas/regras-gerais/aprendendo-disciplinas.html" media-type="application/xhtml+xml" />
       <item id="disciplinas-regras-gerais-escolhendo-poderes" href="disciplinas/regras-gerais/escolhendo-poderes.html"
@@ -875,6 +941,72 @@
       <itemref idref="criacao-de-personagens-criacao-da-coterie-coteries-sem-dominio" linear="yes" />
       <itemref idref="criacao-de-personagens-criacao-da-coterie-antecedentes-de-coteries" linear="yes" />
       <itemref idref="criacao-de-personagens-criacao-da-coterie-tipos-de-coteries" linear="yes" />
+
+      <itemref idref="vampiros-o-que-e-um-vampiro" linear="yes" />
+      <itemref idref="vampiros-o-que-e-um-vampiro-verdades-e-mentiras" linear="yes" />
+      <itemref idref="vampiros-o-que-e-um-vampiro-fome" linear="yes" />
+      <itemref idref="vampiros-o-que-e-um-vampiro-dados-de-fome" linear="yes" />
+      <itemref idref="vampiros-o-que-e-um-vampiro-dados-de-fome-critico-baguncado" linear="yes" />
+      <itemref idref="vampiros-o-que-e-um-vampiro-dados-de-fome-falha-bestial" linear="yes" />
+      <itemref idref="vampiros-o-que-e-um-vampiro-compulsoes" linear="yes" />
+      <itemref idref="vampiros-o-que-e-um-vampiro-compulsoes-compulsoes-simples" linear="yes" />
+      <itemref idref="vampiros-o-que-e-um-vampiro-compulsoes-fome" linear="yes" />
+      <itemref idref="vampiros-o-que-e-um-vampiro-compulsoes-dominancia" linear="yes" />
+      <itemref idref="vampiros-o-que-e-um-vampiro-compulsoes-destruicao" linear="yes" />
+      <itemref idref="vampiros-o-que-e-um-vampiro-compulsoes-paranoia" linear="yes" />
+      <itemref idref="vampiros-o-que-e-um-vampiro-compulsoes-compulsoes-de-cla" linear="yes" />
+      <itemref idref="vampiros-o-que-e-um-vampiro-incitar-o-sangue" linear="yes" />
+      <itemref idref="vampiros-o-que-e-um-vampiro-saciando-a-fome" linear="yes" />
+      <itemref idref="vampiros-o-que-e-um-vampiro-saciando-a-fome-alimentando-se-de-animais" linear="yes" />
+      <itemref idref="vampiros-o-que-e-um-vampiro-saciando-a-fome-alimentando-de-de-sangue-ensacado" linear="yes" />
+      <itemref idref="vampiros-o-que-e-um-vampiro-saciando-a-fome-alimentando-se-de-outros-vampiros" linear="yes" />
+      <itemref idref="vampiros-o-que-e-um-vampiro-saciando-a-fome-ataques-de-mordida" linear="yes" />
+      <itemref idref="vampiros-o-sangue" linear="yes" />
+      <itemref idref="vampiros-o-sangue-geracao" linear="yes" />
+      <itemref idref="vampiros-o-sangue-geracao-" linear="yes" />
+      <itemref idref="vampiros-o-sangue-os-dons-do-sangue" linear="yes" />
+      <itemref idref="vampiros-o-sangue-os-dons-do-sangue-rubor-da-vida-blush-of-life" linear="yes" />
+      <itemref idref="vampiros-o-sangue-os-dons-do-sangue-surto-de-sangue-blood-surge" linear="yes" />
+      <itemref idref="vampiros-o-sangue-os-dons-do-sangue-recuperacao-vampirica-vampiric-mending" linear="yes" />
+      <itemref idref="vampiros-o-sangue-os-dons-do-sangue-disciplinas" linear="yes" />
+      <itemref idref="vampiros-o-sangue-o-preco-do-sangue" linear="yes" />
+      <itemref idref="vampiros-o-sangue-o-preco-do-sangue-efeitos-do-frenesi" linear="yes" />
+      <itemref idref="vampiros-o-sangue-o-preco-do-sangue-tipos-de-frenesi" linear="yes" />
+      <itemref idref="vampiros-o-sangue-os-perigos-do-sangue" linear="yes" />
+      <itemref idref="vampiros-o-sangue-os-perigos-do-sangue-luz-solar" linear="yes" />
+      <itemref idref="vampiros-o-sangue-os-perigos-do-sangue-fogo" linear="yes" />
+      <itemref idref="vampiros-o-sangue-os-perigos-do-sangue-frio-extremo" linear="yes" />
+      <itemref idref="vampiros-o-sangue-os-perigos-do-sangue-decaptacao" linear="yes" />
+      <itemref idref="vampiros-o-sangue-os-perigos-do-sangue-estacas" linear="yes" />
+      <itemref idref="vampiros-o-sangue-os-perigos-do-sangue-torpor" linear="yes" />
+      <itemref idref="vampiros-o-sangue-os-perigos-do-sangue-morte-final" linear="yes" />
+      <itemref idref="vampiros-o-sangue-os-perigos-do-sangue-fe-verdadeira" linear="yes" />
+      <itemref idref="vampiros-voce-e-o-que-voce-come" linear="yes" />
+      <itemref idref="vampiros-voce-e-o-que-voce-come-o-sangue-e-a-vida" linear="yes" />
+      <itemref idref="vampiros-voce-e-o-que-voce-come-o-sangue-e-a-vida-ressonancia" linear="yes" />
+      <itemref idref="vampiros-voce-e-o-que-voce-come-o-sangue-e-a-vida-os-quatro-humores" linear="yes" />
+      <itemref idref="vampiros-voce-e-o-que-voce-come-o-sangue-e-a-vida-temperamento-e-discrasia" linear="yes" />
+      <itemref idref="vampiros-voce-e-o-que-voce-come-o-sangue-e-a-vida-ressonancia-e-disciplinas" linear="yes" />
+      <itemref idref="vampiros-voce-e-o-que-voce-come-cacando-e-os-humores" linear="yes" />
+      <itemref idref="vampiros-voce-e-o-que-voce-come-cacando-e-os-humores-mudando-a-ressonancia" linear="yes" />
+      <itemref idref="vampiros-voce-e-o-que-voce-come-cacando-e-os-humores-exemplos-de-discrasias" linear="yes" />
+      <itemref idref="vampiros-voce-e-o-que-voce-come-cacando-e-os-humores-discrasias-colericas" linear="yes" />
+      <itemref idref="vampiros-voce-e-o-que-voce-come-cacando-e-os-humores-discrasias-melancolicas" linear="yes" />
+      <itemref idref="vampiros-voce-e-o-que-voce-come-cacando-e-os-humores-discrasias-fleumaticas" linear="yes" />
+      <itemref idref="vampiros-voce-e-o-que-voce-come-cacando-e-os-humores-discrasias-sanguineas" linear="yes" />
+      <itemref idref="vampiros-voce-e-o-que-voce-come-ressonancia-e-a-experiencia" linear="yes" />
+      <itemref idref="vampiros-estados-de-danacao" linear="yes" />
+      <itemref idref="vampiros-estados-de-danacao-o-laco-de-sangue" linear="yes" />
+      <itemref idref="vampiros-estados-de-danacao-o-laco-de-sangue-o-sistema-do-laco-de-sangue" linear="yes" />
+      <itemref idref="vampiros-estados-de-danacao-o-laco-de-sangue-carnicais" linear="yes" />
+      <itemref idref="vampiros-estados-de-danacao-diablerie" linear="yes" />
+      <itemref idref="vampiros-humanidade" linear="yes" />
+      <itemref idref="vampiros-humanidade-a-espiral-descendente-" linear="yes" />
+      <itemref idref="vampiros-humanidade-o-registro-da-humanidade-" linear="yes" />
+      <itemref idref="vampiros-humanidade-o-registro-da-humanidade--manchas" linear="yes" />
+      <itemref idref="vampiros-humanidade-o-registro-da-humanidade--remorso" linear="yes" />
+      <itemref idref="vampiros-humanidade-o-registro-da-humanidade--degeneracao" linear="yes" />
+      <itemref idref="vampiros-humanidade-o-registro-da-humanidade--quando-a-humanidade-falha" linear="yes" />
 
       <itemref idref="disciplinas-regras-gerais-aprendendo-disciplinas" linear="yes" />
       <itemref idref="disciplinas-regras-gerais-escolhendo-poderes" linear="yes" />

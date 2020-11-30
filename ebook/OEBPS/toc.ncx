@@ -1747,7 +1747,403 @@
                     <content src="criacao-de-personagens/criacao-da-coterie/tipos-de-coteries.html" />
                 </navPoint>
             </navPoint>            
-        </navPoint>                
+        </navPoint>
+        <navPoint id="vampiros">
+            <navLabel>
+                <text>VAMPIROS</text>
+            </navLabel>
+            <content src="vampiros/o-que-e-um-vampiro/index.html" />
+            <navPoint id="vampiros-o-que-e-um-vampiro">
+                <navLabel>
+                    <text>O QUE É UM VAMPIRO?</text>
+                </navLabel>
+                <content src="vampiros/o-que-e-um-vampiro/index.html" />
+                <navPoint id="vampiros-o-que-e-um-vampiro-verdades-e-mentiras">
+                    <navLabel>
+                        <text>VERDADES E MENTIRAS</text>
+                    </navLabel>
+                    <content src="vampiros/o-que-e-um-vampiro/verdades-e-mentiras.html" />
+                </navPoint>
+                <navPoint id="vampiros-o-que-e-um-vampiro-fome">
+                    <navLabel>
+                        <text>FOME</text>
+                    </navLabel>
+                    <content src="vampiros/o-que-e-um-vampiro/fome.html" />
+                </navPoint>
+                <navPoint id="vampiros-o-que-e-um-vampiro-dados-de-fome">
+                    <navLabel>
+                        <text>DADOS DE FOME</text>
+                    </navLabel>
+                    <content src="vampiros/o-que-e-um-vampiro/dados-de-fome/index.html" />
+                    <navPoint id="vampiros-o-que-e-um-vampiro-dados-de-fome-critico-baguncado">
+                        <navLabel>
+                            <text>CRÍTICO BAGUNÇADO</text>
+                        </navLabel>
+                        <content src="vampiros/o-que-e-um-vampiro/dados-de-fome/critico-baguncado.html" />
+                    </navPoint>
+                    <navPoint id="vampiros-o-que-e-um-vampiro-dados-de-fome-falha-bestial">
+                        <navLabel>
+                            <text>FALHA BESTIAL</text>
+                        </navLabel>
+                        <content src="vampiros/o-que-e-um-vampiro/dados-de-fome/falha-bestial.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="vampiros-o-que-e-um-vampiro-compulsoes">
+                    <navLabel>
+                        <text>COMPULSÕES</text>
+                    </navLabel>
+                    <content src="vampiros/o-que-e-um-vampiro/compulsoes/index.html" />
+                    <navPoint id="vampiros-o-que-e-um-vampiro-compulsoes-compulsoes-simples">
+                        <navLabel>
+                            <text>COMPULSÕES SIMPLES</text>
+                        </navLabel>
+                        <content src="vampiros/o-que-e-um-vampiro/compulsoes/compulsoes-simples.html" />
+                    </navPoint>
+                    <navPoint id="vampiros-o-que-e-um-vampiro-compulsoes-fome">
+                        <navLabel>
+                            <text>FOME</text>
+                        </navLabel>
+                        <content src="vampiros/o-que-e-um-vampiro/compulsoes/fome.html" />
+                    </navPoint>
+                    <navPoint id="vampiros-o-que-e-um-vampiro-compulsoes-dominancia">
+                        <navLabel>
+                            <text>DOMINÂNCIA</text>
+                        </navLabel>
+                        <content src="vampiros/o-que-e-um-vampiro/compulsoes/dominancia.html" />
+                    </navPoint>
+                    <navPoint id="vampiros-o-que-e-um-vampiro-compulsoes-destruicao">
+                        <navLabel>
+                            <text>DESTRUIÇÃO</text>
+                        </navLabel>
+                        <content src="vampiros/o-que-e-um-vampiro/compulsoes/destruicao.html" />
+                    </navPoint>
+                    <navPoint id="vampiros-o-que-e-um-vampiro-compulsoes-paranoia">
+                        <navLabel>
+                            <text>PARANOIA</text>
+                        </navLabel>
+                        <content src="vampiros/o-que-e-um-vampiro/compulsoes/paranoia.html" />
+                    </navPoint>
+                    <navPoint id="vampiros-o-que-e-um-vampiro-compulsoes-compulsoes-de-cla">
+                        <navLabel>
+                            <text>COMPULSÕES DE CLÃ</text>
+                        </navLabel>
+                        <content src="vampiros/o-que-e-um-vampiro/compulsoes/compulsoes-de-cla.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="vampiros-o-que-e-um-vampiro-incitar-o-sangue">
+                    <navLabel>
+                        <text>INCITAR O SANGUE</text>
+                    </navLabel>
+                    <content src="vampiros/o-que-e-um-vampiro/incitar-o-sangue.html" />
+                </navPoint>
+                <navPoint id="vampiros-o-que-e-um-vampiro-saciando-a-fome">
+                    <navLabel>
+                        <text>SACIANDO A FOME</text>
+                    </navLabel>
+                    <content src="vampiros/o-que-e-um-vampiro/saciando-a-fome/index.html" />
+                    <navPoint id="vampiros-o-que-e-um-vampiro-saciando-a-fome-alimentando-se-de-animais">
+                        <navLabel>
+                            <text>ALIMENTANDO-SE DE ANIMAIS</text>
+                        </navLabel>
+                        <content src="vampiros/o-que-e-um-vampiro/saciando-a-fome/alimentando-se-de-animais.html" />
+                    </navPoint>
+                    <navPoint id="vampiros-o-que-e-um-vampiro-saciando-a-fome-alimentando-de-de-sangue-ensacado">
+                        <navLabel>
+                            <text>ALIMENTANDO-DE DE SANGUE ENSACADO</text>
+                        </navLabel>
+                        <content src="vampiros/o-que-e-um-vampiro/saciando-a-fome/alimentando-de-de-sangue-ensacado.html" />
+                    </navPoint>
+                    <navPoint id="vampiros-o-que-e-um-vampiro-saciando-a-fome-alimentando-se-de-outros-vampiros">
+                        <navLabel>
+                            <text>ALIMENTANDO-SE DE OUTROS VAMPIROS</text>
+                        </navLabel>
+                        <content src="vampiros/o-que-e-um-vampiro/saciando-a-fome/alimentando-se-de-outros-vampiros.html" />
+                    </navPoint>
+                    <navPoint id="vampiros-o-que-e-um-vampiro-saciando-a-fome-ataques-de-mordida">
+                        <navLabel>
+                            <text>ATAQUES DE MORDIDA</text>
+                        </navLabel>
+                        <content src="vampiros/o-que-e-um-vampiro/saciando-a-fome/ataques-de-mordida.html" />
+                    </navPoint>
+                </navPoint>
+            </navPoint>
+            <navPoint id="vampiros-o-sangue">
+                <navLabel>
+                    <text>O SANGUE</text>
+                </navLabel>
+                <content src="vampiros/o-sangue/index.html" />
+                <navPoint id="vampiros-o-sangue-geracao">
+                    <navLabel>
+                        <text>GERAÇÃO</text>
+                    </navLabel>
+                    <content src="vampiros/o-sangue/geracao/index.html" />
+                    <navPoint id="vampiros-o-sangue-geracao-">
+                        <navLabel>
+                            <text></text>
+                        </navLabel>
+                        <content src="vampiros/o-sangue/geracao/.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="vampiros-o-sangue-os-dons-do-sangue">
+                    <navLabel>
+                        <text>OS DONS DO SANGUE</text>
+                    </navLabel>
+                    <content src="vampiros/o-sangue/os-dons-do-sangue/index.html" />
+                    <navPoint id="vampiros-o-sangue-os-dons-do-sangue-rubor-da-vida-blush-of-life">
+                        <navLabel>
+                            <text>RUBOR DA VIDA (BLUSH OF LIFE)</text>
+                        </navLabel>
+                        <content src="vampiros/o-sangue/os-dons-do-sangue/rubor-da-vida-blush-of-life.html" />
+                    </navPoint>
+                    <navPoint id="vampiros-o-sangue-os-dons-do-sangue-surto-de-sangue-blood-surge">
+                        <navLabel>
+                            <text>SURTO DE SANGUE (BLOOD SURGE)</text>
+                        </navLabel>
+                        <content src="vampiros/o-sangue/os-dons-do-sangue/surto-de-sangue-blood-surge.html" />
+                    </navPoint>
+                    <navPoint id="vampiros-o-sangue-os-dons-do-sangue-recuperacao-vampirica-vampiric-mending">
+                        <navLabel>
+                            <text>RECUPERAÇÃO VAMPÍRICA (VAMPIRIC MENDING)</text>
+                        </navLabel>
+                        <content src="vampiros/o-sangue/os-dons-do-sangue/recuperacao-vampirica-vampiric-mending.html" />
+                    </navPoint>
+                    <navPoint id="vampiros-o-sangue-os-dons-do-sangue-disciplinas">
+                        <navLabel>
+                            <text>DISCIPLINAS</text>
+                        </navLabel>
+                        <content src="vampiros/o-sangue/os-dons-do-sangue/disciplinas.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="vampiros-o-sangue-o-preco-do-sangue">
+                    <navLabel>
+                        <text>O PREÇO DO SANGUE</text>
+                    </navLabel>
+                    <content src="vampiros/o-sangue/o-preco-do-sangue/index.html" />
+                    <navPoint id="vampiros-o-sangue-o-preco-do-sangue-efeitos-do-frenesi">
+                        <navLabel>
+                            <text>EFEITOS DO FRENESI</text>
+                        </navLabel>
+                        <content src="vampiros/o-sangue/o-preco-do-sangue/efeitos-do-frenesi.html" />
+                    </navPoint>
+                    <navPoint id="vampiros-o-sangue-o-preco-do-sangue-tipos-de-frenesi">
+                        <navLabel>
+                            <text>TIPOS DE FRENESI</text>
+                        </navLabel>
+                        <content src="vampiros/o-sangue/o-preco-do-sangue/tipos-de-frenesi.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="vampiros-o-sangue-os-perigos-do-sangue">
+                    <navLabel>
+                        <text>OS PERIGOS DO SANGUE</text>
+                    </navLabel>
+                    <content src="vampiros/o-sangue/os-perigos-do-sangue/index.html" />
+                    <navPoint id="vampiros-o-sangue-os-perigos-do-sangue-luz-solar">
+                        <navLabel>
+                            <text>LUZ SOLAR</text>
+                        </navLabel>
+                        <content src="vampiros/o-sangue/os-perigos-do-sangue/luz-solar.html" />
+                    </navPoint>
+                    <navPoint id="vampiros-o-sangue-os-perigos-do-sangue-fogo">
+                        <navLabel>
+                            <text>FOGO</text>
+                        </navLabel>
+                        <content src="vampiros/o-sangue/os-perigos-do-sangue/fogo.html" />
+                    </navPoint>
+                    <navPoint id="vampiros-o-sangue-os-perigos-do-sangue-frio-extremo">
+                        <navLabel>
+                            <text>FRIO EXTREMO</text>
+                        </navLabel>
+                        <content src="vampiros/o-sangue/os-perigos-do-sangue/frio-extremo.html" />
+                    </navPoint>
+                    <navPoint id="vampiros-o-sangue-os-perigos-do-sangue-decaptacao">
+                        <navLabel>
+                            <text>DECAPTAÇÃO</text>
+                        </navLabel>
+                        <content src="vampiros/o-sangue/os-perigos-do-sangue/decaptacao.html" />
+                    </navPoint>
+                    <navPoint id="vampiros-o-sangue-os-perigos-do-sangue-estacas">
+                        <navLabel>
+                            <text>ESTACAS</text>
+                        </navLabel>
+                        <content src="vampiros/o-sangue/os-perigos-do-sangue/estacas.html" />
+                    </navPoint>
+                    <navPoint id="vampiros-o-sangue-os-perigos-do-sangue-torpor">
+                        <navLabel>
+                            <text>TORPOR</text>
+                        </navLabel>
+                        <content src="vampiros/o-sangue/os-perigos-do-sangue/torpor.html" />
+                    </navPoint>
+                    <navPoint id="vampiros-o-sangue-os-perigos-do-sangue-morte-final">
+                        <navLabel>
+                            <text>MORTE FINAL</text>
+                        </navLabel>
+                        <content src="vampiros/o-sangue/os-perigos-do-sangue/morte-final.html" />
+                    </navPoint>
+                    <navPoint id="vampiros-o-sangue-os-perigos-do-sangue-fe-verdadeira">
+                        <navLabel>
+                            <text>FÉ VERDADEIRA</text>
+                        </navLabel>
+                        <content src="vampiros/o-sangue/os-perigos-do-sangue/fe-verdadeira.html" />
+                    </navPoint>
+                </navPoint>
+            </navPoint>
+            <navPoint id="vampiros-voce-e-o-que-voce-come">
+                <navLabel>
+                    <text>VOCÊ É O QUE VOCÊ COME</text>
+                </navLabel>
+                <content src="vampiros/voce-e-o-que-voce-come/index.html" />
+                <navPoint id="vampiros-voce-e-o-que-voce-come-o-sangue-e-a-vida">
+                    <navLabel>
+                        <text>O SANGUE É A VIDA</text>
+                    </navLabel>
+                    <content src="vampiros/voce-e-o-que-voce-come/o-sangue-e-a-vida/index.html" />
+                    <navPoint id="vampiros-voce-e-o-que-voce-come-o-sangue-e-a-vida-ressonancia">
+                        <navLabel>
+                            <text>RESSONÂNCIA</text>
+                        </navLabel>
+                        <content src="vampiros/voce-e-o-que-voce-come/o-sangue-e-a-vida/ressonancia.html" />
+                    </navPoint>
+                    <navPoint id="vampiros-voce-e-o-que-voce-come-o-sangue-e-a-vida-os-quatro-humores">
+                        <navLabel>
+                            <text>OS QUATRO HUMORES</text>
+                        </navLabel>
+                        <content src="vampiros/voce-e-o-que-voce-come/o-sangue-e-a-vida/os-quatro-humores.html" />
+                    </navPoint>
+                    <navPoint id="vampiros-voce-e-o-que-voce-come-o-sangue-e-a-vida-temperamento-e-discrasia">
+                        <navLabel>
+                            <text>TEMPERAMENTO E DISCRASIA</text>
+                        </navLabel>
+                        <content src="vampiros/voce-e-o-que-voce-come/o-sangue-e-a-vida/temperamento-e-discrasia.html" />
+                    </navPoint>
+                    <navPoint id="vampiros-voce-e-o-que-voce-come-o-sangue-e-a-vida-ressonancia-e-disciplinas">
+                        <navLabel>
+                            <text>RESSONÂNCIA E DISCIPLINAS</text>
+                        </navLabel>
+                        <content src="vampiros/voce-e-o-que-voce-come/o-sangue-e-a-vida/ressonancia-e-disciplinas.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="vampiros-voce-e-o-que-voce-come-cacando-e-os-humores">
+                    <navLabel>
+                        <text>CAÇANDO E OS HUMORES</text>
+                    </navLabel>
+                    <content src="vampiros/voce-e-o-que-voce-come/cacando-e-os-humores/index.html" />
+                    <navPoint id="vampiros-voce-e-o-que-voce-come-cacando-e-os-humores-mudando-a-ressonancia">
+                        <navLabel>
+                            <text>MUDANDO A RESSONÂNCIA</text>
+                        </navLabel>
+                        <content src="vampiros/voce-e-o-que-voce-come/cacando-e-os-humores/mudando-a-ressonancia.html" />
+                    </navPoint>
+                    <navPoint id="vampiros-voce-e-o-que-voce-come-cacando-e-os-humores-exemplos-de-discrasias">
+                        <navLabel>
+                            <text>EXEMPLOS DE DISCRASIAS</text>
+                        </navLabel>
+                        <content src="vampiros/voce-e-o-que-voce-come/cacando-e-os-humores/exemplos-de-discrasias.html" />
+                    </navPoint>
+                    <navPoint id="vampiros-voce-e-o-que-voce-come-cacando-e-os-humores-discrasias-colericas">
+                        <navLabel>
+                            <text>DISCRASIAS COLÉRICAS</text>
+                        </navLabel>
+                        <content src="vampiros/voce-e-o-que-voce-come/cacando-e-os-humores/discrasias-colericas.html" />
+                    </navPoint>
+                    <navPoint id="vampiros-voce-e-o-que-voce-come-cacando-e-os-humores-discrasias-melancolicas">
+                        <navLabel>
+                            <text>DISCRASIAS MELANCÓLICAS</text>
+                        </navLabel>
+                        <content src="vampiros/voce-e-o-que-voce-come/cacando-e-os-humores/discrasias-melancolicas.html" />
+                    </navPoint>
+                    <navPoint id="vampiros-voce-e-o-que-voce-come-cacando-e-os-humores-discrasias-fleumaticas">
+                        <navLabel>
+                            <text>DISCRASIAS FLEUMÁTICAS</text>
+                        </navLabel>
+                        <content src="vampiros/voce-e-o-que-voce-come/cacando-e-os-humores/discrasias-fleumaticas.html" />
+                    </navPoint>
+                    <navPoint id="vampiros-voce-e-o-que-voce-come-cacando-e-os-humores-discrasias-sanguineas">
+                        <navLabel>
+                            <text>DISCRASIAS SANGUÍNEAS</text>
+                        </navLabel>
+                        <content src="vampiros/voce-e-o-que-voce-come/cacando-e-os-humores/discrasias-sanguineas.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="vampiros-voce-e-o-que-voce-come-ressonancia-e-a-experiencia">
+                    <navLabel>
+                        <text>RESSONÂNCIA E A EXPERIÊNCIA</text>
+                    </navLabel>
+                    <content src="vampiros/voce-e-o-que-voce-come/ressonancia-e-a-experiencia.html" />
+                </navPoint>
+            </navPoint>
+            <navPoint id="vampiros-estados-de-danacao">
+                <navLabel>
+                    <text>ESTADOS DE DANAÇÃO</text>
+                </navLabel>
+                <content src="vampiros/estados-de-danacao/index.html" />
+                <navPoint id="vampiros-estados-de-danacao-o-laco-de-sangue">
+                    <navLabel>
+                        <text>O LAÇO DE SANGUE</text>
+                    </navLabel>
+                    <content src="vampiros/estados-de-danacao/o-laco-de-sangue/index.html" />
+                    <navPoint id="vampiros-estados-de-danacao-o-laco-de-sangue-o-sistema-do-laco-de-sangue">
+                        <navLabel>
+                            <text>O SISTEMA DO LAÇO DE SANGUE</text>
+                        </navLabel>
+                        <content src="vampiros/estados-de-danacao/o-laco-de-sangue/o-sistema-do-laco-de-sangue.html" />
+                    </navPoint>
+                    <navPoint id="vampiros-estados-de-danacao-o-laco-de-sangue-carnicais">
+                        <navLabel>
+                            <text>CARNIÇAIS</text>
+                        </navLabel>
+                        <content src="vampiros/estados-de-danacao/o-laco-de-sangue/carnicais.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="vampiros-estados-de-danacao-diablerie">
+                    <navLabel>
+                        <text>DIABLERIE</text>
+                    </navLabel>
+                    <content src="vampiros/estados-de-danacao/diablerie.html" />
+                </navPoint>
+            </navPoint>
+            <navPoint id="vampiros-humanidade">
+                <navLabel>
+                    <text>HUMANIDADE</text>
+                </navLabel>
+                <content src="vampiros/humanidade/index.html" />
+                <navPoint id="vampiros-humanidade-a-espiral-descendente-">
+                    <navLabel>
+                        <text>A ESPIRAL DESCENDENTE </text>
+                    </navLabel>
+                    <content src="vampiros/humanidade/a-espiral-descendente-.html" />
+                </navPoint>
+                <navPoint id="vampiros-humanidade-o-registro-da-humanidade-">
+                    <navLabel>
+                        <text>O REGISTRO DA HUMANIDADE </text>
+                    </navLabel>
+                    <content src="vampiros/humanidade/o-registro-da-humanidade-/index.html" />
+                    <navPoint id="vampiros-humanidade-o-registro-da-humanidade--manchas">
+                        <navLabel>
+                            <text>MANCHAS</text>
+                        </navLabel>
+                        <content src="vampiros/humanidade/o-registro-da-humanidade-/manchas.html" />
+                    </navPoint>
+                    <navPoint id="vampiros-humanidade-o-registro-da-humanidade--remorso">
+                        <navLabel>
+                            <text>REMORSO</text>
+                        </navLabel>
+                        <content src="vampiros/humanidade/o-registro-da-humanidade-/remorso.html" />
+                    </navPoint>
+                    <navPoint id="vampiros-humanidade-o-registro-da-humanidade--degeneracao">
+                        <navLabel>
+                            <text>DEGENERAÇÃO</text>
+                        </navLabel>
+                        <content src="vampiros/humanidade/o-registro-da-humanidade-/degeneracao.html" />
+                    </navPoint>
+                    <navPoint id="vampiros-humanidade-o-registro-da-humanidade--quando-a-humanidade-falha">
+                        <navLabel>
+                            <text>QUANDO A HUMANIDADE FALHA</text>
+                        </navLabel>
+                        <content src="vampiros/humanidade/o-registro-da-humanidade-/quando-a-humanidade-falha.html" />
+                    </navPoint>
+                </navPoint>
+            </navPoint>            
+        </navPoint>                        
         <navPoint id="disciplinas">
             <navLabel>
                 <text>DISCIPLINAS</text>

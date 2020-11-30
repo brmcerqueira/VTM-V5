@@ -182,7 +182,7 @@
       <item id="criacao-de-personagens-criacao-de-personagem-sua-vida-humana-alicerces-touchstone" href="criacao-de-personagens/criacao-de-personagem/sua-vida-humana/alicerces-touchstone.html" media-type="application/xhtml+xml" />
       <item id="criacao-de-personagens-criacao-de-personagem-sua-vida-humana-ambicao" href="criacao-de-personagens/criacao-de-personagem/sua-vida-humana/ambicao.html" media-type="application/xhtml+xml" />
       <item id="criacao-de-personagens-criacao-de-personagem-o-abraco-e-depois-dele-" href="criacao-de-personagens/criacao-de-personagem/o-abraco-e-depois-dele-/index.html" media-type="application/xhtml+xml" />
-      <item id="criacao-de-personagens-criacao-de-personagem-o-abraco-e-depois-dele--entr’acte-e-preludio" href="criacao-de-personagens/criacao-de-personagem/o-abraco-e-depois-dele-/entr’acte-e-preludio.html" media-type="application/xhtml+xml" />
+      <item id="criacao-de-personagens-criacao-de-personagem-o-abraco-e-depois-dele--entracte-e-preludio" href="criacao-de-personagens/criacao-de-personagem/o-abraco-e-depois-dele-/entracte-e-preludio.html" media-type="application/xhtml+xml" />
       <item id="criacao-de-personagens-criacao-de-personagem-o-abraco-e-depois-dele--quem-e-voce-agora" href="criacao-de-personagens/criacao-de-personagem/o-abraco-e-depois-dele-/quem-e-voce-agora.html" media-type="application/xhtml+xml" />
       <item id="criacao-de-personagens-criacao-de-personagem-o-abraco-e-depois-dele--quem-e-voce-na-noite" href="criacao-de-personagens/criacao-de-personagem/o-abraco-e-depois-dele-/quem-e-voce-na-noite.html" media-type="application/xhtml+xml" />
       <item id="criacao-de-personagens-criacao-de-personagem-o-abraco-e-depois-dele--potencia-do-sangue" href="criacao-de-personagens/criacao-de-personagem/o-abraco-e-depois-dele-/potencia-do-sangue.html" media-type="application/xhtml+xml" />
@@ -746,7 +746,7 @@
       <itemref idref="criacao-de-personagens-criacao-de-personagem-sua-vida-humana-alicerces-touchstone" linear="yes" />
       <itemref idref="criacao-de-personagens-criacao-de-personagem-sua-vida-humana-ambicao" linear="yes" />
       <itemref idref="criacao-de-personagens-criacao-de-personagem-o-abraco-e-depois-dele-" linear="yes" />
-      <itemref idref="criacao-de-personagens-criacao-de-personagem-o-abraco-e-depois-dele--entr’acte-e-preludio" linear="yes" />
+      <itemref idref="criacao-de-personagens-criacao-de-personagem-o-abraco-e-depois-dele--entracte-e-preludio" linear="yes" />
       <itemref idref="criacao-de-personagens-criacao-de-personagem-o-abraco-e-depois-dele--quem-e-voce-agora" linear="yes" />
       <itemref idref="criacao-de-personagens-criacao-de-personagem-o-abraco-e-depois-dele--quem-e-voce-na-noite" linear="yes" />
       <itemref idref="criacao-de-personagens-criacao-de-personagem-o-abraco-e-depois-dele--potencia-do-sangue" linear="yes" />

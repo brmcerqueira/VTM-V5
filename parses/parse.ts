@@ -25,7 +25,8 @@ function folderBack(amount: number): string {
 }
 
 const group = Deno.args[0];
-const html = await Deno.readTextFile(Deno.args[1]);
+const groupDepth = parseInt(Deno.args[1]);
+const html = await Deno.readTextFile(Deno.args[2]);
 
 const doc = new DOMParser().parseFromString(html, "text/html")!;
 
@@ -68,7 +69,8 @@ for (const p of doc.querySelectorAll("*")) {
             .replaceAll('?', '')
             .replaceAll(':', '')
             .replaceAll(';', '')
-            .replaceAll(',', ''),
+            .replaceAll(',', '')
+            .replaceAll('’', ''),           
             content: "",
             depth: depth,
             childrens: []
@@ -161,7 +163,7 @@ function treat(parentName: string, depth: number): (item: Item) => void {
     };
 }
 
-root.forEach(treat(group, 1));
+root.forEach(treat(group, groupDepth));
 
 const groupFile = group.replaceAll('/','-');
 

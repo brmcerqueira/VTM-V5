@@ -1002,12 +1002,12 @@
                         <text>O ABRAÇO E DEPOIS DELE </text>
                     </navLabel>
                     <content src="criacao-de-personagens/criacao-de-personagem/o-abraco-e-depois-dele-/index.html" />
-                    <navPoint id="criacao-de-personagens-criacao-de-personagem-o-abraco-e-depois-dele--entr’acte-e-preludio">
+                    <navPoint id="criacao-de-personagens-criacao-de-personagem-o-abraco-e-depois-dele--entracte-e-preludio">
                         <navLabel>
                             <text>ENTR’ACTE E PRELÚDIO</text>
                         </navLabel>
                         <content
-                            src="criacao-de-personagens/criacao-de-personagem/o-abraco-e-depois-dele-/entr’acte-e-preludio.html" />
+                            src="criacao-de-personagens/criacao-de-personagem/o-abraco-e-depois-dele-/entracte-e-preludio.html" />
                     </navPoint>
                     <navPoint id="criacao-de-personagens-criacao-de-personagem-o-abraco-e-depois-dele--quem-e-voce-agora">
                         <navLabel>

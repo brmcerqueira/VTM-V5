@@ -812,7 +812,811 @@
                 </navLabel>
                 <content src="regras/as-tradicoes-cainitas.html" />
             </navPoint>            
-        </navPoint>        
+        </navPoint>
+        <navPoint id="criacao-de-personagens">
+            <navLabel>
+                <text>CRIAÇÃO DE PERSONAGENS</text>
+            </navLabel>
+            <content src="criacao-de-personagens/os-fundamentos-de-um-personagem.html" />
+            <navPoint id="criacao-de-personagens-os-fundamentos-de-um-personagem">
+                <navLabel>
+                    <text>OS FUNDAMENTOS DE UM PERSONAGEM</text>
+                </navLabel>
+                <content src="criacao-de-personagens/os-fundamentos-de-um-personagem.html" />
+            </navPoint>
+            <navPoint id="criacao-de-personagens-criacao-de-personagem">
+                <navLabel>
+                    <text>CRIAÇÃO DE PERSONAGEM</text>
+                </navLabel>
+                <content src="criacao-de-personagens/criacao-de-personagem/index.html" />
+                <navPoint id="criacao-de-personagens-criacao-de-personagem-a-funcao-do-narrador">
+                    <navLabel>
+                        <text>A FUNÇÃO DO NARRADOR</text>
+                    </navLabel>
+                    <content src="criacao-de-personagens/criacao-de-personagem/a-funcao-do-narrador/index.html" />
+                    <navPoint id="criacao-de-personagens-criacao-de-personagem-a-funcao-do-narrador-definindo-o-seu-jogo">
+                        <navLabel>
+                            <text>DEFININDO O SEU JOGO</text>
+                        </navLabel>
+                        <content
+                            src="criacao-de-personagens/criacao-de-personagem/a-funcao-do-narrador/definindo-o-seu-jogo.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-criacao-de-personagem-a-funcao-do-narrador-anotacoes">
+                        <navLabel>
+                            <text>ANOTAÇÕES</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/criacao-de-personagem/a-funcao-do-narrador/anotacoes.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem">
+                    <navLabel>
+                        <text>SUMARIO DE CRIAÇÃO DE PERSONAGEM</text>
+                    </navLabel>
+                    <content src="criacao-de-personagens/criacao-de-personagem/sumario-de-criacao-de-personagem/index.html" />
+                    <navPoint id="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem-conceito-principal">
+                        <navLabel>
+                            <text>CONCEITO PRINCIPAL</text>
+                        </navLabel>
+                        <content
+                            src="criacao-de-personagens/criacao-de-personagem/sumario-de-criacao-de-personagem/conceito-principal.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem-cla-e-senhor">
+                        <navLabel>
+                            <text>CLÃ E SENHOR</text>
+                        </navLabel>
+                        <content
+                            src="criacao-de-personagens/criacao-de-personagem/sumario-de-criacao-de-personagem/cla-e-senhor.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem-atributos">
+                        <navLabel>
+                            <text>ATRIBUTOS</text>
+                        </navLabel>
+                        <content
+                            src="criacao-de-personagens/criacao-de-personagem/sumario-de-criacao-de-personagem/atributos.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem-pericias">
+                        <navLabel>
+                            <text>PERICIAS</text>
+                        </navLabel>
+                        <content
+                            src="criacao-de-personagens/criacao-de-personagem/sumario-de-criacao-de-personagem/pericias.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem-disciplinas">
+                        <navLabel>
+                            <text>DISCIPLINAS</text>
+                        </navLabel>
+                        <content
+                            src="criacao-de-personagens/criacao-de-personagem/sumario-de-criacao-de-personagem/disciplinas.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem-predador">
+                        <navLabel>
+                            <text>PREDADOR</text>
+                        </navLabel>
+                        <content
+                            src="criacao-de-personagens/criacao-de-personagem/sumario-de-criacao-de-personagem/predador.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem-vantagens">
+                        <navLabel>
+                            <text>VANTAGENS</text>
+                        </navLabel>
+                        <content
+                            src="criacao-de-personagens/criacao-de-personagem/sumario-de-criacao-de-personagem/vantagens.html" />
+                    </navPoint>
+                    <navPoint
+                        id="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem-conviccoes-e-alicerces-de-humanidade">
+                        <navLabel>
+                            <text>CONVICÇÕES E ALICERCES DE HUMANIDADE</text>
+                        </navLabel>
+                        <content
+                            src="criacao-de-personagens/criacao-de-personagem/sumario-de-criacao-de-personagem/conviccoes-e-alicerces-de-humanidade.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem-o-mar-do-tempo">
+                        <navLabel>
+                            <text>O MAR DO TEMPO</text>
+                        </navLabel>
+                        <content
+                            src="criacao-de-personagens/criacao-de-personagem/sumario-de-criacao-de-personagem/o-mar-do-tempo.html" />
+                    </navPoint>
+                    <navPoint
+                        id="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem-o-que-fazer-neste-jogo">
+                        <navLabel>
+                            <text>O QUE FAZER NESTE JOGO?</text>
+                        </navLabel>
+                        <content
+                            src="criacao-de-personagens/criacao-de-personagem/sumario-de-criacao-de-personagem/o-que-fazer-neste-jogo.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="criacao-de-personagens-criacao-de-personagem-personagem-coterrie-e-cronica">
+                    <navLabel>
+                        <text>PERSONAGEM, COTERRIE E CRÔNICA</text>
+                    </navLabel>
+                    <content src="criacao-de-personagens/criacao-de-personagem/personagem-coterrie-e-cronica/index.html" />
+                    <navPoint id="criacao-de-personagens-criacao-de-personagem-personagem-coterrie-e-cronica-a-cidade">
+                        <navLabel>
+                            <text>A CIDADE</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/criacao-de-personagem/personagem-coterrie-e-cronica/a-cidade.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-criacao-de-personagem-personagem-coterrie-e-cronica-idade-e-geracao">
+                        <navLabel>
+                            <text>IDADE E GERAÇÃO</text>
+                        </navLabel>
+                        <content
+                            src="criacao-de-personagens/criacao-de-personagem/personagem-coterrie-e-cronica/idade-e-geracao.html" />
+                    </navPoint>
+                    <navPoint
+                        id="criacao-de-personagens-criacao-de-personagem-personagem-coterrie-e-cronica-conceito-central-do-personagem">
+                        <navLabel>
+                            <text>CONCEITO CENTRAL DO PERSONAGEM</text>
+                        </navLabel>
+                        <content
+                            src="criacao-de-personagens/criacao-de-personagem/personagem-coterrie-e-cronica/conceito-central-do-personagem.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="criacao-de-personagens-criacao-de-personagem-o-mapa-de-relacionamentos-">
+                    <navLabel>
+                        <text>O MAPA DE RELACIONAMENTOS </text>
+                    </navLabel>
+                    <content src="criacao-de-personagens/criacao-de-personagem/o-mapa-de-relacionamentos-.html" />
+                </navPoint>
+                <navPoint id="criacao-de-personagens-criacao-de-personagem-sua-vida-humana">
+                    <navLabel>
+                        <text>SUA VIDA HUMANA</text>
+                    </navLabel>
+                    <content src="criacao-de-personagens/criacao-de-personagem/sua-vida-humana/index.html" />
+                    <navPoint id="criacao-de-personagens-criacao-de-personagem-sua-vida-humana-escolha-as-suas-caracteristicas">
+                        <navLabel>
+                            <text>ESCOLHA AS SUAS CARACTERÍSTICAS</text>
+                        </navLabel>
+                        <content
+                            src="criacao-de-personagens/criacao-de-personagem/sua-vida-humana/escolha-as-suas-caracteristicas.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-criacao-de-personagem-sua-vida-humana-estabeleca-as-suas-crencas">
+                        <navLabel>
+                            <text>ESTABELEÇA AS SUAS CRENÇAS</text>
+                        </navLabel>
+                        <content
+                            src="criacao-de-personagens/criacao-de-personagem/sua-vida-humana/estabeleca-as-suas-crencas.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-criacao-de-personagem-sua-vida-humana-conviccoes">
+                        <navLabel>
+                            <text>CONVICÇÕES</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/criacao-de-personagem/sua-vida-humana/conviccoes.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-criacao-de-personagem-sua-vida-humana-alicerces-touchstone">
+                        <navLabel>
+                            <text>ALICERCES (TOUCHSTONE)</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/criacao-de-personagem/sua-vida-humana/alicerces-touchstone.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-criacao-de-personagem-sua-vida-humana-ambicao">
+                        <navLabel>
+                            <text>AMBIÇÃO</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/criacao-de-personagem/sua-vida-humana/ambicao.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="criacao-de-personagens-criacao-de-personagem-o-abraco-e-depois-dele-">
+                    <navLabel>
+                        <text>O ABRAÇO E DEPOIS DELE </text>
+                    </navLabel>
+                    <content src="criacao-de-personagens/criacao-de-personagem/o-abraco-e-depois-dele-/index.html" />
+                    <navPoint id="criacao-de-personagens-criacao-de-personagem-o-abraco-e-depois-dele--entr’acte-e-preludio">
+                        <navLabel>
+                            <text>ENTR’ACTE E PRELÚDIO</text>
+                        </navLabel>
+                        <content
+                            src="criacao-de-personagens/criacao-de-personagem/o-abraco-e-depois-dele-/entr’acte-e-preludio.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-criacao-de-personagem-o-abraco-e-depois-dele--quem-e-voce-agora">
+                        <navLabel>
+                            <text>QUEM É VOCÊ AGORA?</text>
+                        </navLabel>
+                        <content
+                            src="criacao-de-personagens/criacao-de-personagem/o-abraco-e-depois-dele-/quem-e-voce-agora.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-criacao-de-personagem-o-abraco-e-depois-dele--quem-e-voce-na-noite">
+                        <navLabel>
+                            <text>QUEM É VOCÊ NA NOITE?</text>
+                        </navLabel>
+                        <content
+                            src="criacao-de-personagens/criacao-de-personagem/o-abraco-e-depois-dele-/quem-e-voce-na-noite.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-criacao-de-personagem-o-abraco-e-depois-dele--potencia-do-sangue">
+                        <navLabel>
+                            <text>POTÊNCIA DO SANGUE</text>
+                        </navLabel>
+                        <content
+                            src="criacao-de-personagens/criacao-de-personagem/o-abraco-e-depois-dele-/potencia-do-sangue.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-criacao-de-personagem-o-abraco-e-depois-dele--registre-a-sua-humanidade">
+                        <navLabel>
+                            <text>REGISTRE A SUA HUMANIDADE</text>
+                        </navLabel>
+                        <content
+                            src="criacao-de-personagens/criacao-de-personagem/o-abraco-e-depois-dele-/registre-a-sua-humanidade.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-criacao-de-personagem-o-abraco-e-depois-dele--como-voce-caca">
+                        <navLabel>
+                            <text>COMO VOCÊ CAÇA?</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/criacao-de-personagem/o-abraco-e-depois-dele-/como-voce-caca.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-criacao-de-personagem-o-abraco-e-depois-dele--escolha-as-suas-disciplinas">
+                        <navLabel>
+                            <text>ESCOLHA AS SUAS DISCIPLINAS</text>
+                        </navLabel>
+                        <content
+                            src="criacao-de-personagens/criacao-de-personagem/o-abraco-e-depois-dele-/escolha-as-suas-disciplinas.html" />
+                    </navPoint>
+                    <navPoint
+                        id="criacao-de-personagens-criacao-de-personagem-o-abraco-e-depois-dele--sangues-fracos-e-disciplinas">
+                        <navLabel>
+                            <text>SANGUES-FRACOS E DISCIPLINAS</text>
+                        </navLabel>
+                        <content
+                            src="criacao-de-personagens/criacao-de-personagem/o-abraco-e-depois-dele-/sangues-fracos-e-disciplinas.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-criacao-de-personagem-o-abraco-e-depois-dele--escolha-o-seu-predador">
+                        <navLabel>
+                            <text>ESCOLHA O SEU PREDADOR</text>
+                        </navLabel>
+                        <content
+                            src="criacao-de-personagens/criacao-de-personagem/o-abraco-e-depois-dele-/escolha-o-seu-predador.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-criacao-de-personagem-o-abraco-e-depois-dele--qual-e-a-sua-historia">
+                        <navLabel>
+                            <text>QUAL É A SUA HISTÓRIA?</text>
+                        </navLabel>
+                        <content
+                            src="criacao-de-personagens/criacao-de-personagem/o-abraco-e-depois-dele-/qual-e-a-sua-historia.html" />
+                    </navPoint>
+                    <navPoint
+                        id="criacao-de-personagens-criacao-de-personagem-o-abraco-e-depois-dele--qualidades-e-defeitos-de-sangue-fraco">
+                        <navLabel>
+                            <text>QUALIDADES E DEFEITOS DE SANGUE-FRACO</text>
+                        </navLabel>
+                        <content
+                            src="criacao-de-personagens/criacao-de-personagem/o-abraco-e-depois-dele-/qualidades-e-defeitos-de-sangue-fraco.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-criacao-de-personagem-o-abraco-e-depois-dele--construa-a-sua-coterie">
+                        <navLabel>
+                            <text>CONSTRUA A SUA COTERIE</text>
+                        </navLabel>
+                        <content
+                            src="criacao-de-personagens/criacao-de-personagem/o-abraco-e-depois-dele-/construa-a-sua-coterie.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-criacao-de-personagem-o-abraco-e-depois-dele--mar-do-tempo">
+                        <navLabel>
+                            <text>MAR DO TEMPO</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/criacao-de-personagem/o-abraco-e-depois-dele-/mar-do-tempo.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="criacao-de-personagens-criacao-de-personagem-ficha-de-sumario-para-criacao-de-personagens">
+                    <navLabel>
+                        <text>FICHA DE SUMARIO PARA CRIAÇÃO DE PERSONAGENS</text>
+                    </navLabel>
+                    <content
+                        src="criacao-de-personagens/criacao-de-personagem/ficha-de-sumario-para-criacao-de-personagens/atributos.html" />
+                    <navPoint
+                        id="criacao-de-personagens-criacao-de-personagem-ficha-de-sumario-para-criacao-de-personagens-atributos">
+                        <navLabel>
+                            <text>ATRIBUTOS</text>
+                        </navLabel>
+                        <content
+                            src="criacao-de-personagens/criacao-de-personagem/ficha-de-sumario-para-criacao-de-personagens/atributos.html" />
+                    </navPoint>
+                    <navPoint
+                        id="criacao-de-personagens-criacao-de-personagem-ficha-de-sumario-para-criacao-de-personagens-habilidades">
+                        <navLabel>
+                            <text>HABILIDADES</text>
+                        </navLabel>
+                        <content
+                            src="criacao-de-personagens/criacao-de-personagem/ficha-de-sumario-para-criacao-de-personagens/habilidades.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-criacao-de-personagem-ficha-de-sumario-para-criacao-de-personagens-clas">
+                        <navLabel>
+                            <text>CLÃS</text>
+                        </navLabel>
+                        <content
+                            src="criacao-de-personagens/criacao-de-personagem/ficha-de-sumario-para-criacao-de-personagens/clas.html" />
+                    </navPoint>
+                    <navPoint
+                        id="criacao-de-personagens-criacao-de-personagem-ficha-de-sumario-para-criacao-de-personagens-disciplinas">
+                        <navLabel>
+                            <text>DISCIPLINAS</text>
+                        </navLabel>
+                        <content
+                            src="criacao-de-personagens/criacao-de-personagem/ficha-de-sumario-para-criacao-de-personagens/disciplinas.html" />
+                    </navPoint>
+                    <navPoint
+                        id="criacao-de-personagens-criacao-de-personagem-ficha-de-sumario-para-criacao-de-personagens-tipos-de-predadores">
+                        <navLabel>
+                            <text>TIPOS DE PREDADORES</text>
+                        </navLabel>
+                        <content
+                            src="criacao-de-personagens/criacao-de-personagem/ficha-de-sumario-para-criacao-de-personagens/tipos-de-predadores.html" />
+                    </navPoint>
+                    <navPoint
+                        id="criacao-de-personagens-criacao-de-personagem-ficha-de-sumario-para-criacao-de-personagens-antecedentes">
+                        <navLabel>
+                            <text>ANTECEDENTES</text>
+                        </navLabel>
+                        <content
+                            src="criacao-de-personagens/criacao-de-personagem/ficha-de-sumario-para-criacao-de-personagens/antecedentes.html" />
+                    </navPoint>
+                    <navPoint
+                        id="criacao-de-personagens-criacao-de-personagem-ficha-de-sumario-para-criacao-de-personagens-tipos-de-coterie">
+                        <navLabel>
+                            <text>TIPOS DE COTERIE</text>
+                        </navLabel>
+                        <content
+                            src="criacao-de-personagens/criacao-de-personagem/ficha-de-sumario-para-criacao-de-personagens/tipos-de-coterie.html" />
+                    </navPoint>
+                </navPoint>
+            </navPoint>
+            <navPoint id="criacao-de-personagens-caracteristicas-principais">
+                <navLabel>
+                    <text>CARACTERÍSTICAS PRINCIPAIS</text>
+                </navLabel>
+                <content src="criacao-de-personagens/caracteristicas-principais/index.html" />
+                <navPoint id="criacao-de-personagens-caracteristicas-principais-atributos-fisicos">
+                    <navLabel>
+                        <text>ATRIBUTOS FÍSICOS</text>
+                    </navLabel>
+                    <content src="criacao-de-personagens/caracteristicas-principais/atributos-fisicos/index.html" />
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-atributos-fisicos-forca">
+                        <navLabel>
+                            <text>FORÇA</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/caracteristicas-principais/atributos-fisicos/forca.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-atributos-fisicos-destreza">
+                        <navLabel>
+                            <text>DESTREZA</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/caracteristicas-principais/atributos-fisicos/destreza.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-atributos-fisicos-vigor">
+                        <navLabel>
+                            <text>VIGOR</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/caracteristicas-principais/atributos-fisicos/vigor.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="criacao-de-personagens-caracteristicas-principais-atributos-sociais">
+                    <navLabel>
+                        <text>ATRIBUTOS SOCIAIS</text>
+                    </navLabel>
+                    <content src="criacao-de-personagens/caracteristicas-principais/atributos-sociais/index.html" />
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-atributos-sociais-carisma">
+                        <navLabel>
+                            <text>CARISMA</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/caracteristicas-principais/atributos-sociais/carisma.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-atributos-sociais-manipulacao">
+                        <navLabel>
+                            <text>MANIPULAÇÃO</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/caracteristicas-principais/atributos-sociais/manipulacao.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-atributos-sociais-autocontrole">
+                        <navLabel>
+                            <text>AUTOCONTROLE</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/caracteristicas-principais/atributos-sociais/autocontrole.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="criacao-de-personagens-caracteristicas-principais-atributos-mentais">
+                    <navLabel>
+                        <text>ATRIBUTOS MENTAIS</text>
+                    </navLabel>
+                    <content src="criacao-de-personagens/caracteristicas-principais/atributos-mentais/index.html" />
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-atributos-mentais-inteligencia">
+                        <navLabel>
+                            <text>INTELIGÊNCIA</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/caracteristicas-principais/atributos-mentais/inteligencia.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-atributos-mentais-raciocinio">
+                        <navLabel>
+                            <text>RACIOCÍNIO</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/caracteristicas-principais/atributos-mentais/raciocinio.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-atributos-mentais-perseveranca">
+                        <navLabel>
+                            <text>PERSEVERANÇA</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/caracteristicas-principais/atributos-mentais/perseveranca.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="criacao-de-personagens-caracteristicas-principais-forca-de-vontade">
+                    <navLabel>
+                        <text>FORÇA DE VONTADE</text>
+                    </navLabel>
+                    <content src="criacao-de-personagens/caracteristicas-principais/forca-de-vontade/index.html" />
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-forca-de-vontade-gastando-forca-de-vontade">
+                        <navLabel>
+                            <text>GASTANDO FORÇA DE VONTADE</text>
+                        </navLabel>
+                        <content
+                            src="criacao-de-personagens/caracteristicas-principais/forca-de-vontade/gastando-forca-de-vontade.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-forca-de-vontade-recuperando-forca-de-vontade">
+                        <navLabel>
+                            <text>RECUPERANDO FORÇA DE VONTADE</text>
+                        </navLabel>
+                        <content
+                            src="criacao-de-personagens/caracteristicas-principais/forca-de-vontade/recuperando-forca-de-vontade.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-forca-de-vontade-girando-o-botao">
+                        <navLabel>
+                            <text>GIRANDO O BOTÃO</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/caracteristicas-principais/forca-de-vontade/girando-o-botao.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="criacao-de-personagens-caracteristicas-principais-habilidades-fisicas">
+                    <navLabel>
+                        <text>HABILIDADES FÍSICAS</text>
+                    </navLabel>
+                    <content src="criacao-de-personagens/caracteristicas-principais/habilidades-fisicas/index.html" />
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-habilidades-fisicas-esportes">
+                        <navLabel>
+                            <text>ESPORTES</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/caracteristicas-principais/habilidades-fisicas/esportes.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-habilidades-fisicas-briga">
+                        <navLabel>
+                            <text>BRIGA</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/caracteristicas-principais/habilidades-fisicas/briga.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-habilidades-fisicas-oficios">
+                        <navLabel>
+                            <text>OFÍCIOS</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/caracteristicas-principais/habilidades-fisicas/oficios.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-habilidades-fisicas-conducao">
+                        <navLabel>
+                            <text>CONDUÇÃO</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/caracteristicas-principais/habilidades-fisicas/conducao.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-habilidades-fisicas-armas-de-fogo">
+                        <navLabel>
+                            <text>ARMAS DE FOGO</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/caracteristicas-principais/habilidades-fisicas/armas-de-fogo.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-habilidades-fisicas-roubo">
+                        <navLabel>
+                            <text>ROUBO</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/caracteristicas-principais/habilidades-fisicas/roubo.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-habilidades-fisicas-armas-brancas">
+                        <navLabel>
+                            <text>ARMAS BRANCAS</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/caracteristicas-principais/habilidades-fisicas/armas-brancas.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-habilidades-fisicas-furtividade">
+                        <navLabel>
+                            <text>FURTIVIDADE</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/caracteristicas-principais/habilidades-fisicas/furtividade.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-habilidades-fisicas-sobrevivencia">
+                        <navLabel>
+                            <text>SOBREVIVÊNCIA</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/caracteristicas-principais/habilidades-fisicas/sobrevivencia.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="criacao-de-personagens-caracteristicas-principais-habilidades-sociais">
+                    <navLabel>
+                        <text>HABILIDADES SOCIAIS</text>
+                    </navLabel>
+                    <content src="criacao-de-personagens/caracteristicas-principais/habilidades-sociais/index.html" />
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-habilidades-sociais-empatia-com-animais">
+                        <navLabel>
+                            <text>EMPATIA COM ANIMAIS</text>
+                        </navLabel>
+                        <content
+                            src="criacao-de-personagens/caracteristicas-principais/habilidades-sociais/empatia-com-animais.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-habilidades-sociais-etiqueta">
+                        <navLabel>
+                            <text>ETIQUETA</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/caracteristicas-principais/habilidades-sociais/etiqueta.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-habilidades-sociais-intuicao">
+                        <navLabel>
+                            <text>INTUIÇÃO</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/caracteristicas-principais/habilidades-sociais/intuicao.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-habilidades-sociais-intimidacao">
+                        <navLabel>
+                            <text>INTIMIDAÇÃO</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/caracteristicas-principais/habilidades-sociais/intimidacao.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-habilidades-sociais-lideranca">
+                        <navLabel>
+                            <text>LIDERANÇA</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/caracteristicas-principais/habilidades-sociais/lideranca.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-habilidades-sociais-performance">
+                        <navLabel>
+                            <text>PERFORMANCE</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/caracteristicas-principais/habilidades-sociais/performance.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-habilidades-sociais-persuasao">
+                        <navLabel>
+                            <text>PERSUASÃO</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/caracteristicas-principais/habilidades-sociais/persuasao.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-habilidades-sociais-manha">
+                        <navLabel>
+                            <text>MANHA</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/caracteristicas-principais/habilidades-sociais/manha.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-habilidades-sociais-labia">
+                        <navLabel>
+                            <text>LÁBIA</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/caracteristicas-principais/habilidades-sociais/labia.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="criacao-de-personagens-caracteristicas-principais-habilidades-mentais">
+                    <navLabel>
+                        <text>HABILIDADES MENTAIS</text>
+                    </navLabel>
+                    <content src="criacao-de-personagens/caracteristicas-principais/habilidades-mentais/index.html" />
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-habilidades-mentais-academicos">
+                        <navLabel>
+                            <text>ACADÊMICOS</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/caracteristicas-principais/habilidades-mentais/academicos.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-habilidades-mentais-financas">
+                        <navLabel>
+                            <text>FINANÇAS</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/caracteristicas-principais/habilidades-mentais/financas.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-habilidades-mentais-investigacao">
+                        <navLabel>
+                            <text>INVESTIGAÇÃO</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/caracteristicas-principais/habilidades-mentais/investigacao.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-habilidades-mentais-medicina">
+                        <navLabel>
+                            <text>MEDICINA</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/caracteristicas-principais/habilidades-mentais/medicina.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-habilidades-mentais-ocultismo">
+                        <navLabel>
+                            <text>OCULTISMO</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/caracteristicas-principais/habilidades-mentais/ocultismo.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-habilidades-mentais-politica">
+                        <navLabel>
+                            <text>POLÍTICA</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/caracteristicas-principais/habilidades-mentais/politica.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-habilidades-mentais-ciencias">
+                        <navLabel>
+                            <text>CIÊNCIAS</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/caracteristicas-principais/habilidades-mentais/ciencias.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-habilidades-mentais-tecnologia">
+                        <navLabel>
+                            <text>TECNOLOGIA</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/caracteristicas-principais/habilidades-mentais/tecnologia.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="criacao-de-personagens-caracteristicas-principais-especializacoes-de-habilidade">
+                    <navLabel>
+                        <text>ESPECIALIZAÇÕES DE HABILIDADE</text>
+                    </navLabel>
+                    <content src="criacao-de-personagens/caracteristicas-principais/especializacoes-de-habilidade.html" />
+                </navPoint>
+                <navPoint id="criacao-de-personagens-caracteristicas-principais-adicionando-novas-habilidades">
+                    <navLabel>
+                        <text>ADICIONANDO NOVAS HABILIDADES</text>
+                    </navLabel>
+                    <content src="criacao-de-personagens/caracteristicas-principais/adicionando-novas-habilidades.html" />
+                </navPoint>
+            </navPoint>
+            <navPoint id="criacao-de-personagens-crencas">
+                <navLabel>
+                    <text>CRENÇAS</text>
+                </navLabel>
+                <content src="criacao-de-personagens/crencas/index.html" />
+                <navPoint id="criacao-de-personagens-crencas-conviccoes">
+                    <navLabel>
+                        <text>CONVICÇÕES</text>
+                    </navLabel>
+                    <content src="criacao-de-personagens/crencas/conviccoes/index.html" />
+                    <navPoint id="criacao-de-personagens-crencas-conviccoes-principios-da-cronica">
+                        <navLabel>
+                            <text>PRINCÍPIOS DA CRÔNICA</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/crencas/conviccoes/principios-da-cronica.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="criacao-de-personagens-crencas-alicerces-de-humanidade-touchstones">
+                    <navLabel>
+                        <text>ALICERCES DE HUMANIDADE (TOUCHSTONES)</text>
+                    </navLabel>
+                    <content src="criacao-de-personagens/crencas/alicerces-de-humanidade-touchstones.html" />
+                </navPoint>
+                <navPoint id="criacao-de-personagens-crencas-ambicao-e-desejo">
+                    <navLabel>
+                        <text>AMBIÇÃO E DESEJO</text>
+                    </navLabel>
+                    <content src="criacao-de-personagens/crencas/ambicao-e-desejo/index.html" />
+                    <navPoint id="criacao-de-personagens-crencas-ambicao-e-desejo-ambicao">
+                        <navLabel>
+                            <text>AMBIÇÃO</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/crencas/ambicao-e-desejo/ambicao.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-crencas-ambicao-e-desejo-desejo">
+                        <navLabel>
+                            <text>DESEJO</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/crencas/ambicao-e-desejo/desejo.html" />
+                    </navPoint>
+                </navPoint>
+            </navPoint>
+            <navPoint id="criacao-de-personagens-tipos-de-predadores">
+                <navLabel>
+                    <text>TIPOS DE PREDADORES</text>
+                </navLabel>
+                <content src="criacao-de-personagens/tipos-de-predadores/index.html" />
+                <navPoint id="criacao-de-personagens-tipos-de-predadores-gato-dos-becos">
+                    <navLabel>
+                        <text>GATO DOS BECOS</text>
+                    </navLabel>
+                    <content src="criacao-de-personagens/tipos-de-predadores/gato-dos-becos.html" />
+                </navPoint>
+                <navPoint id="criacao-de-personagens-tipos-de-predadores-ensacador">
+                    <navLabel>
+                        <text>ENSACADOR</text>
+                    </navLabel>
+                    <content src="criacao-de-personagens/tipos-de-predadores/ensacador.html" />
+                </navPoint>
+                <navPoint id="criacao-de-personagens-tipos-de-predadores-sanguessuga">
+                    <navLabel>
+                        <text>SANGUESSUGA</text>
+                    </navLabel>
+                    <content src="criacao-de-personagens/tipos-de-predadores/sanguessuga.html" />
+                </navPoint>
+                <navPoint id="criacao-de-personagens-tipos-de-predadores-apegado">
+                    <navLabel>
+                        <text>APEGADO</text>
+                    </navLabel>
+                    <content src="criacao-de-personagens/tipos-de-predadores/apegado.html" />
+                </navPoint>
+                <navPoint id="criacao-de-personagens-tipos-de-predadores-consensualista">
+                    <navLabel>
+                        <text>CONSENSUALISTA</text>
+                    </navLabel>
+                    <content src="criacao-de-personagens/tipos-de-predadores/consensualista.html" />
+                </navPoint>
+                <navPoint id="criacao-de-personagens-tipos-de-predadores-fazendeiro">
+                    <navLabel>
+                        <text>FAZENDEIRO</text>
+                    </navLabel>
+                    <content src="criacao-de-personagens/tipos-de-predadores/fazendeiro.html" />
+                </navPoint>
+                <navPoint id="criacao-de-personagens-tipos-de-predadores-osiris">
+                    <navLabel>
+                        <text>OSIRIS</text>
+                    </navLabel>
+                    <content src="criacao-de-personagens/tipos-de-predadores/osiris.html" />
+                </navPoint>
+                <navPoint id="criacao-de-personagens-tipos-de-predadores-joao-pestana">
+                    <navLabel>
+                        <text>JOÃO PESTANA</text>
+                    </navLabel>
+                    <content src="criacao-de-personagens/tipos-de-predadores/joao-pestana.html" />
+                </navPoint>
+                <navPoint id="criacao-de-personagens-tipos-de-predadores-rainha-da-cena">
+                    <navLabel>
+                        <text>RAINHA DA CENA</text>
+                    </navLabel>
+                    <content src="criacao-de-personagens/tipos-de-predadores/rainha-da-cena.html" />
+                </navPoint>
+                <navPoint id="criacao-de-personagens-tipos-de-predadores-sereia">
+                    <navLabel>
+                        <text>SEREIA</text>
+                    </navLabel>
+                    <content src="criacao-de-personagens/tipos-de-predadores/sereia.html" />
+                </navPoint>
+            </navPoint>
+            <navPoint id="criacao-de-personagens-vantagens">
+                <navLabel>
+                    <text>VANTAGENS</text>
+                </navLabel>
+                <content src="criacao-de-personagens/vantagens/index.html" />
+                <navPoint id="criacao-de-personagens-vantagens-ganhando-e-perdendo-vantagens">
+                    <navLabel>
+                        <text>GANHANDO E PERDENDO VANTAGENS</text>
+                    </navLabel>
+                    <content src="criacao-de-personagens/vantagens/ganhando-e-perdendo-vantagens.html" />
+                </navPoint>
+            </navPoint>
+            <navPoint id="criacao-de-personagens-criacao-da-coterie">
+                <navLabel>
+                    <text>CRIAÇÃO DA COTERIE</text>
+                </navLabel>
+                <content src="criacao-de-personagens/criacao-da-coterie/index.html" />
+                <navPoint id="criacao-de-personagens-criacao-da-coterie-dominio">
+                    <navLabel>
+                        <text>DOMÍNIO</text>
+                    </navLabel>
+                    <content src="criacao-de-personagens/criacao-da-coterie/dominio/index.html" />
+                    <navPoint id="criacao-de-personagens-criacao-da-coterie-dominio-chasse">
+                        <navLabel>
+                            <text>CHASSE</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/criacao-da-coterie/dominio/chasse.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-criacao-da-coterie-dominio-lien">
+                        <navLabel>
+                            <text>LIEN</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/criacao-da-coterie/dominio/lien.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-criacao-da-coterie-dominio-portillon">
+                        <navLabel>
+                            <text>PORTILLON</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/criacao-da-coterie/dominio/portillon.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-criacao-da-coterie-dominio-coteries-sem-dominio">
+                        <navLabel>
+                            <text>COTERIES SEM DOMINIO</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/criacao-da-coterie/dominio/coteries-sem-dominio.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="criacao-de-personagens-criacao-da-coterie-antecedentes-de-coteries">
+                    <navLabel>
+                        <text>ANTECEDENTES DE COTERIES</text>
+                    </navLabel>
+                    <content src="criacao-de-personagens/criacao-da-coterie/antecedentes-de-coteries.html" />
+                </navPoint>
+                <navPoint id="criacao-de-personagens-criacao-da-coterie-tipos-de-coteries">
+                    <navLabel>
+                        <text>TIPOS DE COTERIES</text>
+                    </navLabel>
+                    <content src="criacao-de-personagens/criacao-da-coterie/tipos-de-coteries.html" />
+                </navPoint>
+            </navPoint>            
+        </navPoint>                
         <navPoint id="disciplinas">
             <navLabel>
                 <text>DISCIPLINAS</text>

@@ -852,7 +852,7 @@
                     <navLabel>
                         <text>SUMARIO DE CRIAÇÃO DE PERSONAGEM</text>
                     </navLabel>
-                    <content src="criacao-de-personagens/criacao-de-personagem/sumario-de-criacao-de-personagem/index.html" />
+                     <content src="criacao-de-personagens/criacao-de-personagem/sumario-de-criacao-de-personagem/conceito-principal.html" />
                     <navPoint id="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem-conceito-principal">
                         <navLabel>
                             <text>CONCEITO PRINCIPAL</text>

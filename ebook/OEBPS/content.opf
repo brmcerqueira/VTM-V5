@@ -158,8 +158,7 @@
       <item id="criacao-de-personagens-criacao-de-personagem" href="criacao-de-personagens/criacao-de-personagem/index.html" media-type="application/xhtml+xml" />
       <item id="criacao-de-personagens-criacao-de-personagem-a-funcao-do-narrador" href="criacao-de-personagens/criacao-de-personagem/a-funcao-do-narrador/index.html" media-type="application/xhtml+xml" />
       <item id="criacao-de-personagens-criacao-de-personagem-a-funcao-do-narrador-definindo-o-seu-jogo" href="criacao-de-personagens/criacao-de-personagem/a-funcao-do-narrador/definindo-o-seu-jogo.html" media-type="application/xhtml+xml" />
-      <item id="criacao-de-personagens-criacao-de-personagem-a-funcao-do-narrador-anotacoes" href="criacao-de-personagens/criacao-de-personagem/a-funcao-do-narrador/anotacoes.html" media-type="application/xhtml+xml" />
-      <item id="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem" href="criacao-de-personagens/criacao-de-personagem/sumario-de-criacao-de-personagem/index.html" media-type="application/xhtml+xml" />
+      <item id="criacao-de-personagens-criacao-de-personagem-a-funcao-do-narrador-anotacoes" href="criacao-de-personagens/criacao-de-personagem/a-funcao-do-narrador/anotacoes.html" media-type="application/xhtml+xml" />  
       <item id="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem-conceito-principal" href="criacao-de-personagens/criacao-de-personagem/sumario-de-criacao-de-personagem/conceito-principal.html" media-type="application/xhtml+xml" />
       <item id="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem-cla-e-senhor" href="criacao-de-personagens/criacao-de-personagem/sumario-de-criacao-de-personagem/cla-e-senhor.html" media-type="application/xhtml+xml" />
       <item id="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem-atributos" href="criacao-de-personagens/criacao-de-personagem/sumario-de-criacao-de-personagem/atributos.html" media-type="application/xhtml+xml" />
@@ -723,7 +722,6 @@
       <itemref idref="criacao-de-personagens-criacao-de-personagem-a-funcao-do-narrador" linear="yes" />
       <itemref idref="criacao-de-personagens-criacao-de-personagem-a-funcao-do-narrador-definindo-o-seu-jogo" linear="yes" />
       <itemref idref="criacao-de-personagens-criacao-de-personagem-a-funcao-do-narrador-anotacoes" linear="yes" />
-      <itemref idref="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem" linear="yes" />
       <itemref idref="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem-conceito-principal" linear="yes" />
       <itemref idref="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem-cla-e-senhor" linear="yes" />
       <itemref idref="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem-atributos" linear="yes" />

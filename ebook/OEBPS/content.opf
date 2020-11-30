@@ -282,6 +282,21 @@
       <item id="criacao-de-personagens-vantagens-qualidades-e-defeitos-qualidades-e-defeitos-de-sangue-fraco-defeitos-de-sangue-fraco" href="criacao-de-personagens/vantagens/qualidades-e-defeitos/qualidades-e-defeitos-de-sangue-fraco/defeitos-de-sangue-fraco.html" media-type="application/xhtml+xml" />
       <item id="criacao-de-personagens-vantagens-qualidades-e-defeitos-qualidades-e-defeitos-de-sangue-fraco-qualidades-de-sangue-fraco" href="criacao-de-personagens/vantagens/qualidades-e-defeitos/qualidades-e-defeitos-de-sangue-fraco/qualidades-de-sangue-fraco.html" media-type="application/xhtml+xml" />
             
+      <item id="criacao-de-personagens-vantagens-antecedentes" href="criacao-de-personagens/vantagens/antecedentes/index.html" media-type="application/xhtml+xml" />
+      <item id="criacao-de-personagens-vantagens-antecedentes-aliados" href="criacao-de-personagens/vantagens/antecedentes/aliados.html" media-type="application/xhtml+xml" />
+      <item id="criacao-de-personagens-vantagens-antecedentes-contatos" href="criacao-de-personagens/vantagens/antecedentes/contatos.html" media-type="application/xhtml+xml" />
+      <item id="criacao-de-personagens-vantagens-antecedentes-fama" href="criacao-de-personagens/vantagens/antecedentes/fama.html" media-type="application/xhtml+xml" />
+      <item id="criacao-de-personagens-vantagens-antecedentes-influencia" href="criacao-de-personagens/vantagens/antecedentes/influencia.html" media-type="application/xhtml+xml" />
+      <item id="criacao-de-personagens-vantagens-antecedentes-refugio" href="criacao-de-personagens/vantagens/antecedentes/refugio.html" media-type="application/xhtml+xml" />
+      <item id="criacao-de-personagens-vantagens-antecedentes-rebanho" href="criacao-de-personagens/vantagens/antecedentes/rebanho.html" media-type="application/xhtml+xml" />
+      <item id="criacao-de-personagens-vantagens-antecedentes-camada-de-conhecimento" href="criacao-de-personagens/vantagens/antecedentes/camada-de-conhecimento.html" media-type="application/xhtml+xml" />
+      <item id="criacao-de-personagens-vantagens-antecedentes-mascara" href="criacao-de-personagens/vantagens/antecedentes/mascara.html" media-type="application/xhtml+xml" />
+      <item id="criacao-de-personagens-vantagens-antecedentes-mawla" href="criacao-de-personagens/vantagens/antecedentes/mawla.html" media-type="application/xhtml+xml" />
+      <item id="criacao-de-personagens-vantagens-antecedentes-recursos" href="criacao-de-personagens/vantagens/antecedentes/recursos.html" media-type="application/xhtml+xml" />
+      <item id="criacao-de-personagens-vantagens-antecedentes-lacaios" href="criacao-de-personagens/vantagens/antecedentes/lacaios.html" media-type="application/xhtml+xml" />
+      <item id="criacao-de-personagens-vantagens-antecedentes-status" href="criacao-de-personagens/vantagens/antecedentes/status.html" media-type="application/xhtml+xml" />
+      <item id="criacao-de-personagens-vantagens-antecedentes-dominio" href="criacao-de-personagens/vantagens/antecedentes/dominio.html" media-type="application/xhtml+xml" />
+
       <item id="criacao-de-personagens-criacao-da-coterie" href="criacao-de-personagens/criacao-da-coterie/index.html" media-type="application/xhtml+xml" />
       <item id="criacao-de-personagens-criacao-da-coterie-coteries-sem-dominio" href="criacao-de-personagens/criacao-da-coterie/coteries-sem-dominio.html" media-type="application/xhtml+xml" />
       <item id="criacao-de-personagens-criacao-da-coterie-antecedentes-de-coteries" href="criacao-de-personagens/criacao-da-coterie/antecedentes-de-coteries.html" media-type="application/xhtml+xml" />
@@ -840,7 +855,22 @@
       <itemref idref="criacao-de-personagens-vantagens-qualidades-e-defeitos-qualidades-e-defeitos-de-sangue-fraco" linear="yes" />
       <itemref idref="criacao-de-personagens-vantagens-qualidades-e-defeitos-qualidades-e-defeitos-de-sangue-fraco-defeitos-de-sangue-fraco" linear="yes" />
       <itemref idref="criacao-de-personagens-vantagens-qualidades-e-defeitos-qualidades-e-defeitos-de-sangue-fraco-qualidades-de-sangue-fraco" linear="yes" />      
-            
+
+      <itemref idref="criacao-de-personagens-vantagens-antecedentes" linear="yes" />
+      <itemref idref="criacao-de-personagens-vantagens-antecedentes-aliados" linear="yes" />
+      <itemref idref="criacao-de-personagens-vantagens-antecedentes-contatos" linear="yes" />
+      <itemref idref="criacao-de-personagens-vantagens-antecedentes-fama" linear="yes" />
+      <itemref idref="criacao-de-personagens-vantagens-antecedentes-influencia" linear="yes" />
+      <itemref idref="criacao-de-personagens-vantagens-antecedentes-refugio" linear="yes" />
+      <itemref idref="criacao-de-personagens-vantagens-antecedentes-rebanho" linear="yes" />
+      <itemref idref="criacao-de-personagens-vantagens-antecedentes-camada-de-conhecimento" linear="yes" />
+      <itemref idref="criacao-de-personagens-vantagens-antecedentes-mascara" linear="yes" />
+      <itemref idref="criacao-de-personagens-vantagens-antecedentes-mawla" linear="yes" />
+      <itemref idref="criacao-de-personagens-vantagens-antecedentes-recursos" linear="yes" />
+      <itemref idref="criacao-de-personagens-vantagens-antecedentes-lacaios" linear="yes" />
+      <itemref idref="criacao-de-personagens-vantagens-antecedentes-status" linear="yes" />
+      <itemref idref="criacao-de-personagens-vantagens-antecedentes-dominio" linear="yes" />
+
       <itemref idref="criacao-de-personagens-criacao-da-coterie" linear="yes" />
       <itemref idref="criacao-de-personagens-criacao-da-coterie-coteries-sem-dominio" linear="yes" />
       <itemref idref="criacao-de-personagens-criacao-da-coterie-antecedentes-de-coteries" linear="yes" />

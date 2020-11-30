@@ -1638,6 +1638,90 @@
                         </navPoint>
                     </navPoint>
                 </navPoint>
+                <navPoint id="criacao-de-personagens-vantagens-antecedentes">
+                    <navLabel>
+                        <text>ANTECEDENTES</text>
+                    </navLabel>
+                    <content src="criacao-de-personagens/vantagens/antecedentes/index.html" />
+                    <navPoint id="criacao-de-personagens-vantagens-antecedentes-aliados">
+                        <navLabel>
+                            <text>ALIADOS</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/vantagens/antecedentes/aliados.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-vantagens-antecedentes-contatos">
+                        <navLabel>
+                            <text>CONTATOS</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/vantagens/antecedentes/contatos.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-vantagens-antecedentes-fama">
+                        <navLabel>
+                            <text>FAMA</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/vantagens/antecedentes/fama.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-vantagens-antecedentes-influencia">
+                        <navLabel>
+                            <text>INFLUÊNCIA</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/vantagens/antecedentes/influencia.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-vantagens-antecedentes-refugio">
+                        <navLabel>
+                            <text>REFÚGIO</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/vantagens/antecedentes/refugio.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-vantagens-antecedentes-rebanho">
+                        <navLabel>
+                            <text>REBANHO</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/vantagens/antecedentes/rebanho.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-vantagens-antecedentes-camada-de-conhecimento">
+                        <navLabel>
+                            <text>CAMADA DE CONHECIMENTO</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/vantagens/antecedentes/camada-de-conhecimento.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-vantagens-antecedentes-mascara">
+                        <navLabel>
+                            <text>MÁSCARA</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/vantagens/antecedentes/mascara.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-vantagens-antecedentes-mawla">
+                        <navLabel>
+                            <text>MAWLA</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/vantagens/antecedentes/mawla.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-vantagens-antecedentes-recursos">
+                        <navLabel>
+                            <text>RECURSOS</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/vantagens/antecedentes/recursos.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-vantagens-antecedentes-lacaios">
+                        <navLabel>
+                            <text>LACAIOS</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/vantagens/antecedentes/lacaios.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-vantagens-antecedentes-status">
+                        <navLabel>
+                            <text>STATUS</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/vantagens/antecedentes/status.html" />
+                    </navPoint>
+                    <navPoint id="criacao-de-personagens-vantagens-antecedentes-dominio">
+                        <navLabel>
+                            <text>DOMÍNIO</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/vantagens/antecedentes/dominio.html" />
+                    </navPoint>
+                </navPoint>                
             </navPoint>
             <navPoint id="criacao-de-personagens-criacao-da-coterie">
                 <navLabel>

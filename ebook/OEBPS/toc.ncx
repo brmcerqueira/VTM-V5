@@ -3588,5 +3588,251 @@
                 </navPoint>
             </navPoint>            
         </navPoint>
+        <navPoint id="cidades">
+            <navLabel>
+                <text>CIDADES</text>
+            </navLabel>
+            <content src="cidades/o-sistema-feudal/index.html" />
+            <navPoint id="cidades-o-sistema-feudal">
+                <navLabel>
+                    <text>O SISTEMA FEUDAL</text>
+                </navLabel>
+                <content src="cidades/o-sistema-feudal/index.html" />
+                <navPoint id="cidades-o-sistema-feudal-dominios">
+                    <navLabel>
+                        <text>DOMÍNIOS</text>
+                    </navLabel>
+                    <content src="cidades/o-sistema-feudal/dominios.html" />
+                </navPoint>
+                <navPoint id="cidades-o-sistema-feudal-dominios-por-area">
+                    <navLabel>
+                        <text>DOMÍNIOS POR ÁREA</text>
+                    </navLabel>
+                    <content src="cidades/o-sistema-feudal/dominios-por-area.html" />
+                </navPoint>
+                <navPoint id="cidades-o-sistema-feudal-dominios-de-associacao">
+                    <navLabel>
+                        <text>DOMÍNIOS DE ASSOCIAÇÃO</text>
+                    </navLabel>
+                    <content src="cidades/o-sistema-feudal/dominios-de-associacao.html" />
+                </navPoint>
+                <navPoint id="cidades-o-sistema-feudal-dominios-de-autoridade">
+                    <navLabel>
+                        <text>DOMÍNIOS DE AUTORIDADE</text>
+                    </navLabel>
+                    <content src="cidades/o-sistema-feudal/dominios-de-autoridade.html" />
+                </navPoint>
+                <navPoint id="cidades-o-sistema-feudal-territorios-de-caca">
+                    <navLabel>
+                        <text>TERRITÓRIOS DE CAÇA</text>
+                    </navLabel>
+                    <content src="cidades/o-sistema-feudal/territorios-de-caca.html" />
+                </navPoint>
+                <navPoint id="cidades-o-sistema-feudal-as-marcas">
+                    <navLabel>
+                        <text>AS MARCAS</text>
+                    </navLabel>
+                    <content src="cidades/o-sistema-feudal/as-marcas" />
+                </navPoint>
+                <navPoint id="cidades-o-sistema-feudal-grafite-vampirica">
+                    <navLabel>
+                        <text>GRAFITE VAMPÍRICA</text>
+                    </navLabel>
+                    <content src="cidades/o-sistema-feudal/grafite-vampirica.html" />
+                </navPoint>
+                <navPoint id="cidades-o-sistema-feudal-marcas-e-mecanicas">
+                    <navLabel>
+                        <text>MARCAS E MECÂNICAS</text>
+                    </navLabel>
+                    <content src="cidades/o-sistema-feudal/marcas-e-mecanicas.html" />
+                </navPoint>
+                <navPoint id="cidades-o-sistema-feudal-localizar-reconhecer-e-decifrar-as-marcas">
+                    <navLabel>
+                        <text>LOCALIZAR, RECONHECER E DECIFRAR AS MARCAS</text>
+                    </navLabel>
+                    <content src="cidades/o-sistema-feudal/localizar-reconhecer-e-decifrar-as-marcas.html" />
+                </navPoint>
+                <navPoint id="cidades-o-sistema-feudal-comunicando-se-com-marcas">
+                    <navLabel>
+                        <text>COMUNICANDO-SE COM MARCAS</text>
+                    </navLabel>
+                    <content src="cidades/o-sistema-feudal/comunicando-se-com-marcas.html" />
+                </navPoint>
+                <navPoint id="cidades-o-sistema-feudal-persuadindo-com-marcas">
+                    <navLabel>
+                        <text>PERSUADINDO COM MARCAS</text>
+                    </navLabel>
+                    <content src="cidades/o-sistema-feudal/persuadindo-com-marcas.html" />
+                </navPoint>
+                <navPoint id="cidades-o-sistema-feudal-parada-de-dados">
+                    <navLabel>
+                        <text>PARADA DE DADOS</text>
+                    </navLabel>
+                    <content src="cidades/o-sistema-feudal/parada-de-dados.html" />
+                </navPoint>
+                <navPoint id="cidades-o-sistema-feudal-criando-dominios">
+                    <navLabel>
+                        <text>CRIANDO DOMÍNIOS</text>
+                    </navLabel>
+                    <content src="cidades/o-sistema-feudal/criando-dominios.html" />
+                </navPoint>
+                <navPoint id="cidades-o-sistema-feudal-sangue-e-cacada">
+                    <navLabel>
+                        <text>SANGUE E CAÇADA</text>
+                    </navLabel>
+                    <content src="cidades/o-sistema-feudal/sangue-e-cacada.html" />
+                </navPoint>
+                <navPoint id="cidades-o-sistema-feudal-mapeando-os-territorios">
+                    <navLabel>
+                        <text>MAPEANDO OS TERRITÓRIOS</text>
+                    </navLabel>
+                    <content src="cidades/o-sistema-feudal/mapeando-os-territorios.html" />
+                </navPoint>
+                <navPoint id="cidades-o-sistema-feudal-mistura-de-tipos-de-dominio">
+                    <navLabel>
+                        <text>MISTURA DE TIPOS DE DOMÍNIO</text>
+                    </navLabel>
+                    <content src="cidades/o-sistema-feudal/mistura-de-tipos-de-dominio.html" />
+                </navPoint>
+                <navPoint id="cidades-o-sistema-feudal-inclua-segredos">
+                    <navLabel>
+                        <text>INCLUA SEGREDOS</text>
+                    </navLabel>
+                    <content src="cidades/o-sistema-feudal/inclua-segredos.html" />
+                </navPoint>
+                <navPoint id="cidades-o-sistema-feudal-cenas-sociais-quebradas">
+                    <navLabel>
+                        <text>CENAS SOCIAIS QUEBRADAS</text>
+                    </navLabel>
+                    <content src="cidades/o-sistema-feudal/cenas-sociais-quebradas.html" />
+                </navPoint>
+                <navPoint id="cidades-o-sistema-feudal-atividade-extracurricular">
+                    <navLabel>
+                        <text>ATIVIDADE EXTRACURRICULAR</text>
+                    </navLabel>
+                    <content src="cidades/o-sistema-feudal/atividade-extracurricular.html" />
+                </navPoint>
+                <navPoint id="cidades-o-sistema-feudal-encontros-de-alcoolicos-anonimos">
+                    <navLabel>
+                        <text>ENCONTROS DE ALCOÓLICOS ANÔNIMOS</text>
+                    </navLabel>
+                    <content src="cidades/o-sistema-feudal/encontros-de-alcoolicos-anonimos.html" />
+                </navPoint>
+                <navPoint id="cidades-o-sistema-feudal-instalacao-de-arte">
+                    <navLabel>
+                        <text>INSTALAÇÃO DE ARTE</text>
+                    </navLabel>
+                    <content src="cidades/o-sistema-feudal/instalacao-de-arte.html" />
+                </navPoint>
+                <navPoint id="cidades-o-sistema-feudal-convencao">
+                    <navLabel>
+                        <text>CONVENÇÃO</text>
+                    </navLabel>
+                    <content src="cidades/o-sistema-feudal/convencao.html" />
+                </navPoint>
+                <navPoint id="cidades-o-sistema-feudal-rave-ao-ar-livre-ilegal">
+                    <navLabel>
+                        <text>RAVE AO AR LIVRE ILEGAL</text>
+                    </navLabel>
+                    <content src="cidades/o-sistema-feudal/rave-ao-ar-livre-ilegal.html" />
+                </navPoint>
+                <navPoint id="cidades-o-sistema-feudal-milonga">
+                    <navLabel>
+                        <text>MILONGA</text>
+                    </navLabel>
+                    <content src="cidades/o-sistema-feudal/milonga.html" />
+                </navPoint>
+                <navPoint id="cidades-o-sistema-feudal-jogo-noturno">
+                    <navLabel>
+                        <text>JOGO NOTURNO</text>
+                    </navLabel>
+                    <content src="cidades/o-sistema-feudal/jogo-noturno.html" />
+                </navPoint>
+                <navPoint id="cidades-o-sistema-feudal-protesto">
+                    <navLabel>
+                        <text>PROTESTO</text>
+                    </navLabel>
+                    <content src="cidades/o-sistema-feudal/protesto.html" />
+                </navPoint>
+                <navPoint id="cidades-o-sistema-feudal-festival-de-rua">
+                    <navLabel>
+                        <text>FESTIVAL DE RUA</text>
+                    </navLabel>
+                    <content src="cidades/o-sistema-feudal/festival-de-rua.html" />
+                </navPoint>
+                <navPoint id="cidades-o-sistema-feudal-o-que-esta-acontecendo">
+                    <navLabel>
+                        <text>O QUE ESTÁ ACONTECENDO?</text>
+                    </navLabel>
+                    <content src="cidades/o-sistema-feudal/o-que-esta-acontecendo.html" />
+                </navPoint>
+            </navPoint>
+            <navPoint id="cidades-atmosfera">
+                <navLabel>
+                    <text>ATMOSFERA</text>
+                </navLabel>
+                <content src="cidades/atmosfera/index.html" />
+                <navPoint id="cidades-atmosfera-inicio-rapido-de-cidade">
+                    <navLabel>
+                        <text>INÍCIO RÁPIDO DE CIDADE</text>
+                    </navLabel>
+                    <content src="cidades/atmosfera/inicio-rapido-de-cidade.html" />
+                </navPoint>
+                <navPoint id="cidades-atmosfera-parasitismo-vampirico">
+                    <navLabel>
+                        <text>PARASITISMO VAMPÍRICO</text>
+                    </navLabel>
+                    <content src="cidades/atmosfera/parasitismo-vampirico.html" />
+                </navPoint>
+                <navPoint id="cidades-atmosfera-caca-excessiva">
+                    <navLabel>
+                        <text>CAÇA EXCESSIVA</text>
+                    </navLabel>
+                    <content src="cidades/atmosfera/caca-excessiva.html" />
+                </navPoint>
+            </navPoint>
+            <navPoint id="cidades-sua-cidade-by-night">
+                <navLabel>
+                    <text>SUA CIDADE “BY NIGHT”</text>
+                </navLabel>
+                <content src="cidades/sua-cidade-by-night/index.html" />
+                <navPoint id="cidades-sua-cidade-by-night-locais">
+                    <navLabel>
+                        <text>LOCAIS</text>
+                    </navLabel>
+                    <content src="cidades/sua-cidade-by-night/locais.html" />
+                </navPoint>
+                <navPoint id="cidades-sua-cidade-by-night-uma-cidade-de-distritos">
+                    <navLabel>
+                        <text>UMA CIDADE DE DISTRITOS</text>
+                    </navLabel>
+                    <content src="cidades/sua-cidade-by-night/uma-cidade-de-distritos.html" />
+                </navPoint>
+                <navPoint id="cidades-sua-cidade-by-night-jogando-a-cidade">
+                    <navLabel>
+                        <text>JOGANDO A CIDADE</text>
+                    </navLabel>
+                    <content src="cidades/sua-cidade-by-night/jogando-a-cidade.html" />
+                </navPoint>
+                <navPoint id="cidades-sua-cidade-by-night-atingir-as-ruas">
+                    <navLabel>
+                        <text>ATINGIR AS RUAS</text>
+                    </navLabel>
+                    <content src="cidades/sua-cidade-by-night/atingir-as-ruas.html" />
+                </navPoint>
+                <navPoint id="cidades-sua-cidade-by-night-trabalho-de-campo">
+                    <navLabel>
+                        <text>TRABALHO DE CAMPO</text>
+                    </navLabel>
+                    <content src="cidades/sua-cidade-by-night/trabalho-de-campo.html" />
+                </navPoint>
+                <navPoint id="cidades-sua-cidade-by-night-busca-de-papel">
+                    <navLabel>
+                        <text>BUSCA DE PAPEL</text>
+                    </navLabel>
+                    <content src="cidades/sua-cidade-by-night/busca-de-papel.html" />
+                </navPoint>
+            </navPoint>            
+        </navPoint>        
     </navMap>
 </ncx>

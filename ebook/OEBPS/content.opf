@@ -154,6 +154,7 @@
       <item id="regras-a-regra-de-ouro" href="regras/a-regra-de-ouro.html" media-type="application/xhtml+xml" />
       <item id="regras-as-tradicoes-cainitas" href="regras/as-tradicoes-cainitas.html" media-type="application/xhtml+xml" />
 
+      <item id="criacao-de-personagens-index" href="criacao-de-personagens/index.html" media-type="application/xhtml+xml" />
       <item id="criacao-de-personagens-os-fundamentos-de-um-personagem" href="criacao-de-personagens/os-fundamentos-de-um-personagem.html" media-type="application/xhtml+xml" />
       <item id="criacao-de-personagens-criacao-de-personagem" href="criacao-de-personagens/criacao-de-personagem/index.html" media-type="application/xhtml+xml" />
       <item id="criacao-de-personagens-criacao-de-personagem-a-funcao-do-narrador" href="criacao-de-personagens/criacao-de-personagem/a-funcao-do-narrador/index.html" media-type="application/xhtml+xml" />
@@ -884,6 +885,7 @@
       <itemref idref="regras-a-regra-de-ouro" linear="yes" />
       <itemref idref="regras-as-tradicoes-cainitas" linear="yes" />
 
+      <itemref idref="criacao-de-personagens-index" linear="yes" />
       <itemref idref="criacao-de-personagens-os-fundamentos-de-um-personagem" linear="yes" />
       <itemref idref="criacao-de-personagens-criacao-de-personagem" linear="yes" />
       <itemref idref="criacao-de-personagens-criacao-de-personagem-a-funcao-do-narrador" linear="yes" />

@@ -817,7 +817,7 @@
             <navLabel>
                 <text>CRIAÇÃO DE PERSONAGENS</text>
             </navLabel>
-            <content src="criacao-de-personagens/os-fundamentos-de-um-personagem.html" />
+            <content src="criacao-de-personagens/index.html" />
             <navPoint id="criacao-de-personagens-os-fundamentos-de-um-personagem">
                 <navLabel>
                     <text>OS FUNDAMENTOS DE UM PERSONAGEM</text>

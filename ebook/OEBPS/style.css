@@ -23,6 +23,7 @@ h3 {
 dl {
     margin-top: 2em;
     margin-bottom: 2em;
+    margin-left: 2em;
 }
 
 dt {
@@ -31,10 +32,20 @@ dt {
     margin-bottom: 0.5em;
 }
 
+dt span:first-child {
+    font-weight: bold;
+    margin-right: 0.5em;
+    text-decoration: underline;
+}
+
 dd span:first-child {
     font-weight: bold;
     margin-right: 0.5em;
     text-decoration: underline;
+}
+
+.tradicoes {
+    margin-left: 0em;
 }
 
 .tradicoes dt {

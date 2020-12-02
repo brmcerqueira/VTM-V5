@@ -19,3 +19,18 @@ h2,
 h3 {
     text-align: center;
 }
+
+dt {
+    font-weight: bold;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    text-align: center;
+}
+
+dd {
+    text-align: center;
+}
+
+.tradicoes dd {
+    margin-bottom: 2em;
+}

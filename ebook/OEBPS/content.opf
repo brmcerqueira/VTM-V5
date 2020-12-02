@@ -733,6 +733,60 @@
       <item id="cidades-sua-cidade-by-night-trabalho-de-campo" href="cidades/sua-cidade-by-night/trabalho-de-campo.html" media-type="application/xhtml+xml" />
       <item id="cidades-sua-cidade-by-night-busca-de-papel" href="cidades/sua-cidade-by-night/busca-de-papel.html" media-type="application/xhtml+xml" />
 
+      <item id="cronicas-index" href="cronicas/index.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-planejando-uma-cronica" href="cronicas/planejando-uma-cronica/index.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-planejando-uma-cronica-a-cronica-padrao" href="cronicas/planejando-uma-cronica/a-cronica-padrao.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-planejando-uma-cronica-usando-o-mapa-de-relacionamento" href="cronicas/planejando-uma-cronica/usando-o-mapa-de-relacionamento.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-estilos-de-jogo" href="cronicas/estilos-de-jogo/index.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-estilos-de-jogo-cronica-herdeiros-dos-illuminati" href="cronicas/estilos-de-jogo/cronica-herdeiros-dos-illuminati.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-estilos-de-jogo-segredos-dentro-de-segredos" href="cronicas/estilos-de-jogo/segredos-dentro-de-segredos.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-estilos-de-jogo-cronica-noite-de-julgamento" href="cronicas/estilos-de-jogo/cronica-noite-de-julgamento.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-estilos-de-jogo-diferencas-irreconciliaveis" href="cronicas/estilos-de-jogo/diferencas-irreconciliaveis.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-estilos-de-jogo-diversao-com-maldade" href="cronicas/estilos-de-jogo/diversao-com-maldade.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-estilos-de-jogo-simbolismo" href="cronicas/estilos-de-jogo/simbolismo.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-estilos-de-jogo-cronica-grupo-de-caca" href="cronicas/estilos-de-jogo/cronica-grupo-de-caca.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-estilos-de-jogo-motivacao-e-dinamicas-de-grupo" href="cronicas/estilos-de-jogo/motivacao-e-dinamicas-de-grupo.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-estilos-de-jogo-cronica-gangue-da-presa" href="cronicas/estilos-de-jogo/cronica-gangue-da-presa.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-estilos-de-jogo-estrutura" href="cronicas/estilos-de-jogo/estrutura.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-estilos-de-jogo-cronica-nomades" href="cronicas/estilos-de-jogo/cronica-nomades.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-estilos-de-jogo-o-fim" href="cronicas/estilos-de-jogo/o-fim.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-estilos-de-jogo-conversem-entre-si" href="cronicas/estilos-de-jogo/conversem-entre-si.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-estilos-de-jogo-pacote-inicial-da-cronica" href="cronicas/estilos-de-jogo/pacote-inicial-da-cronica.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-estilos-de-jogo-controle-de-narrativa" href="cronicas/estilos-de-jogo/controle-de-narrativa.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-estilos-de-jogo-cronica-campeoes" href="cronicas/estilos-de-jogo/cronica-campeoes.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-estilos-de-jogo-realismo-e-logica-de-jogo" href="cronicas/estilos-de-jogo/realismo-e-logica-de-jogo.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-estilos-de-jogo-cronica-a-ressaca" href="cronicas/estilos-de-jogo/cronica-a-ressaca.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-estilos-de-jogo-ganchos-e-como-evitar-recusas-de-ganchos" href="cronicas/estilos-de-jogo/ganchos-e-como-evitar-recusas-de-ganchos.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-estilos-de-jogo-cronica-nada-e-o-que-parece-ser-e-tudo-esta-conectado-" href="cronicas/estilos-de-jogo/cronica-nada-e-o-que-parece-ser-e-tudo-esta-conectado-.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-estilos-de-jogo-suposicao-de-competencia" href="cronicas/estilos-de-jogo/suposicao-de-competencia.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-estilos-de-jogo-ideias-de-coterie" href="cronicas/estilos-de-jogo/ideias-de-coterie.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-estilos-de-jogo-a-etiqueta-do-pvp" href="cronicas/estilos-de-jogo/a-etiqueta-do-pvp.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-estilos-de-jogo-cronica-nos-somos-os-cacados" href="cronicas/estilos-de-jogo/cronica-nos-somos-os-cacados.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-estilos-de-jogo-evento-deixe-os-deuses-adormecidos-repousarem" href="cronicas/estilos-de-jogo/evento-deixe-os-deuses-adormecidos-repousarem.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-rodando-um-jogo" href="cronicas/rodando-um-jogo/index.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-rodando-um-jogo-a-cena" href="cronicas/rodando-um-jogo/a-cena.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-rodando-um-jogo-discussao-acao-desafio" href="cronicas/rodando-um-jogo/discussao-acao-desafio.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-rodando-um-jogo-o-corte" href="cronicas/rodando-um-jogo/o-corte.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-rodando-um-jogo-distribuicao-dos-holofote" href="cronicas/rodando-um-jogo/distribuicao-dos-holofote.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-rodando-um-jogo-descricao" href="cronicas/rodando-um-jogo/descricao.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-rodando-um-jogo-a-sessao" href="cronicas/rodando-um-jogo/a-sessao.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-rodando-um-jogo-aqui-esta-um-plano-amostra-para-uma-sessao" href="cronicas/rodando-um-jogo/aqui-esta-um-plano-amostra-para-uma-sessao.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-rodando-um-jogo-folheto-de-exemplo-de-cronica-jovem-kingz" href="cronicas/rodando-um-jogo/folheto-de-exemplo-de-cronica-jovem-kingz.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-a-segunda-inquisicao-nas-cronicas-" href="cronicas/a-segunda-inquisicao-nas-cronicas-/index.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-a-segunda-inquisicao-nas-cronicas--igrejas-e-estados" href="cronicas/a-segunda-inquisicao-nas-cronicas-/igrejas-e-estados.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-a-segunda-inquisicao-nas-cronicas--a-camarilla-se-oculta" href="cronicas/a-segunda-inquisicao-nas-cronicas-/a-camarilla-se-oculta.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-a-segunda-inquisicao-nas-cronicas--corpos-palidos" href="cronicas/a-segunda-inquisicao-nas-cronicas-/corpos-palidos.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-a-segunda-inquisicao-nas-cronicas--os-anarquistas-se-apagam" href="cronicas/a-segunda-inquisicao-nas-cronicas-/os-anarquistas-se-apagam.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-a-segunda-inquisicao-nas-cronicas--o-monolito-todopoderoso" href="cronicas/a-segunda-inquisicao-nas-cronicas-/o-monolito-todopoderoso.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-a-segunda-inquisicao-nas-cronicas--paralelo-simbolico" href="cronicas/a-segunda-inquisicao-nas-cronicas-/paralelo-simbolico.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-a-segunda-inquisicao-nas-cronicas--frente-e-centro" href="cronicas/a-segunda-inquisicao-nas-cronicas-/frente-e-centro.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-a-segunda-inquisicao-nas-cronicas--fingir" href="cronicas/a-segunda-inquisicao-nas-cronicas-/fingir.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-a-segunda-inquisicao-nas-cronicas--estupidez" href="cronicas/a-segunda-inquisicao-nas-cronicas-/estupidez.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-cacadores-cacados" href="cronicas/cacadores-cacados/index.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-cacadores-cacados-o-esquadrao-tatico" href="cronicas/cacadores-cacados/o-esquadrao-tatico.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-cacadores-cacados-velha-guarda" href="cronicas/cacadores-cacados/velha-guarda.html" media-type="application/xhtml+xml" />
+      <item id="cronicas-cacadores-cacados-agentes-secretos" href="cronicas/cacadores-cacados/agentes-secretos.html" media-type="application/xhtml+xml" />
+
       <!-- CSS Style Sheets -->
       <item id="main-css" href="style.css" media-type="text/css" />
 
@@ -1320,5 +1374,59 @@
       <itemref idref="cidades-sua-cidade-by-night-atingir-as-ruas" linear="yes" />
       <itemref idref="cidades-sua-cidade-by-night-trabalho-de-campo" linear="yes" />
       <itemref idref="cidades-sua-cidade-by-night-busca-de-papel" linear="yes" />
+
+      <itemref idref="cronicas-index" linear="yes" />
+      <itemref idref="cronicas-planejando-uma-cronica" linear="yes" />
+      <itemref idref="cronicas-planejando-uma-cronica-a-cronica-padrao" linear="yes" />
+      <itemref idref="cronicas-planejando-uma-cronica-usando-o-mapa-de-relacionamento" linear="yes" />
+      <itemref idref="cronicas-estilos-de-jogo" linear="yes" />
+      <itemref idref="cronicas-estilos-de-jogo-cronica-herdeiros-dos-illuminati" linear="yes" />
+      <itemref idref="cronicas-estilos-de-jogo-segredos-dentro-de-segredos" linear="yes" />
+      <itemref idref="cronicas-estilos-de-jogo-cronica-noite-de-julgamento" linear="yes" />
+      <itemref idref="cronicas-estilos-de-jogo-diferencas-irreconciliaveis" linear="yes" />
+      <itemref idref="cronicas-estilos-de-jogo-diversao-com-maldade" linear="yes" />
+      <itemref idref="cronicas-estilos-de-jogo-simbolismo" linear="yes" />
+      <itemref idref="cronicas-estilos-de-jogo-cronica-grupo-de-caca" linear="yes" />
+      <itemref idref="cronicas-estilos-de-jogo-motivacao-e-dinamicas-de-grupo" linear="yes" />
+      <itemref idref="cronicas-estilos-de-jogo-cronica-gangue-da-presa" linear="yes" />
+      <itemref idref="cronicas-estilos-de-jogo-estrutura" linear="yes" />
+      <itemref idref="cronicas-estilos-de-jogo-cronica-nomades" linear="yes" />
+      <itemref idref="cronicas-estilos-de-jogo-o-fim" linear="yes" />
+      <itemref idref="cronicas-estilos-de-jogo-conversem-entre-si" linear="yes" />
+      <itemref idref="cronicas-estilos-de-jogo-pacote-inicial-da-cronica" linear="yes" />
+      <itemref idref="cronicas-estilos-de-jogo-controle-de-narrativa" linear="yes" />
+      <itemref idref="cronicas-estilos-de-jogo-cronica-campeoes" linear="yes" />
+      <itemref idref="cronicas-estilos-de-jogo-realismo-e-logica-de-jogo" linear="yes" />
+      <itemref idref="cronicas-estilos-de-jogo-cronica-a-ressaca" linear="yes" />
+      <itemref idref="cronicas-estilos-de-jogo-ganchos-e-como-evitar-recusas-de-ganchos" linear="yes" />
+      <itemref idref="cronicas-estilos-de-jogo-cronica-nada-e-o-que-parece-ser-e-tudo-esta-conectado-" linear="yes" />
+      <itemref idref="cronicas-estilos-de-jogo-suposicao-de-competencia" linear="yes" />
+      <itemref idref="cronicas-estilos-de-jogo-ideias-de-coterie" linear="yes" />
+      <itemref idref="cronicas-estilos-de-jogo-a-etiqueta-do-pvp" linear="yes" />
+      <itemref idref="cronicas-estilos-de-jogo-cronica-nos-somos-os-cacados" linear="yes" />
+      <itemref idref="cronicas-estilos-de-jogo-evento-deixe-os-deuses-adormecidos-repousarem" linear="yes" />
+      <itemref idref="cronicas-rodando-um-jogo" linear="yes" />
+      <itemref idref="cronicas-rodando-um-jogo-a-cena" linear="yes" />
+      <itemref idref="cronicas-rodando-um-jogo-discussao-acao-desafio" linear="yes" />
+      <itemref idref="cronicas-rodando-um-jogo-o-corte" linear="yes" />
+      <itemref idref="cronicas-rodando-um-jogo-distribuicao-dos-holofote" linear="yes" />
+      <itemref idref="cronicas-rodando-um-jogo-descricao" linear="yes" />
+      <itemref idref="cronicas-rodando-um-jogo-a-sessao" linear="yes" />
+      <itemref idref="cronicas-rodando-um-jogo-aqui-esta-um-plano-amostra-para-uma-sessao" linear="yes" />
+      <itemref idref="cronicas-rodando-um-jogo-folheto-de-exemplo-de-cronica-jovem-kingz" linear="yes" />
+      <itemref idref="cronicas-a-segunda-inquisicao-nas-cronicas-" linear="yes" />
+      <itemref idref="cronicas-a-segunda-inquisicao-nas-cronicas--igrejas-e-estados" linear="yes" />
+      <itemref idref="cronicas-a-segunda-inquisicao-nas-cronicas--a-camarilla-se-oculta" linear="yes" />
+      <itemref idref="cronicas-a-segunda-inquisicao-nas-cronicas--corpos-palidos" linear="yes" />
+      <itemref idref="cronicas-a-segunda-inquisicao-nas-cronicas--os-anarquistas-se-apagam" linear="yes" />
+      <itemref idref="cronicas-a-segunda-inquisicao-nas-cronicas--o-monolito-todopoderoso" linear="yes" />
+      <itemref idref="cronicas-a-segunda-inquisicao-nas-cronicas--paralelo-simbolico" linear="yes" />
+      <itemref idref="cronicas-a-segunda-inquisicao-nas-cronicas--frente-e-centro" linear="yes" />
+      <itemref idref="cronicas-a-segunda-inquisicao-nas-cronicas--fingir" linear="yes" />
+      <itemref idref="cronicas-a-segunda-inquisicao-nas-cronicas--estupidez" linear="yes" />
+      <itemref idref="cronicas-cacadores-cacados" linear="yes" />
+      <itemref idref="cronicas-cacadores-cacados-o-esquadrao-tatico" linear="yes" />
+      <itemref idref="cronicas-cacadores-cacados-velha-guarda" linear="yes" />
+      <itemref idref="cronicas-cacadores-cacados-agentes-secretos" linear="yes" />
    </spine>
 </package>

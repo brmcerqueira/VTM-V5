@@ -3809,6 +3809,324 @@
                     <content src="cidades/sua-cidade-by-night/busca-de-papel.html" />
                 </navPoint>
             </navPoint>           
-        </navPoint>        
+        </navPoint>
+        <navPoint id="cronicas">
+            <navLabel>
+                <text>CRÔNICAS</text>
+            </navLabel>
+            <content src="cronicas/index.html" />
+            <navPoint id="cronicas-planejando-uma-cronica">
+                <navLabel>
+                    <text>PLANEJANDO UMA CRÔNICA</text>
+                </navLabel>
+                <content src="cronicas/planejando-uma-cronica/index.html" />
+                <navPoint id="cronicas-planejando-uma-cronica-a-cronica-padrao">
+                    <navLabel>
+                        <text>A CRÔNICA PADRÃO</text>
+                    </navLabel>
+                    <content src="cronicas/planejando-uma-cronica/a-cronica-padrao.html" />
+                </navPoint>
+                <navPoint id="cronicas-planejando-uma-cronica-usando-o-mapa-de-relacionamento">
+                    <navLabel>
+                        <text>USANDO O MAPA DE RELACIONAMENTO</text>
+                    </navLabel>
+                    <content src="cronicas/planejando-uma-cronica/usando-o-mapa-de-relacionamento.html" />
+                </navPoint>
+            </navPoint>
+            <navPoint id="cronicas-estilos-de-jogo">
+                <navLabel>
+                    <text>ESTILOS DE JOGO</text>
+                </navLabel>
+                <content src="cronicas/estilos-de-jogo/index.html" />
+                <navPoint id="cronicas-estilos-de-jogo-cronica-herdeiros-dos-illuminati">
+                    <navLabel>
+                        <text>CRÔNICA: HERDEIROS DOS ILLUMINATI</text>
+                    </navLabel>
+                    <content src="cronicas/estilos-de-jogo/cronica-herdeiros-dos-illuminati.html" />
+                </navPoint>
+                <navPoint id="cronicas-estilos-de-jogo-segredos-dentro-de-segredos">
+                    <navLabel>
+                        <text>SEGREDOS DENTRO DE SEGREDOS</text>
+                    </navLabel>
+                    <content src="cronicas/estilos-de-jogo/segredos-dentro-de-segredos.html" />
+                </navPoint>
+                <navPoint id="cronicas-estilos-de-jogo-cronica-noite-de-julgamento">
+                    <navLabel>
+                        <text>CRÔNICA: NOITE DE JULGAMENTO</text>
+                    </navLabel>
+                    <content src="cronicas/estilos-de-jogo/cronica-noite-de-julgamento.html" />
+                </navPoint>
+                <navPoint id="cronicas-estilos-de-jogo-diferencas-irreconciliaveis">
+                    <navLabel>
+                        <text>DIFERENÇAS IRRECONCILIÁVEIS</text>
+                    </navLabel>
+                    <content src="cronicas/estilos-de-jogo/diferencas-irreconciliaveis.html" />
+                </navPoint>
+                <navPoint id="cronicas-estilos-de-jogo-diversao-com-maldade">
+                    <navLabel>
+                        <text>DIVERSÃO COM MALDADE</text>
+                    </navLabel>
+                    <content src="cronicas/estilos-de-jogo/diversao-com-maldade.html" />
+                </navPoint>
+                <navPoint id="cronicas-estilos-de-jogo-simbolismo">
+                    <navLabel>
+                        <text>SIMBOLISMO</text>
+                    </navLabel>
+                    <content src="cronicas/estilos-de-jogo/simbolismo.html" />
+                </navPoint>
+                <navPoint id="cronicas-estilos-de-jogo-cronica-grupo-de-caca">
+                    <navLabel>
+                        <text>CRÔNICA: GRUPO DE CAÇA</text>
+                    </navLabel>
+                    <content src="cronicas/estilos-de-jogo/cronica-grupo-de-caca.html" />
+                </navPoint>
+                <navPoint id="cronicas-estilos-de-jogo-motivacao-e-dinamicas-de-grupo">
+                    <navLabel>
+                        <text>MOTIVAÇÃO E DINÂMICAS DE GRUPO</text>
+                    </navLabel>
+                    <content src="cronicas/estilos-de-jogo/motivacao-e-dinamicas-de-grupo.html" />
+                </navPoint>
+                <navPoint id="cronicas-estilos-de-jogo-cronica-gangue-da-presa">
+                    <navLabel>
+                        <text>CRÔNICA: GANGUE DA PRESA</text>
+                    </navLabel>
+                    <content src="cronicas/estilos-de-jogo/cronica-gangue-da-presa.html" />
+                </navPoint>
+                <navPoint id="cronicas-estilos-de-jogo-estrutura">
+                    <navLabel>
+                        <text>ESTRUTURA</text>
+                    </navLabel>
+                    <content src="cronicas/estilos-de-jogo/estrutura.html" />
+                </navPoint>
+                <navPoint id="cronicas-estilos-de-jogo-cronica-nomades">
+                    <navLabel>
+                        <text>CRÔNICA: NÔMADES</text>
+                    </navLabel>
+                    <content src="cronicas/estilos-de-jogo/cronica-nomades.html" />
+                </navPoint>
+                <navPoint id="cronicas-estilos-de-jogo-o-fim">
+                    <navLabel>
+                        <text>O FIM</text>
+                    </navLabel>
+                    <content src="cronicas/estilos-de-jogo/o-fim.html" />
+                </navPoint>
+                <navPoint id="cronicas-estilos-de-jogo-conversem-entre-si">
+                    <navLabel>
+                        <text>CONVERSEM ENTRE SI</text>
+                    </navLabel>
+                    <content src="cronicas/estilos-de-jogo/conversem-entre-si.html" />
+                </navPoint>
+                <navPoint id="cronicas-estilos-de-jogo-pacote-inicial-da-cronica">
+                    <navLabel>
+                        <text>PACOTE INICIAL DA CRÔNICA</text>
+                    </navLabel>
+                    <content src="cronicas/estilos-de-jogo/pacote-inicial-da-cronica.html" />
+                </navPoint>
+                <navPoint id="cronicas-estilos-de-jogo-controle-de-narrativa">
+                    <navLabel>
+                        <text>CONTROLE DE NARRATIVA</text>
+                    </navLabel>
+                    <content src="cronicas/estilos-de-jogo/controle-de-narrativa.html" />
+                </navPoint>
+                <navPoint id="cronicas-estilos-de-jogo-cronica-campeoes">
+                    <navLabel>
+                        <text>CRÔNICA: CAMPEÕES</text>
+                    </navLabel>
+                    <content src="cronicas/estilos-de-jogo/cronica-campeoes.html" />
+                </navPoint>
+                <navPoint id="cronicas-estilos-de-jogo-realismo-e-logica-de-jogo">
+                    <navLabel>
+                        <text>REALISMO E LÓGICA DE JOGO</text>
+                    </navLabel>
+                    <content src="cronicas/estilos-de-jogo/realismo-e-logica-de-jogo.html" />
+                </navPoint>
+                <navPoint id="cronicas-estilos-de-jogo-cronica-a-ressaca">
+                    <navLabel>
+                        <text>CRÔNICA: A RESSACA</text>
+                    </navLabel>
+                    <content src="cronicas/estilos-de-jogo/cronica-a-ressaca.html" />
+                </navPoint>
+                <navPoint id="cronicas-estilos-de-jogo-ganchos-e-como-evitar-recusas-de-ganchos">
+                    <navLabel>
+                        <text>GANCHOS E COMO EVITAR RECUSAS DE GANCHOS</text>
+                    </navLabel>
+                    <content src="cronicas/estilos-de-jogo/ganchos-e-como-evitar-recusas-de-ganchos.html" />
+                </navPoint>
+                <navPoint id="cronicas-estilos-de-jogo-cronica-nada-e-o-que-parece-ser-e-tudo-esta-conectado-">
+                    <navLabel>
+                        <text>CRÔNICA: NADA É O QUE PARECE SER, E TUDO ESTÁ CONECTADO </text>
+                    </navLabel>
+                    <content src="cronicas/estilos-de-jogo/cronica-nada-e-o-que-parece-ser-e-tudo-esta-conectado-.html" />
+                </navPoint>
+                <navPoint id="cronicas-estilos-de-jogo-suposicao-de-competencia">
+                    <navLabel>
+                        <text>SUPOSIÇÃO DE COMPETÊNCIA</text>
+                    </navLabel>
+                    <content src="cronicas/estilos-de-jogo/suposicao-de-competencia.html" />
+                </navPoint>
+                <navPoint id="cronicas-estilos-de-jogo-ideias-de-coterie">
+                    <navLabel>
+                        <text>IDEIAS DE COTERIE</text>
+                    </navLabel>
+                    <content src="cronicas/estilos-de-jogo/ideias-de-coterie.html" />
+                </navPoint>
+                <navPoint id="cronicas-estilos-de-jogo-a-etiqueta-do-pvp">
+                    <navLabel>
+                        <text>A ETIQUETA DO PVP</text>
+                    </navLabel>
+                    <content src="cronicas/estilos-de-jogo/a-etiqueta-do-pvp.html" />
+                </navPoint>
+                <navPoint id="cronicas-estilos-de-jogo-cronica-nos-somos-os-cacados">
+                    <navLabel>
+                        <text>CRÔNICA: NÓS SOMOS OS CAÇADOS</text>
+                    </navLabel>
+                    <content src="cronicas/estilos-de-jogo/cronica-nos-somos-os-cacados.html" />
+                </navPoint>
+                <navPoint id="cronicas-estilos-de-jogo-evento-deixe-os-deuses-adormecidos-repousarem">
+                    <navLabel>
+                        <text>EVENTO: DEIXE OS DEUSES ADORMECIDOS REPOUSAREM</text>
+                    </navLabel>
+                    <content src="cronicas/estilos-de-jogo/evento-deixe-os-deuses-adormecidos-repousarem.html" />
+                </navPoint>
+            </navPoint>
+            <navPoint id="cronicas-rodando-um-jogo">
+                <navLabel>
+                    <text>RODANDO UM JOGO</text>
+                </navLabel>
+                <content src="cronicas/rodando-um-jogo/index.html" />
+                <navPoint id="cronicas-rodando-um-jogo-a-cena">
+                    <navLabel>
+                        <text>A CENA</text>
+                    </navLabel>
+                    <content src="cronicas/rodando-um-jogo/a-cena.html" />
+                </navPoint>
+                <navPoint id="cronicas-rodando-um-jogo-discussao-acao-desafio">
+                    <navLabel>
+                        <text>DISCUSSÃO, AÇÃO, DESAFIO</text>
+                    </navLabel>
+                    <content src="cronicas/rodando-um-jogo/discussao-acao-desafio.html" />
+                </navPoint>
+                <navPoint id="cronicas-rodando-um-jogo-o-corte">
+                    <navLabel>
+                        <text>O CORTE</text>
+                    </navLabel>
+                    <content src="cronicas/rodando-um-jogo/o-corte.html" />
+                </navPoint>
+                <navPoint id="cronicas-rodando-um-jogo-distribuicao-dos-holofote">
+                    <navLabel>
+                        <text>DISTRIBUIÇÃO DOS HOLOFOTE</text>
+                    </navLabel>
+                    <content src="cronicas/rodando-um-jogo/distribuicao-dos-holofote.html" />
+                </navPoint>
+                <navPoint id="cronicas-rodando-um-jogo-descricao">
+                    <navLabel>
+                        <text>DESCRIÇÃO</text>
+                    </navLabel>
+                    <content src="cronicas/rodando-um-jogo/descricao.html" />
+                </navPoint>
+                <navPoint id="cronicas-rodando-um-jogo-a-sessao">
+                    <navLabel>
+                        <text>A SESSÃO</text>
+                    </navLabel>
+                    <content src="cronicas/rodando-um-jogo/a-sessao.html" />
+                </navPoint>
+                <navPoint id="cronicas-rodando-um-jogo-aqui-esta-um-plano-amostra-para-uma-sessao">
+                    <navLabel>
+                        <text>AQUI ESTÁ UM PLANO AMOSTRA PARA UMA SESSÃO</text>
+                    </navLabel>
+                    <content src="cronicas/rodando-um-jogo/aqui-esta-um-plano-amostra-para-uma-sessao.html" />
+                </navPoint>
+                <navPoint id="cronicas-rodando-um-jogo-folheto-de-exemplo-de-cronica-jovem-kingz">
+                    <navLabel>
+                        <text>FOLHETO DE EXEMPLO DE CRÔNICA: JOVEM KINGZ</text>
+                    </navLabel>
+                    <content src="cronicas/rodando-um-jogo/folheto-de-exemplo-de-cronica-jovem-kingz.html" />
+                </navPoint>
+            </navPoint>
+            <navPoint id="cronicas-a-segunda-inquisicao-nas-cronicas-">
+                <navLabel>
+                    <text>A SEGUNDA INQUISIÇÃO NAS CRÔNICAS </text>
+                </navLabel>
+                <content src="cronicas/a-segunda-inquisicao-nas-cronicas-/index.html" />
+                <navPoint id="cronicas-a-segunda-inquisicao-nas-cronicas--igrejas-e-estados">
+                    <navLabel>
+                        <text>IGREJAS E ESTADOS</text>
+                    </navLabel>
+                    <content src="cronicas/a-segunda-inquisicao-nas-cronicas-/igrejas-e-estados.html" />
+                </navPoint>
+                <navPoint id="cronicas-a-segunda-inquisicao-nas-cronicas--a-camarilla-se-oculta">
+                    <navLabel>
+                        <text>A CAMARILLA SE OCULTA</text>
+                    </navLabel>
+                    <content src="cronicas/a-segunda-inquisicao-nas-cronicas-/a-camarilla-se-oculta.html" />
+                </navPoint>
+                <navPoint id="cronicas-a-segunda-inquisicao-nas-cronicas--corpos-palidos">
+                    <navLabel>
+                        <text>CORPOS PÁLIDOS</text>
+                    </navLabel>
+                    <content src="cronicas/a-segunda-inquisicao-nas-cronicas-/corpos-palidos.html" />
+                </navPoint>
+                <navPoint id="cronicas-a-segunda-inquisicao-nas-cronicas--os-anarquistas-se-apagam">
+                    <navLabel>
+                        <text>OS ANARQUISTAS SE APAGAM</text>
+                    </navLabel>
+                    <content src="cronicas/a-segunda-inquisicao-nas-cronicas-/os-anarquistas-se-apagam.html" />
+                </navPoint>
+                <navPoint id="cronicas-a-segunda-inquisicao-nas-cronicas--o-monolito-todopoderoso">
+                    <navLabel>
+                        <text>O MONOLITO TODOPODEROSO</text>
+                    </navLabel>
+                    <content src="cronicas/a-segunda-inquisicao-nas-cronicas-/o-monolito-todopoderoso.html" />
+                </navPoint>
+                <navPoint id="cronicas-a-segunda-inquisicao-nas-cronicas--paralelo-simbolico">
+                    <navLabel>
+                        <text>PARALELO SIMBÓLICO</text>
+                    </navLabel>
+                    <content src="cronicas/a-segunda-inquisicao-nas-cronicas-/paralelo-simbolico.html" />
+                </navPoint>
+                <navPoint id="cronicas-a-segunda-inquisicao-nas-cronicas--frente-e-centro">
+                    <navLabel>
+                        <text>FRENTE E CENTRO</text>
+                    </navLabel>
+                    <content src="cronicas/a-segunda-inquisicao-nas-cronicas-/frente-e-centro.html" />
+                </navPoint>
+                <navPoint id="cronicas-a-segunda-inquisicao-nas-cronicas--fingir">
+                    <navLabel>
+                        <text>FINGIR</text>
+                    </navLabel>
+                    <content src="cronicas/a-segunda-inquisicao-nas-cronicas-/fingir.html" />
+                </navPoint>
+                <navPoint id="cronicas-a-segunda-inquisicao-nas-cronicas--estupidez">
+                    <navLabel>
+                        <text>ESTUPIDEZ</text>
+                    </navLabel>
+                    <content src="cronicas/a-segunda-inquisicao-nas-cronicas-/estupidez.html" />
+                </navPoint>
+            </navPoint>
+            <navPoint id="cronicas-cacadores-cacados">
+                <navLabel>
+                    <text>CAÇADORES CAÇADOS</text>
+                </navLabel>
+                <content src="cronicas/cacadores-cacados/index.html" />
+                <navPoint id="cronicas-cacadores-cacados-o-esquadrao-tatico">
+                    <navLabel>
+                        <text>O ESQUADRÃO TÁTICO</text>
+                    </navLabel>
+                    <content src="cronicas/cacadores-cacados/o-esquadrao-tatico.html" />
+                </navPoint>
+                <navPoint id="cronicas-cacadores-cacados-velha-guarda">
+                    <navLabel>
+                        <text>VELHA GUARDA</text>
+                    </navLabel>
+                    <content src="cronicas/cacadores-cacados/velha-guarda.html" />
+                </navPoint>
+                <navPoint id="cronicas-cacadores-cacados-agentes-secretos">
+                    <navLabel>
+                        <text>AGENTES SECRETOS</text>
+                    </navLabel>
+                    <content src="cronicas/cacadores-cacados/agentes-secretos.html" />
+                </navPoint>
+            </navPoint>
+        </navPoint>                
     </navMap>
 </ncx>

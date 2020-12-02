@@ -4343,6 +4343,162 @@
                     <content src="ferramentas/antagonistas/equipamento-sobrenatural.html" />
                 </navPoint>
             </navPoint>
-        </navPoint>                        
+        </navPoint>
+        <navPoint id="camadas-de-conhecimento">
+            <navLabel>
+                <text>CAMADAS DE CONHECIMENTO</text>
+            </navLabel>
+            <content src="camadas-de-conhecimento/os-bahari.html" />
+            <navPoint id="camadas-de-conhecimento-os-bahari">
+                <navLabel>
+                    <text>OS BAHARI</text>
+                </navLabel>
+                <content src="camadas-de-conhecimento/os-bahari.html" />
+            </navPoint>
+            <navPoint id="camadas-de-conhecimento-theo-bell">
+                <navLabel>
+                    <text>THEO BELL</text>
+                </navLabel>
+                <content src="camadas-de-conhecimento/theo-bell.html" />
+            </navPoint>
+            <navPoint id="camadas-de-conhecimento-heresia-cainita">
+                <navLabel>
+                    <text>HERESIA CAINITA</text>
+                </navLabel>
+                <content src="camadas-de-conhecimento/heresia-cainita.html" />
+            </navPoint>
+            <navPoint id="camadas-de-conhecimento-carna">
+                <navLabel>
+                    <text>CARNA</text>
+                </navLabel>
+                <content src="camadas-de-conhecimento/carna.html" />
+            </navPoint>
+            <navPoint id="camadas-de-conhecimento-o-sistema-circulatorio-">
+                <navLabel>
+                    <text>O SISTEMA CIRCULATÓRIO </text>
+                </navLabel>
+                <content src="camadas-de-conhecimento/o-sistema-circulatorio-.html" />
+            </navPoint>
+            <navPoint id="camadas-de-conhecimento-convencao-dos-espinhos">
+                <navLabel>
+                    <text>CONVENÇÃO DOS ESPINHOS</text>
+                </navLabel>
+                <content src="camadas-de-conhecimento/convencao-dos-espinhos.html" />
+            </navPoint>
+            <navPoint id="camadas-de-conhecimento-a-primeira-inquisicao-">
+                <navLabel>
+                    <text>A PRIMEIRA INQUISIÇÃO </text>
+                </navLabel>
+                <content src="camadas-de-conhecimento/a-primeira-inquisicao-.html" />
+            </navPoint>
+            <navPoint id="camadas-de-conhecimento-golconda">
+                <navLabel>
+                    <text>GOLCONDA</text>
+                </navLabel>
+                <content src="camadas-de-conhecimento/golconda.html" />
+            </navPoint>
+            <navPoint id="camadas-de-conhecimento-descendente-de-hardestadt-">
+                <navLabel>
+                    <text>DESCENDENTE DE HARDESTADT </text>
+                </navLabel>
+                <content src="camadas-de-conhecimento/descendente-de-hardestadt-.html" />
+            </navPoint>
+            <navPoint id="camadas-de-conhecimento-descendente-de-helena-">
+                <navLabel>
+                    <text>DESCENDENTE DE HELENA </text>
+                </navLabel>
+                <content src="camadas-de-conhecimento/descendente-de-helena-.html" />
+            </navPoint>
+            <navPoint id="camadas-de-conhecimento-veterano-de-guerra-de-seita">
+                <navLabel>
+                    <text>VETERANO DE GUERRA DE SEITA</text>
+                </navLabel>
+                <content src="camadas-de-conhecimento/veterano-de-guerra-de-seita.html" />
+            </navPoint>
+            <navPoint id="camadas-de-conhecimento-a-trindade">
+                <navLabel>
+                    <text>A TRINDADE</text>
+                </navLabel>
+                <content src="camadas-de-conhecimento/a-trindade.html" />
+            </navPoint>
+            <navPoint id="camadas-de-conhecimento-jeanette--therese-voerman">
+                <navLabel>
+                    <text>JEANETTE / THERESE VOERMAN</text>
+                </navLabel>
+                <content src="camadas-de-conhecimento/jeanette--therese-voerman.html" />
+            </navPoint>
+            <navPoint id="camadas-de-conhecimento-a-semana-dos-pesadelos-">
+                <navLabel>
+                    <text>A SEMANA DOS PESADELOS </text>
+                </navLabel>
+                <content src="camadas-de-conhecimento/a-semana-dos-pesadelos-.html" />
+            </navPoint>
+            <navPoint id="camadas-de-conhecimento-rudi">
+                <navLabel>
+                    <text>RUDI</text>
+                </navLabel>
+                <content src="camadas-de-conhecimento/rudi.html" />
+            </navPoint>
+            <navPoint id="camadas-de-conhecimento-descendente-de-tyler-">
+                <navLabel>
+                    <text>DESCENDENTE DE TYLER </text>
+                </navLabel>
+                <content src="camadas-de-conhecimento/descendente-de-tyler-.html" />
+            </navPoint>
+            <navPoint id="camadas-de-conhecimento-descendente-de-zelios-">
+                <navLabel>
+                    <text>DESCENDENTE DE ZELIOS </text>
+                </navLabel>
+                <content src="camadas-de-conhecimento/descendente-de-zelios-.html" />
+            </navPoint>
+            <navPoint id="camadas-de-conhecimento-descendente-de-vasantasena-">
+                <navLabel>
+                    <text>DESCENDENTE DE VASANTASENA </text>
+                </navLabel>
+                <content src="camadas-de-conhecimento/descendente-de-vasantasena-.html" />
+            </navPoint>
+            <navPoint id="camadas-de-conhecimento-alto-cla">
+                <navLabel>
+                    <text>ALTO CLÃ</text>
+                </navLabel>
+                <content src="camadas-de-conhecimento/alto-cla.html" />
+            </navPoint>
+            <navPoint id="camadas-de-conhecimento-baixo-cla">
+                <navLabel>
+                    <text>BAIXO CLÃ</text>
+                </navLabel>
+                <content src="camadas-de-conhecimento/baixo-cla.html" />
+            </navPoint>
+            <navPoint id="camadas-de-conhecimento-ambrus-maropis">
+                <navLabel>
+                    <text>AMBRUS MAROPIS</text>
+                </navLabel>
+                <content src="camadas-de-conhecimento/ambrus-maropis.html" />
+            </navPoint>
+            <navPoint id="camadas-de-conhecimento-carmelita-neillson">
+                <navLabel>
+                    <text>CARMELITA NEILLSON</text>
+                </navLabel>
+                <content src="camadas-de-conhecimento/carmelita-neillson.html" />
+            </navPoint>
+            <navPoint id="camadas-de-conhecimento-fiorenza-savona">
+                <navLabel>
+                    <text>FIORENZA SAVONA</text>
+                </navLabel>
+                <content src="camadas-de-conhecimento/fiorenza-savona.html" />
+            </navPoint>
+            <navPoint id="camadas-de-conhecimento-descendente-de-karl-schrekt-">
+                <navLabel>
+                    <text>DESCENDENTE DE KARL SCHREKT </text>
+                </navLabel>
+                <content src="camadas-de-conhecimento/descendente-de-karl-schrekt-.html" />
+            </navPoint>
+            <navPoint id="camadas-de-conhecimento-descendente-de-xaviar-">
+                <navLabel>
+                    <text>DESCENDENTE DE XAVIAR </text>
+                </navLabel>
+                <content src="camadas-de-conhecimento/descendente-de-xaviar-.html" />
+            </navPoint>
+        </navPoint>                                
     </navMap>
 </ncx>

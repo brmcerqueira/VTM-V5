@@ -824,6 +824,32 @@
       <item id="ferramentas-antagonistas-armas-convencionais-armas-incendiarias" href="ferramentas/antagonistas/armas-convencionais/armas-incendiarias.html" media-type="application/xhtml+xml" />
       <item id="ferramentas-antagonistas-equipamento-sobrenatural" href="ferramentas/antagonistas/equipamento-sobrenatural.html" media-type="application/xhtml+xml" />
 
+      <item id="camadas-de-conhecimento-os-bahari" href="camadas-de-conhecimento/os-bahari.html" media-type="application/xhtml+xml" />
+      <item id="camadas-de-conhecimento-theo-bell" href="camadas-de-conhecimento/theo-bell.html" media-type="application/xhtml+xml" />
+      <item id="camadas-de-conhecimento-heresia-cainita" href="camadas-de-conhecimento/heresia-cainita.html" media-type="application/xhtml+xml" />
+      <item id="camadas-de-conhecimento-carna" href="camadas-de-conhecimento/carna.html" media-type="application/xhtml+xml" />
+      <item id="camadas-de-conhecimento-o-sistema-circulatorio-" href="camadas-de-conhecimento/o-sistema-circulatorio-.html" media-type="application/xhtml+xml" />
+      <item id="camadas-de-conhecimento-convencao-dos-espinhos" href="camadas-de-conhecimento/convencao-dos-espinhos.html" media-type="application/xhtml+xml" />
+      <item id="camadas-de-conhecimento-a-primeira-inquisicao-" href="camadas-de-conhecimento/a-primeira-inquisicao-.html" media-type="application/xhtml+xml" />
+      <item id="camadas-de-conhecimento-golconda" href="camadas-de-conhecimento/golconda.html" media-type="application/xhtml+xml" />
+      <item id="camadas-de-conhecimento-descendente-de-hardestadt-" href="camadas-de-conhecimento/descendente-de-hardestadt-.html" media-type="application/xhtml+xml" />
+      <item id="camadas-de-conhecimento-descendente-de-helena-" href="camadas-de-conhecimento/descendente-de-helena-.html" media-type="application/xhtml+xml" />
+      <item id="camadas-de-conhecimento-veterano-de-guerra-de-seita" href="camadas-de-conhecimento/veterano-de-guerra-de-seita.html" media-type="application/xhtml+xml" />
+      <item id="camadas-de-conhecimento-a-trindade" href="camadas-de-conhecimento/a-trindade.html" media-type="application/xhtml+xml" />
+      <item id="camadas-de-conhecimento-jeanette--therese-voerman" href="camadas-de-conhecimento/jeanette--therese-voerman.html" media-type="application/xhtml+xml" />
+      <item id="camadas-de-conhecimento-a-semana-dos-pesadelos-" href="camadas-de-conhecimento/a-semana-dos-pesadelos-.html" media-type="application/xhtml+xml" />
+      <item id="camadas-de-conhecimento-rudi" href="camadas-de-conhecimento/rudi.html" media-type="application/xhtml+xml" />
+      <item id="camadas-de-conhecimento-descendente-de-tyler-" href="camadas-de-conhecimento/descendente-de-tyler-.html" media-type="application/xhtml+xml" />
+      <item id="camadas-de-conhecimento-descendente-de-zelios-" href="camadas-de-conhecimento/descendente-de-zelios-.html" media-type="application/xhtml+xml" />
+      <item id="camadas-de-conhecimento-descendente-de-vasantasena-" href="camadas-de-conhecimento/descendente-de-vasantasena-.html" media-type="application/xhtml+xml" />
+      <item id="camadas-de-conhecimento-alto-cla" href="camadas-de-conhecimento/alto-cla.html" media-type="application/xhtml+xml" />
+      <item id="camadas-de-conhecimento-baixo-cla" href="camadas-de-conhecimento/baixo-cla.html" media-type="application/xhtml+xml" />
+      <item id="camadas-de-conhecimento-ambrus-maropis" href="camadas-de-conhecimento/ambrus-maropis.html" media-type="application/xhtml+xml" />
+      <item id="camadas-de-conhecimento-carmelita-neillson" href="camadas-de-conhecimento/carmelita-neillson.html" media-type="application/xhtml+xml" />
+      <item id="camadas-de-conhecimento-fiorenza-savona" href="camadas-de-conhecimento/fiorenza-savona.html" media-type="application/xhtml+xml" />
+      <item id="camadas-de-conhecimento-descendente-de-karl-schrekt-" href="camadas-de-conhecimento/descendente-de-karl-schrekt-.html" media-type="application/xhtml+xml" />
+      <item id="camadas-de-conhecimento-descendente-de-xaviar-" href="camadas-de-conhecimento/descendente-de-xaviar-.html" media-type="application/xhtml+xml" />
+
       <!-- CSS Style Sheets -->
       <item id="main-css" href="style.css" media-type="text/css" />
 
@@ -1502,5 +1528,31 @@
       <itemref idref="ferramentas-antagonistas-armas-convencionais-armas-disfarcadas" linear="yes" />
       <itemref idref="ferramentas-antagonistas-armas-convencionais-armas-incendiarias" linear="yes" />
       <itemref idref="ferramentas-antagonistas-equipamento-sobrenatural" linear="yes" />
+
+      <itemref idref="camadas-de-conhecimento-os-bahari" linear="yes" />
+      <itemref idref="camadas-de-conhecimento-theo-bell" linear="yes" />
+      <itemref idref="camadas-de-conhecimento-heresia-cainita" linear="yes" />
+      <itemref idref="camadas-de-conhecimento-carna" linear="yes" />
+      <itemref idref="camadas-de-conhecimento-o-sistema-circulatorio-" linear="yes" />
+      <itemref idref="camadas-de-conhecimento-convencao-dos-espinhos" linear="yes" />
+      <itemref idref="camadas-de-conhecimento-a-primeira-inquisicao-" linear="yes" />
+      <itemref idref="camadas-de-conhecimento-golconda" linear="yes" />
+      <itemref idref="camadas-de-conhecimento-descendente-de-hardestadt-" linear="yes" />
+      <itemref idref="camadas-de-conhecimento-descendente-de-helena-" linear="yes" />
+      <itemref idref="camadas-de-conhecimento-veterano-de-guerra-de-seita" linear="yes" />
+      <itemref idref="camadas-de-conhecimento-a-trindade" linear="yes" />
+      <itemref idref="camadas-de-conhecimento-jeanette--therese-voerman" linear="yes" />
+      <itemref idref="camadas-de-conhecimento-a-semana-dos-pesadelos-" linear="yes" />
+      <itemref idref="camadas-de-conhecimento-rudi" linear="yes" />
+      <itemref idref="camadas-de-conhecimento-descendente-de-tyler-" linear="yes" />
+      <itemref idref="camadas-de-conhecimento-descendente-de-zelios-" linear="yes" />
+      <itemref idref="camadas-de-conhecimento-descendente-de-vasantasena-" linear="yes" />
+      <itemref idref="camadas-de-conhecimento-alto-cla" linear="yes" />
+      <itemref idref="camadas-de-conhecimento-baixo-cla" linear="yes" />
+      <itemref idref="camadas-de-conhecimento-ambrus-maropis" linear="yes" />
+      <itemref idref="camadas-de-conhecimento-carmelita-neillson" linear="yes" />
+      <itemref idref="camadas-de-conhecimento-fiorenza-savona" linear="yes" />
+      <itemref idref="camadas-de-conhecimento-descendente-de-karl-schrekt-" linear="yes" />
+      <itemref idref="camadas-de-conhecimento-descendente-de-xaviar-" linear="yes" />
    </spine>
 </package>

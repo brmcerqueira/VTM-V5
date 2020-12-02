@@ -787,6 +787,43 @@
       <item id="cronicas-cacadores-cacados-velha-guarda" href="cronicas/cacadores-cacados/velha-guarda.html" media-type="application/xhtml+xml" />
       <item id="cronicas-cacadores-cacados-agentes-secretos" href="cronicas/cacadores-cacados/agentes-secretos.html" media-type="application/xhtml+xml" />
 
+      <item id="ferramentas-index" href="ferramentas/index.html" media-type="application/xhtml+xml" />
+      <item id="ferramentas-antagonistas" href="ferramentas/antagonistas/index.html" media-type="application/xhtml+xml" />
+      <item id="ferramentas-antagonistas-antagonistas-simples" href="ferramentas/antagonistas/antagonistas-simples.html" media-type="application/xhtml+xml" />
+      <item id="ferramentas-antagonistas-mortais" href="ferramentas/antagonistas/mortais/index.html" media-type="application/xhtml+xml" />
+      <item id="ferramentas-antagonistas-mortais-detetive-da-policia" href="ferramentas/antagonistas/mortais/detetive-da-policia.html" media-type="application/xhtml+xml" />
+      <item id="ferramentas-antagonistas-mortais-gangster" href="ferramentas/antagonistas/mortais/gangster.html" media-type="application/xhtml+xml" />
+      <item id="ferramentas-antagonistas-mortais-clero" href="ferramentas/antagonistas/mortais/clero.html" media-type="application/xhtml+xml" />
+      <item id="ferramentas-antagonistas-mortais-cacador-da-fe" href="ferramentas/antagonistas/mortais/cacador-da-fe.html" media-type="application/xhtml+xml" />
+      <item id="ferramentas-antagonistas-mortais-investigador-inquisidor" href="ferramentas/antagonistas/mortais/investigador-inquisidor.html" media-type="application/xhtml+xml" />
+      <item id="ferramentas-antagonistas-mortais-delta-inquisidor" href="ferramentas/antagonistas/mortais/delta-inquisidor.html" media-type="application/xhtml+xml" />
+      <item id="ferramentas-antagonistas-mortais-carnical" href="ferramentas/antagonistas/mortais/carnical.html" media-type="application/xhtml+xml" />
+      <item id="ferramentas-antagonistas-animais" href="ferramentas/antagonistas/animais/index.html" media-type="application/xhtml+xml" />
+      <item id="ferramentas-antagonistas-animais-morcego-grande" href="ferramentas/antagonistas/animais/morcego-grande.html" media-type="application/xhtml+xml" />
+      <item id="ferramentas-antagonistas-animais-urso" href="ferramentas/antagonistas/animais/urso.html" media-type="application/xhtml+xml" />
+      <item id="ferramentas-antagonistas-animais-ave-de-rapina" href="ferramentas/antagonistas/animais/ave-de-rapina.html" media-type="application/xhtml+xml" />
+      <item id="ferramentas-antagonistas-animais-cao-de-guarda" href="ferramentas/antagonistas/animais/cao-de-guarda.html" media-type="application/xhtml+xml" />
+      <item id="ferramentas-antagonistas-animais-cavalo" href="ferramentas/antagonistas/animais/cavalo.html" media-type="application/xhtml+xml" />
+      <item id="ferramentas-antagonistas-animais-rato" href="ferramentas/antagonistas/animais/rato.html" media-type="application/xhtml+xml" />
+      <item id="ferramentas-antagonistas-animais-lobo" href="ferramentas/antagonistas/animais/lobo.html" media-type="application/xhtml+xml" />
+      <item id="ferramentas-antagonistas-vampiros" href="ferramentas/antagonistas/vampiros/index.html" media-type="application/xhtml+xml" />
+      <item id="ferramentas-antagonistas-vampiros-harpia-de-elysium" href="ferramentas/antagonistas/vampiros/harpia-de-elysium.html" media-type="application/xhtml+xml" />
+      <item id="ferramentas-antagonistas-vampiros-revolucionario-anarquista" href="ferramentas/antagonistas/vampiros/revolucionario-anarquista.html" media-type="application/xhtml+xml" />
+      <item id="ferramentas-antagonistas-vampiros-gastos-do-antagonista" href="ferramentas/antagonistas/vampiros/gastos-do-antagonista.html" media-type="application/xhtml+xml" />
+      <item id="ferramentas-antagonistas-vampiros-xerife-sanguinario" href="ferramentas/antagonistas/vampiros/xerife-sanguinario.html" media-type="application/xhtml+xml" />
+      <item id="ferramentas-antagonistas-vampiros-criatura" href="ferramentas/antagonistas/vampiros/criatura.html" media-type="application/xhtml+xml" />
+      <item id="ferramentas-antagonistas-criaturas-do-horror" href="ferramentas/antagonistas/criaturas-do-horror/index.html" media-type="application/xhtml+xml" />
+      <item id="ferramentas-antagonistas-criaturas-do-horror-lobisomem" href="ferramentas/antagonistas/criaturas-do-horror/lobisomem.html" media-type="application/xhtml+xml" />
+      <item id="ferramentas-antagonistas-criaturas-do-horror-mago" href="ferramentas/antagonistas/criaturas-do-horror/mago.html" media-type="application/xhtml+xml" />
+      <item id="ferramentas-antagonistas-criaturas-do-horror-fada" href="ferramentas/antagonistas/criaturas-do-horror/fada.html" media-type="application/xhtml+xml" />
+      <item id="ferramentas-antagonistas-criaturas-do-horror-espectro" href="ferramentas/antagonistas/criaturas-do-horror/espectro.html" media-type="application/xhtml+xml" />
+      <item id="ferramentas-antagonistas-itens" href="ferramentas/antagonistas/itens.html" media-type="application/xhtml+xml" />
+      <item id="ferramentas-antagonistas-equipamento" href="ferramentas/antagonistas/equipamento.html" media-type="application/xhtml+xml" />
+      <item id="ferramentas-antagonistas-armas-convencionais" href="ferramentas/antagonistas/armas-convencionais/index.html" media-type="application/xhtml+xml" />
+      <item id="ferramentas-antagonistas-armas-convencionais-armas-disfarcadas" href="ferramentas/antagonistas/armas-convencionais/armas-disfarcadas.html" media-type="application/xhtml+xml" />
+      <item id="ferramentas-antagonistas-armas-convencionais-armas-incendiarias" href="ferramentas/antagonistas/armas-convencionais/armas-incendiarias.html" media-type="application/xhtml+xml" />
+      <item id="ferramentas-antagonistas-equipamento-sobrenatural" href="ferramentas/antagonistas/equipamento-sobrenatural.html" media-type="application/xhtml+xml" />
+
       <!-- CSS Style Sheets -->
       <item id="main-css" href="style.css" media-type="text/css" />
 
@@ -1428,5 +1465,42 @@
       <itemref idref="cronicas-cacadores-cacados-o-esquadrao-tatico" linear="yes" />
       <itemref idref="cronicas-cacadores-cacados-velha-guarda" linear="yes" />
       <itemref idref="cronicas-cacadores-cacados-agentes-secretos" linear="yes" />
+
+      <itemref idref="ferramentas-index" linear="yes" />
+      <itemref idref="ferramentas-antagonistas" linear="yes" />
+      <itemref idref="ferramentas-antagonistas-antagonistas-simples" linear="yes" />
+      <itemref idref="ferramentas-antagonistas-mortais" linear="yes" />
+      <itemref idref="ferramentas-antagonistas-mortais-detetive-da-policia" linear="yes" />
+      <itemref idref="ferramentas-antagonistas-mortais-gangster" linear="yes" />
+      <itemref idref="ferramentas-antagonistas-mortais-clero" linear="yes" />
+      <itemref idref="ferramentas-antagonistas-mortais-cacador-da-fe" linear="yes" />
+      <itemref idref="ferramentas-antagonistas-mortais-investigador-inquisidor" linear="yes" />
+      <itemref idref="ferramentas-antagonistas-mortais-delta-inquisidor" linear="yes" />
+      <itemref idref="ferramentas-antagonistas-mortais-carnical" linear="yes" />
+      <itemref idref="ferramentas-antagonistas-animais" linear="yes" />
+      <itemref idref="ferramentas-antagonistas-animais-morcego-grande" linear="yes" />
+      <itemref idref="ferramentas-antagonistas-animais-urso" linear="yes" />
+      <itemref idref="ferramentas-antagonistas-animais-ave-de-rapina" linear="yes" />
+      <itemref idref="ferramentas-antagonistas-animais-cao-de-guarda" linear="yes" />
+      <itemref idref="ferramentas-antagonistas-animais-cavalo" linear="yes" />
+      <itemref idref="ferramentas-antagonistas-animais-rato" linear="yes" />
+      <itemref idref="ferramentas-antagonistas-animais-lobo" linear="yes" />
+      <itemref idref="ferramentas-antagonistas-vampiros" linear="yes" />
+      <itemref idref="ferramentas-antagonistas-vampiros-harpia-de-elysium" linear="yes" />
+      <itemref idref="ferramentas-antagonistas-vampiros-revolucionario-anarquista" linear="yes" />
+      <itemref idref="ferramentas-antagonistas-vampiros-gastos-do-antagonista" linear="yes" />
+      <itemref idref="ferramentas-antagonistas-vampiros-xerife-sanguinario" linear="yes" />
+      <itemref idref="ferramentas-antagonistas-vampiros-criatura" linear="yes" />
+      <itemref idref="ferramentas-antagonistas-criaturas-do-horror" linear="yes" />
+      <itemref idref="ferramentas-antagonistas-criaturas-do-horror-lobisomem" linear="yes" />
+      <itemref idref="ferramentas-antagonistas-criaturas-do-horror-mago" linear="yes" />
+      <itemref idref="ferramentas-antagonistas-criaturas-do-horror-fada" linear="yes" />
+      <itemref idref="ferramentas-antagonistas-criaturas-do-horror-espectro" linear="yes" />
+      <itemref idref="ferramentas-antagonistas-itens" linear="yes" />
+      <itemref idref="ferramentas-antagonistas-equipamento" linear="yes" />
+      <itemref idref="ferramentas-antagonistas-armas-convencionais" linear="yes" />
+      <itemref idref="ferramentas-antagonistas-armas-convencionais-armas-disfarcadas" linear="yes" />
+      <itemref idref="ferramentas-antagonistas-armas-convencionais-armas-incendiarias" linear="yes" />
+      <itemref idref="ferramentas-antagonistas-equipamento-sobrenatural" linear="yes" />
    </spine>
 </package>

@@ -4127,6 +4127,222 @@
                     <content src="cronicas/cacadores-cacados/agentes-secretos.html" />
                 </navPoint>
             </navPoint>
-        </navPoint>                
+        </navPoint>
+        <navPoint id="ferramentas">
+            <navLabel>
+                <text>FERRAMENTAS</text>
+            </navLabel>
+            <content src="ferramentas/index.html" />
+            <navPoint id="ferramentas-antagonistas">
+                <navLabel>
+                    <text>ANTAGONISTAS</text>
+                </navLabel>
+                <content src="ferramentas/antagonistas/index.html" />
+                <navPoint id="ferramentas-antagonistas-antagonistas-simples">
+                    <navLabel>
+                        <text>ANTAGONISTAS SIMPLES</text>
+                    </navLabel>
+                    <content src="ferramentas/antagonistas/antagonistas-simples.html" />
+                </navPoint>
+                <navPoint id="ferramentas-antagonistas-mortais">
+                    <navLabel>
+                        <text>MORTAIS</text>
+                    </navLabel>
+                    <content src="ferramentas/antagonistas/mortais/index.html" />
+                    <navPoint id="ferramentas-antagonistas-mortais-detetive-da-policia">
+                        <navLabel>
+                            <text>DETETIVE DA POLÍCIA</text>
+                        </navLabel>
+                        <content src="ferramentas/antagonistas/mortais/detetive-da-policia.html" />
+                    </navPoint>
+                    <navPoint id="ferramentas-antagonistas-mortais-gangster">
+                        <navLabel>
+                            <text>GANGSTER</text>
+                        </navLabel>
+                        <content src="ferramentas/antagonistas/mortais/gangster.html" />
+                    </navPoint>
+                    <navPoint id="ferramentas-antagonistas-mortais-clero">
+                        <navLabel>
+                            <text>CLERO</text>
+                        </navLabel>
+                        <content src="ferramentas/antagonistas/mortais/clero.html" />
+                    </navPoint>
+                    <navPoint id="ferramentas-antagonistas-mortais-cacador-da-fe">
+                        <navLabel>
+                            <text>CAÇADOR DA FÉ</text>
+                        </navLabel>
+                        <content src="ferramentas/antagonistas/mortais/cacador-da-fe.html" />
+                    </navPoint>
+                    <navPoint id="ferramentas-antagonistas-mortais-investigador-inquisidor">
+                        <navLabel>
+                            <text>INVESTIGADOR INQUISIDOR</text>
+                        </navLabel>
+                        <content src="ferramentas/antagonistas/mortais/investigador-inquisidor.html" />
+                    </navPoint>
+                    <navPoint id="ferramentas-antagonistas-mortais-delta-inquisidor">
+                        <navLabel>
+                            <text>DELTA INQUISIDOR</text>
+                        </navLabel>
+                        <content src="ferramentas/antagonistas/mortais/delta-inquisidor.html" />
+                    </navPoint>
+                    <navPoint id="ferramentas-antagonistas-mortais-carnical">
+                        <navLabel>
+                            <text>CARNIÇAL</text>
+                        </navLabel>
+                        <content src="ferramentas/antagonistas/mortais/carnical.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="ferramentas-antagonistas-animais">
+                    <navLabel>
+                        <text>ANIMAIS</text>
+                    </navLabel>
+                    <content src="ferramentas/antagonistas/animais/index.html" />
+                    <navPoint id="ferramentas-antagonistas-animais-morcego-grande">
+                        <navLabel>
+                            <text>MORCEGO (GRANDE)</text>
+                        </navLabel>
+                        <content src="ferramentas/antagonistas/animais/morcego-grande.html" />
+                    </navPoint>
+                    <navPoint id="ferramentas-antagonistas-animais-urso">
+                        <navLabel>
+                            <text>URSO</text>
+                        </navLabel>
+                        <content src="ferramentas/antagonistas/animais/urso.html" />
+                    </navPoint>
+                    <navPoint id="ferramentas-antagonistas-animais-ave-de-rapina">
+                        <navLabel>
+                            <text>AVE DE RAPINA</text>
+                        </navLabel>
+                        <content src="ferramentas/antagonistas/animais/ave-de-rapina.html" />
+                    </navPoint>
+                    <navPoint id="ferramentas-antagonistas-animais-cao-de-guarda">
+                        <navLabel>
+                            <text>CÃO DE GUARDA</text>
+                        </navLabel>
+                        <content src="ferramentas/antagonistas/animais/cao-de-guarda.html" />
+                    </navPoint>
+                    <navPoint id="ferramentas-antagonistas-animais-cavalo">
+                        <navLabel>
+                            <text>CAVALO</text>
+                        </navLabel>
+                        <content src="ferramentas/antagonistas/animais/cavalo.html" />
+                    </navPoint>
+                    <navPoint id="ferramentas-antagonistas-animais-rato">
+                        <navLabel>
+                            <text>RATO</text>
+                        </navLabel>
+                        <content src="ferramentas/antagonistas/animais/rato.html" />
+                    </navPoint>
+                    <navPoint id="ferramentas-antagonistas-animais-lobo">
+                        <navLabel>
+                            <text>LOBO</text>
+                        </navLabel>
+                        <content src="ferramentas/antagonistas/animais/lobo.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="ferramentas-antagonistas-vampiros">
+                    <navLabel>
+                        <text>VAMPIROS</text>
+                    </navLabel>
+                    <content src="ferramentas/antagonistas/vampiros/index.html" />
+                    <navPoint id="ferramentas-antagonistas-vampiros-harpia-de-elysium">
+                        <navLabel>
+                            <text>HARPIA DE ELYSIUM</text>
+                        </navLabel>
+                        <content src="ferramentas/antagonistas/vampiros/harpia-de-elysium.html" />
+                    </navPoint>
+                    <navPoint id="ferramentas-antagonistas-vampiros-revolucionario-anarquista">
+                        <navLabel>
+                            <text>REVOLUCIONÁRIO ANARQUISTA</text>
+                        </navLabel>
+                        <content src="ferramentas/antagonistas/vampiros/revolucionario-anarquista.html" />
+                    </navPoint>
+                    <navPoint id="ferramentas-antagonistas-vampiros-gastos-do-antagonista">
+                        <navLabel>
+                            <text>GASTOS DO ANTAGONISTA</text>
+                        </navLabel>
+                        <content src="ferramentas/antagonistas/vampiros/gastos-do-antagonista.html" />
+                    </navPoint>
+                    <navPoint id="ferramentas-antagonistas-vampiros-xerife-sanguinario">
+                        <navLabel>
+                            <text>XERIFE SANGUINÁRIO</text>
+                        </navLabel>
+                        <content src="ferramentas/antagonistas/vampiros/xerife-sanguinario.html" />
+                    </navPoint>
+                    <navPoint id="ferramentas-antagonistas-vampiros-criatura">
+                        <navLabel>
+                            <text>CRIATURA</text>
+                        </navLabel>
+                        <content src="ferramentas/antagonistas/vampiros/criatura.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="ferramentas-antagonistas-criaturas-do-horror">
+                    <navLabel>
+                        <text>CRIATURAS DO HORROR</text>
+                    </navLabel>
+                    <content src="ferramentas/antagonistas/criaturas-do-horror/index.html" />
+                    <navPoint id="ferramentas-antagonistas-criaturas-do-horror-lobisomem">
+                        <navLabel>
+                            <text>LOBISOMEM</text>
+                        </navLabel>
+                        <content src="ferramentas/antagonistas/criaturas-do-horror/lobisomem.html" />
+                    </navPoint>
+                    <navPoint id="ferramentas-antagonistas-criaturas-do-horror-mago">
+                        <navLabel>
+                            <text>MAGO</text>
+                        </navLabel>
+                        <content src="ferramentas/antagonistas/criaturas-do-horror/mago.html" />
+                    </navPoint>
+                    <navPoint id="ferramentas-antagonistas-criaturas-do-horror-fada">
+                        <navLabel>
+                            <text>FADA</text>
+                        </navLabel>
+                        <content src="ferramentas/antagonistas/criaturas-do-horror/fada.html" />
+                    </navPoint>
+                    <navPoint id="ferramentas-antagonistas-criaturas-do-horror-espectro">
+                        <navLabel>
+                            <text>ESPECTRO</text>
+                        </navLabel>
+                        <content src="ferramentas/antagonistas/criaturas-do-horror/espectro.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="ferramentas-antagonistas-itens">
+                    <navLabel>
+                        <text>ITENS</text>
+                    </navLabel>
+                    <content src="ferramentas/antagonistas/itens.html" />
+                </navPoint>
+                <navPoint id="ferramentas-antagonistas-equipamento">
+                    <navLabel>
+                        <text>EQUIPAMENTO</text>
+                    </navLabel>
+                    <content src="ferramentas/antagonistas/equipamento.html" />
+                </navPoint>
+                <navPoint id="ferramentas-antagonistas-armas-convencionais">
+                    <navLabel>
+                        <text>ARMAS CONVENCIONAIS</text>
+                    </navLabel>
+                    <content src="ferramentas/antagonistas/armas-convencionais/index.html" />
+                    <navPoint id="ferramentas-antagonistas-armas-convencionais-armas-disfarcadas">
+                        <navLabel>
+                            <text>ARMAS DISFARÇADAS</text>
+                        </navLabel>
+                        <content src="ferramentas/antagonistas/armas-convencionais/armas-disfarcadas.html" />
+                    </navPoint>
+                    <navPoint id="ferramentas-antagonistas-armas-convencionais-armas-incendiarias">
+                        <navLabel>
+                            <text>ARMAS INCENDIÁRIAS</text>
+                        </navLabel>
+                        <content src="ferramentas/antagonistas/armas-convencionais/armas-incendiarias.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="ferramentas-antagonistas-equipamento-sobrenatural">
+                    <navLabel>
+                        <text>EQUIPAMENTO SOBRENATURAL</text>
+                    </navLabel>
+                    <content src="ferramentas/antagonistas/equipamento-sobrenatural.html" />
+                </navPoint>
+            </navPoint>
+        </navPoint>                        
     </navMap>
 </ncx>

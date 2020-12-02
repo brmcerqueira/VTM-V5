@@ -667,7 +667,7 @@
             <navLabel>
                 <text>REGRAS</text>
             </navLabel>
-            <content src="regras/tempo/index.html" />
+            <content src="regras/index.html" />
             <navPoint id="regras-tempo">
                 <navLabel>
                     <text>TEMPO</text>

@@ -129,6 +129,7 @@
       <item id="clas-sangue-fraco-arquetipos-sangue-fraco" href="clas/sangue-fraco/arquetipos-sangue-fraco.html" media-type="application/xhtml+xml" />
       <item id="clas-sangue-fraco-caracteristicas-dos-sangue-fraco" href="clas/sangue-fraco/caracteristicas-dos-sangue-fraco.html" media-type="application/xhtml+xml" />
 
+      <item id="regras-index" href="regras/index.html" media-type="application/xhtml+xml" />
       <item id="regras-tempo" href="regras/tempo/index.html" media-type="application/xhtml+xml" />
       <item id="regras-tempo-jogando-os-dados" href="regras/tempo/jogando-os-dados.html" media-type="application/xhtml+xml" />
       <item id="regras-testes-simples" href="regras/testes-simples/index.html" media-type="application/xhtml+xml" />
@@ -860,6 +861,7 @@
       <itemref idref="clas-sangue-fraco-arquetipos-sangue-fraco" linear="yes" />
       <itemref idref="clas-sangue-fraco-caracteristicas-dos-sangue-fraco" linear="yes" />
 
+      <itemref idref="regras-index" linear="yes" />
       <itemref idref="regras-tempo" linear="yes" />
       <itemref idref="regras-tempo-jogando-os-dados" linear="yes" />
       <itemref idref="regras-testes-simples" linear="yes" />

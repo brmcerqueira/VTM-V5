@@ -4499,6 +4499,61 @@
                 </navLabel>
                 <content src="camadas-de-conhecimento/descendente-de-xaviar-.html" />
             </navPoint>
-        </navPoint>                                
+        </navPoint>
+        <navPoint id="apendices">
+            <navLabel>
+                <text>APÊNDICES</text>
+            </navLabel>
+            <content src="apendices/apendice-i-proezas-padroes/index.html" />
+            <navPoint id="apendices-apendice-i-proezas-padroes">
+                <navLabel>
+                    <text>APÊNDICE I: PROEZAS PADRÕES</text>
+                </navLabel>
+                <content src="apendices/apendice-i-proezas-padroes/index.html" />
+                <navPoint id="apendices-apendice-i-proezas-padroes-proezas-mentais">
+                    <navLabel>
+                        <text>PROEZAS MENTAIS</text>
+                    </navLabel>
+                    <content src="apendices/apendice-i-proezas-padroes/proezas-mentais.html" />
+                </navPoint>
+                <navPoint id="apendices-apendice-i-proezas-padroes-proezas-fisicas">
+                    <navLabel>
+                        <text>PROEZAS FÍSICAS</text>
+                    </navLabel>
+                    <content src="apendices/apendice-i-proezas-padroes/proezas-fisicas.html" />
+                </navPoint>
+                <navPoint id="apendices-apendice-i-proezas-padroes-feitos-sociais">
+                    <navLabel>
+                        <text>FEITOS SOCIAIS</text>
+                    </navLabel>
+                    <content src="apendices/apendice-i-proezas-padroes/feitos-sociais.html" />
+                </navPoint>
+            </navPoint>
+            <navPoint id="apendices-apendice-ii-projetos">
+                <navLabel>
+                    <text>APÊNDICE II: PROJETOS</text>
+                </navLabel>
+                <content src="apendices/apendice-ii-projetos.html" />
+            </navPoint>
+            <navPoint id="apendices-apendice-iii-conselho-para-o-jogo-consideravel">
+                <navLabel>
+                    <text>APÊNDICE III: CONSELHO PARA O JOGO CONSIDERÁVEL</text>
+                </navLabel>
+                <content src="apendices/apendice-iii-conselho-para-o-jogo-consideravel/index.html" />
+                <navPoint id="apendices-apendice-iii-conselho-para-o-jogo-consideravel-identidade-do-personagem-e-do-jogador-">
+                    <navLabel>
+                        <text>IDENTIDADE DO PERSONAGEM E DO JOGADOR </text>
+                    </navLabel>
+                    <content
+                        src="apendices/apendice-iii-conselho-para-o-jogo-consideravel/identidade-do-personagem-e-do-jogador-.html" />
+                </navPoint>
+                <navPoint id="apendices-apendice-iii-conselho-para-o-jogo-consideravel-tecnicas-de-calibracao">
+                    <navLabel>
+                        <text>TÉCNICAS DE CALIBRAÇÃO</text>
+                    </navLabel>
+                    <content src="apendices/apendice-iii-conselho-para-o-jogo-consideravel/tecnicas-de-calibracao.html" />
+                </navPoint>
+            </navPoint>
+        </navPoint>                                        
     </navMap>
 </ncx>

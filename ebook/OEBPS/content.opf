@@ -850,6 +850,15 @@
       <item id="camadas-de-conhecimento-descendente-de-karl-schrekt-" href="camadas-de-conhecimento/descendente-de-karl-schrekt-.html" media-type="application/xhtml+xml" />
       <item id="camadas-de-conhecimento-descendente-de-xaviar-" href="camadas-de-conhecimento/descendente-de-xaviar-.html" media-type="application/xhtml+xml" />
 
+      <item id="apendices-apendice-i-proezas-padroes" href="apendices/apendice-i-proezas-padroes/index.html" media-type="application/xhtml+xml" />
+      <item id="apendices-apendice-i-proezas-padroes-proezas-mentais" href="apendices/apendice-i-proezas-padroes/proezas-mentais.html" media-type="application/xhtml+xml" />
+      <item id="apendices-apendice-i-proezas-padroes-proezas-fisicas" href="apendices/apendice-i-proezas-padroes/proezas-fisicas.html" media-type="application/xhtml+xml" />
+      <item id="apendices-apendice-i-proezas-padroes-feitos-sociais" href="apendices/apendice-i-proezas-padroes/feitos-sociais.html" media-type="application/xhtml+xml" />
+      <item id="apendices-apendice-ii-projetos" href="apendices/apendice-ii-projetos.html" media-type="application/xhtml+xml" />
+      <item id="apendices-apendice-iii-conselho-para-o-jogo-consideravel" href="apendices/apendice-iii-conselho-para-o-jogo-consideravel/index.html" media-type="application/xhtml+xml" />
+      <item id="apendices-apendice-iii-conselho-para-o-jogo-consideravel-identidade-do-personagem-e-do-jogador-" href="apendices/apendice-iii-conselho-para-o-jogo-consideravel/identidade-do-personagem-e-do-jogador-.html" media-type="application/xhtml+xml" />
+      <item id="apendices-apendice-iii-conselho-para-o-jogo-consideravel-tecnicas-de-calibracao" href="apendices/apendice-iii-conselho-para-o-jogo-consideravel/tecnicas-de-calibracao.html" media-type="application/xhtml+xml" />
+
       <!-- CSS Style Sheets -->
       <item id="main-css" href="style.css" media-type="text/css" />
 
@@ -1554,5 +1563,14 @@
       <itemref idref="camadas-de-conhecimento-fiorenza-savona" linear="yes" />
       <itemref idref="camadas-de-conhecimento-descendente-de-karl-schrekt-" linear="yes" />
       <itemref idref="camadas-de-conhecimento-descendente-de-xaviar-" linear="yes" />
+
+      <itemref idref="apendices-apendice-i-proezas-padroes" linear="yes" />
+      <itemref idref="apendices-apendice-i-proezas-padroes-proezas-mentais" linear="yes" />
+      <itemref idref="apendices-apendice-i-proezas-padroes-proezas-fisicas" linear="yes" />
+      <itemref idref="apendices-apendice-i-proezas-padroes-feitos-sociais" linear="yes" />
+      <itemref idref="apendices-apendice-ii-projetos" linear="yes" />
+      <itemref idref="apendices-apendice-iii-conselho-para-o-jogo-consideravel" linear="yes" />
+      <itemref idref="apendices-apendice-iii-conselho-para-o-jogo-consideravel-identidade-do-personagem-e-do-jogador-" linear="yes" />
+      <itemref idref="apendices-apendice-iii-conselho-para-o-jogo-consideravel-tecnicas-de-calibracao" linear="yes" />
    </spine>
 </package>

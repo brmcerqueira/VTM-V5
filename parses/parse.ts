@@ -3,16 +3,16 @@ import { ensureFileSync } from "https://deno.land/std@/fs/mod.ts";
 
 function removeAccents(text: string): string {
     const accents =
-      "ÀÁÂÃÄÅàáâãäåßÒÓÔÕÕÖØòóôõöøÈÉÊËèéêëðÇçÐÌÍÎÏìíîïÙÚÛÜùúûüÑñŠšŸÿýŽž";
+        "ÀÁÂÃÄÅàáâãäåßÒÓÔÕÕÖØòóôõöøÈÉÊËèéêëðÇçÐÌÍÎÏìíîïÙÚÛÜùúûüÑñŠšŸÿýŽž";
     const accentsOut =
-      "AAAAAAaaaaaaBOOOOOOOooooooEEEEeeeeeCcDIIIIiiiiUUUUuuuuNnSsYyyZz";
+        "AAAAAAaaaaaaBOOOOOOOooooooEEEEeeeeeCcDIIIIiiiiUUUUuuuuNnSsYyyZz";
     return text.split("")
-      .map((letter, index) => {
-        const accentIndex = accents.indexOf(letter);
-        return accentIndex !== -1 ? accentsOut[accentIndex] : letter;
-      })
-      .join("");
-  }
+        .map((letter, index) => {
+            const accentIndex = accents.indexOf(letter);
+            return accentIndex !== -1 ? accentsOut[accentIndex] : letter;
+        })
+        .join("");
+}
 
 function folderBack(amount: number): string {
     let result = "";
@@ -20,7 +20,7 @@ function folderBack(amount: number): string {
     for (let index = 0; index < amount; index++) {
         result += "../";
     }
-   
+
     return result;
 }
 
@@ -59,34 +59,34 @@ for (const p of doc.querySelectorAll("*")) {
             break;
     }
 
-    if (depth > 0) { 
-        const name = p.textContent.replaceAll(/\s+/g, ' ').toUpperCase(); 
+    if (depth > 0) {
+        const name = p.textContent.replaceAll(/\s+/g, ' ').toUpperCase();
         const item: Item = {
             name: name,
             id: removeAccents(name).toLowerCase().replaceAll(/\s+/g, '-')
-            .replaceAll('(', '')
-            .replaceAll(')', '')
-            .replaceAll('?', '')
-            .replaceAll(':', '')
-            .replaceAll(';', '')
-            .replaceAll(',', '')
-            .replaceAll('’', '')
-            .replaceAll('“', '')
-            .replaceAll('”', '')
-            .replaceAll('/', ''),                    
+                .replaceAll('(', '')
+                .replaceAll(')', '')
+                .replaceAll('?', '')
+                .replaceAll(':', '')
+                .replaceAll(';', '')
+                .replaceAll(',', '')
+                .replaceAll('’', '')
+                .replaceAll('“', '')
+                .replaceAll('”', '')
+                .replaceAll('/', ''),
             content: "",
             depth: depth,
             childrens: []
         };
 
-        if (depth == 1) {  
+        if (depth == 1) {
             root.push(item);
             queue.length = 0;
             queue.push(item);
         }
-        else { 
-            console.log("Start: ", queue.map(i => i.name).join(" > "));   
-            
+        else {
+            console.log("Start: ", queue.map(i => i.name).join(" > "));
+
             while (queue[queue.length - 1].depth >= depth) {
                 queue.pop();
             }
@@ -95,7 +95,7 @@ for (const p of doc.querySelectorAll("*")) {
 
             if (queue.length > 1) {
                 queue[queue.length - 2].childrens.push(item);
-            } 
+            }
 
             console.log("End: ", queue.map(i => i.name).join(" > "));
         }
@@ -121,7 +121,7 @@ function bestSrc(item: Item): string {
     }
     else if (item.content != "") {
         result += `${item.childrens.length > 0 ? "/index" : ""}.html`;
-    } 
+    }
 
     return result;
 }
@@ -139,7 +139,7 @@ function treat(parentName: string, depth: number): (item: Item) => void {
                     </navLabel>`;
 
         if (item.content != "") {
-            opf += `<item id="${id}" href="${location}" media-type="application/xhtml+xml" />\n`; 
+            opf += `<item id="${id}" href="${location}" media-type="application/xhtml+xml" />\n`;
             spine += `<itemref idref="${id}" linear="yes" />\n`;
             toc += `<content src="${location}"/>\n`;
             ensureFileSync(location);
@@ -150,12 +150,12 @@ function treat(parentName: string, depth: number): (item: Item) => void {
                 <link href="${folderBack(depth + (hasChildrens ? 1 : 0))}style.css" rel="stylesheet" type="text/css" />
             </head>  
             <body><h2>${item.name}</h2>${item.content}</body>     
-            </html>`); 
+            </html>`);
         }
         else {
             toc += `<content src="${parentName}/${bestSrc(item)}"/>\n`;
-        }   
-            
+        }
+
         if (hasChildrens) {
             item.childrens.forEach(treat(`${parentName}/${item.id}`, depth + 1));
         }
@@ -166,10 +166,10 @@ function treat(parentName: string, depth: number): (item: Item) => void {
 
 root.forEach(treat(group, groupDepth));
 
-const groupFile = group.replaceAll('/','-');
+const groupFile = group.replaceAll('/', '-');
 
-Deno.writeTextFileSync(`_${groupFile}-opf.xhtml`, opf); 
+Deno.writeTextFileSync(`_${groupFile}-opf.xhtml`, opf);
 
-Deno.writeTextFileSync(`_${groupFile}-spine.xhtml`, spine); 
+Deno.writeTextFileSync(`_${groupFile}-spine.xhtml`, spine);
 
 Deno.writeTextFileSync(`_${groupFile}-ncx.xhtml`, toc); 

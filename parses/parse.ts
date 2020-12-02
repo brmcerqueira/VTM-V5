@@ -83,22 +83,20 @@ for (const p of doc.querySelectorAll("*")) {
             queue.length = 0;
             queue.push(item);
         }
-        else {    
-            let last = queue[queue.length - 1];
-            if (last.depth < depth) {
-                last.childrens.push(item);
-                queue.push(item);            
+        else { 
+            console.log("Start: ", queue.map(i => i.name).join(" > "));   
+            
+            while (queue[queue.length - 1].depth >= depth) {
+                queue.pop();
             }
-            else {
-                if (last.depth > depth) {
-                    queue.pop();
-                }
-                queue[queue.length - 1] = item;
 
-                if (queue.length > 1) {
-                    queue[queue.length - 2].childrens.push(item);
-                }      
-            }    
+            queue.push(item);
+
+            if (queue.length > 1) {
+                queue[queue.length - 2].childrens.push(item);
+            } 
+
+            console.log("End: ", queue.map(i => i.name).join(" > "));
         }
 
         current = item;

@@ -693,34 +693,31 @@
       <item id="sistemas-avancados-sistemas-do-sangue-intimidade-entre-os-membros-prestacao" href="sistemas-avancados/sistemas-do-sangue/intimidade-entre-os-membros/prestacao.html" media-type="application/xhtml+xml" />
       <item id="sistemas-avancados-sistemas-do-sangue-intimidade-entre-os-membros-obtendo-e-utilizando-bencaos" href="sistemas-avancados/sistemas-do-sangue/intimidade-entre-os-membros/obtendo-e-utilizando-bencaos.html" media-type="application/xhtml+xml" />
 
+      <item id="cidades-index" href="cidades/index.html" media-type="application/xhtml+xml" />
       <item id="cidades-o-sistema-feudal" href="cidades/o-sistema-feudal/index.html" media-type="application/xhtml+xml" />
       <item id="cidades-o-sistema-feudal-dominios" href="cidades/o-sistema-feudal/dominios.html" media-type="application/xhtml+xml" />
       <item id="cidades-o-sistema-feudal-dominios-por-area" href="cidades/o-sistema-feudal/dominios-por-area.html" media-type="application/xhtml+xml" />
       <item id="cidades-o-sistema-feudal-dominios-de-associacao" href="cidades/o-sistema-feudal/dominios-de-associacao.html" media-type="application/xhtml+xml" />
       <item id="cidades-o-sistema-feudal-dominios-de-autoridade" href="cidades/o-sistema-feudal/dominios-de-autoridade.html" media-type="application/xhtml+xml" />
       <item id="cidades-o-sistema-feudal-territorios-de-caca" href="cidades/o-sistema-feudal/territorios-de-caca.html" media-type="application/xhtml+xml" />
-      <item id="cidades-o-sistema-feudal-grafite-vampirica" href="cidades/o-sistema-feudal/grafite-vampirica.html" media-type="application/xhtml+xml" />
-      <item id="cidades-o-sistema-feudal-marcas-e-mecanicas" href="cidades/o-sistema-feudal/marcas-e-mecanicas.html" media-type="application/xhtml+xml" />
-      <item id="cidades-o-sistema-feudal-localizar-reconhecer-e-decifrar-as-marcas" href="cidades/o-sistema-feudal/localizar-reconhecer-e-decifrar-as-marcas.html" media-type="application/xhtml+xml" />
-      <item id="cidades-o-sistema-feudal-comunicando-se-com-marcas" href="cidades/o-sistema-feudal/comunicando-se-com-marcas.html" media-type="application/xhtml+xml" />
-      <item id="cidades-o-sistema-feudal-persuadindo-com-marcas" href="cidades/o-sistema-feudal/persuadindo-com-marcas.html" media-type="application/xhtml+xml" />
-      <item id="cidades-o-sistema-feudal-parada-de-dados" href="cidades/o-sistema-feudal/parada-de-dados.html" media-type="application/xhtml+xml" />
       <item id="cidades-o-sistema-feudal-criando-dominios" href="cidades/o-sistema-feudal/criando-dominios.html" media-type="application/xhtml+xml" />
       <item id="cidades-o-sistema-feudal-sangue-e-cacada" href="cidades/o-sistema-feudal/sangue-e-cacada.html" media-type="application/xhtml+xml" />
-      <item id="cidades-o-sistema-feudal-mapeando-os-territorios" href="cidades/o-sistema-feudal/mapeando-os-territorios.html" media-type="application/xhtml+xml" />
-      <item id="cidades-o-sistema-feudal-mistura-de-tipos-de-dominio" href="cidades/o-sistema-feudal/mistura-de-tipos-de-dominio.html" media-type="application/xhtml+xml" />
-      <item id="cidades-o-sistema-feudal-inclua-segredos" href="cidades/o-sistema-feudal/inclua-segredos.html" media-type="application/xhtml+xml" />
-      <item id="cidades-o-sistema-feudal-cenas-sociais-quebradas" href="cidades/o-sistema-feudal/cenas-sociais-quebradas.html" media-type="application/xhtml+xml" />
-      <item id="cidades-o-sistema-feudal-atividade-extracurricular" href="cidades/o-sistema-feudal/atividade-extracurricular.html" media-type="application/xhtml+xml" />
-      <item id="cidades-o-sistema-feudal-encontros-de-alcoolicos-anonimos" href="cidades/o-sistema-feudal/encontros-de-alcoolicos-anonimos.html" media-type="application/xhtml+xml" />
-      <item id="cidades-o-sistema-feudal-instalacao-de-arte" href="cidades/o-sistema-feudal/instalacao-de-arte.html" media-type="application/xhtml+xml" />
-      <item id="cidades-o-sistema-feudal-convencao" href="cidades/o-sistema-feudal/convencao.html" media-type="application/xhtml+xml" />
-      <item id="cidades-o-sistema-feudal-rave-ao-ar-livre-ilegal" href="cidades/o-sistema-feudal/rave-ao-ar-livre-ilegal.html" media-type="application/xhtml+xml" />
-      <item id="cidades-o-sistema-feudal-milonga" href="cidades/o-sistema-feudal/milonga.html" media-type="application/xhtml+xml" />
-      <item id="cidades-o-sistema-feudal-jogo-noturno" href="cidades/o-sistema-feudal/jogo-noturno.html" media-type="application/xhtml+xml" />
-      <item id="cidades-o-sistema-feudal-protesto" href="cidades/o-sistema-feudal/protesto.html" media-type="application/xhtml+xml" />
-      <item id="cidades-o-sistema-feudal-festival-de-rua" href="cidades/o-sistema-feudal/festival-de-rua.html" media-type="application/xhtml+xml" />
-      <item id="cidades-o-sistema-feudal-o-que-esta-acontecendo" href="cidades/o-sistema-feudal/o-que-esta-acontecendo.html" media-type="application/xhtml+xml" />
+      <item id="cidades-o-sistema-feudal-as-marcas-grafite-vampirica" href="cidades/o-sistema-feudal/as-marcas/grafite-vampirica.html" media-type="application/xhtml+xml" />
+      <item id="cidades-o-sistema-feudal-as-marcas-marcas-e-mecanicas" href="cidades/o-sistema-feudal/as-marcas/marcas-e-mecanicas.html" media-type="application/xhtml+xml" />
+      <item id="cidades-o-sistema-feudal-mapeando-os-territorios" href="cidades/o-sistema-feudal/mapeando-os-territorios/index.html" media-type="application/xhtml+xml" />
+      <item id="cidades-o-sistema-feudal-mapeando-os-territorios-mistura-de-tipos-de-dominio" href="cidades/o-sistema-feudal/mapeando-os-territorios/mistura-de-tipos-de-dominio.html" media-type="application/xhtml+xml" />
+      <item id="cidades-o-sistema-feudal-mapeando-os-territorios-inclua-segredos" href="cidades/o-sistema-feudal/mapeando-os-territorios/inclua-segredos.html" media-type="application/xhtml+xml" />
+      <item id="cidades-o-sistema-feudal-mapeando-os-territorios-cenas-sociais-quebradas" href="cidades/o-sistema-feudal/mapeando-os-territorios/cenas-sociais-quebradas.html" media-type="application/xhtml+xml" />
+      <item id="cidades-o-sistema-feudal-mapeando-os-territorios-atividade-extracurricular" href="cidades/o-sistema-feudal/mapeando-os-territorios/atividade-extracurricular.html" media-type="application/xhtml+xml" />
+      <item id="cidades-o-sistema-feudal-mapeando-os-territorios-encontros-de-alcoolicos-anonimos" href="cidades/o-sistema-feudal/mapeando-os-territorios/encontros-de-alcoolicos-anonimos.html" media-type="application/xhtml+xml" />
+      <item id="cidades-o-sistema-feudal-mapeando-os-territorios-instalacao-de-arte" href="cidades/o-sistema-feudal/mapeando-os-territorios/instalacao-de-arte.html" media-type="application/xhtml+xml" />
+      <item id="cidades-o-sistema-feudal-mapeando-os-territorios-convencao" href="cidades/o-sistema-feudal/mapeando-os-territorios/convencao.html" media-type="application/xhtml+xml" />
+      <item id="cidades-o-sistema-feudal-mapeando-os-territorios-rave-ao-ar-livre-ilegal" href="cidades/o-sistema-feudal/mapeando-os-territorios/rave-ao-ar-livre-ilegal.html" media-type="application/xhtml+xml" />
+      <item id="cidades-o-sistema-feudal-mapeando-os-territorios-milonga" href="cidades/o-sistema-feudal/mapeando-os-territorios/milonga.html" media-type="application/xhtml+xml" />
+      <item id="cidades-o-sistema-feudal-mapeando-os-territorios-jogo-noturno" href="cidades/o-sistema-feudal/mapeando-os-territorios/jogo-noturno.html" media-type="application/xhtml+xml" />
+      <item id="cidades-o-sistema-feudal-mapeando-os-territorios-protesto" href="cidades/o-sistema-feudal/mapeando-os-territorios/protesto.html" media-type="application/xhtml+xml" />
+      <item id="cidades-o-sistema-feudal-mapeando-os-territorios-festival-de-rua" href="cidades/o-sistema-feudal/mapeando-os-territorios/festival-de-rua.html" media-type="application/xhtml+xml" />
+      <item id="cidades-o-sistema-feudal-mapeando-os-territorios-o-que-esta-acontecendo" href="cidades/o-sistema-feudal/mapeando-os-territorios/o-que-esta-acontecendo.html" media-type="application/xhtml+xml" />
       <item id="cidades-atmosfera" href="cidades/atmosfera/index.html" media-type="application/xhtml+xml" />
       <item id="cidades-atmosfera-inicio-rapido-de-cidade" href="cidades/atmosfera/inicio-rapido-de-cidade.html" media-type="application/xhtml+xml" />
       <item id="cidades-atmosfera-parasitismo-vampirico" href="cidades/atmosfera/parasitismo-vampirico.html" media-type="application/xhtml+xml" />
@@ -1281,34 +1278,31 @@
       <itemref idref="sistemas-avancados-sistemas-do-sangue-intimidade-entre-os-membros-prestacao" linear="yes" />
       <itemref idref="sistemas-avancados-sistemas-do-sangue-intimidade-entre-os-membros-obtendo-e-utilizando-bencaos" linear="yes" />
 
+      <itemref idref="cidades-index" linear="yes" />
       <itemref idref="cidades-o-sistema-feudal" linear="yes" />
       <itemref idref="cidades-o-sistema-feudal-dominios" linear="yes" />
       <itemref idref="cidades-o-sistema-feudal-dominios-por-area" linear="yes" />
       <itemref idref="cidades-o-sistema-feudal-dominios-de-associacao" linear="yes" />
       <itemref idref="cidades-o-sistema-feudal-dominios-de-autoridade" linear="yes" />
       <itemref idref="cidades-o-sistema-feudal-territorios-de-caca" linear="yes" />
-      <itemref idref="cidades-o-sistema-feudal-grafite-vampirica" linear="yes" />
-      <itemref idref="cidades-o-sistema-feudal-marcas-e-mecanicas" linear="yes" />
-      <itemref idref="cidades-o-sistema-feudal-localizar-reconhecer-e-decifrar-as-marcas" linear="yes" />
-      <itemref idref="cidades-o-sistema-feudal-comunicando-se-com-marcas" linear="yes" />
-      <itemref idref="cidades-o-sistema-feudal-persuadindo-com-marcas" linear="yes" />
-      <itemref idref="cidades-o-sistema-feudal-parada-de-dados" linear="yes" />
       <itemref idref="cidades-o-sistema-feudal-criando-dominios" linear="yes" />
       <itemref idref="cidades-o-sistema-feudal-sangue-e-cacada" linear="yes" />
+      <itemref idref="cidades-o-sistema-feudal-as-marcas-grafite-vampirica" linear="yes" />
+      <itemref idref="cidades-o-sistema-feudal-as-marcas-marcas-e-mecanicas" linear="yes" />
       <itemref idref="cidades-o-sistema-feudal-mapeando-os-territorios" linear="yes" />
-      <itemref idref="cidades-o-sistema-feudal-mistura-de-tipos-de-dominio" linear="yes" />
-      <itemref idref="cidades-o-sistema-feudal-inclua-segredos" linear="yes" />
-      <itemref idref="cidades-o-sistema-feudal-cenas-sociais-quebradas" linear="yes" />
-      <itemref idref="cidades-o-sistema-feudal-atividade-extracurricular" linear="yes" />
-      <itemref idref="cidades-o-sistema-feudal-encontros-de-alcoolicos-anonimos" linear="yes" />
-      <itemref idref="cidades-o-sistema-feudal-instalacao-de-arte" linear="yes" />
-      <itemref idref="cidades-o-sistema-feudal-convencao" linear="yes" />
-      <itemref idref="cidades-o-sistema-feudal-rave-ao-ar-livre-ilegal" linear="yes" />
-      <itemref idref="cidades-o-sistema-feudal-milonga" linear="yes" />
-      <itemref idref="cidades-o-sistema-feudal-jogo-noturno" linear="yes" />
-      <itemref idref="cidades-o-sistema-feudal-protesto" linear="yes" />
-      <itemref idref="cidades-o-sistema-feudal-festival-de-rua" linear="yes" />
-      <itemref idref="cidades-o-sistema-feudal-o-que-esta-acontecendo" linear="yes" />
+      <itemref idref="cidades-o-sistema-feudal-mapeando-os-territorios-mistura-de-tipos-de-dominio" linear="yes" />
+      <itemref idref="cidades-o-sistema-feudal-mapeando-os-territorios-inclua-segredos" linear="yes" />
+      <itemref idref="cidades-o-sistema-feudal-mapeando-os-territorios-cenas-sociais-quebradas" linear="yes" />
+      <itemref idref="cidades-o-sistema-feudal-mapeando-os-territorios-atividade-extracurricular" linear="yes" />
+      <itemref idref="cidades-o-sistema-feudal-mapeando-os-territorios-encontros-de-alcoolicos-anonimos" linear="yes" />
+      <itemref idref="cidades-o-sistema-feudal-mapeando-os-territorios-instalacao-de-arte" linear="yes" />
+      <itemref idref="cidades-o-sistema-feudal-mapeando-os-territorios-convencao" linear="yes" />
+      <itemref idref="cidades-o-sistema-feudal-mapeando-os-territorios-rave-ao-ar-livre-ilegal" linear="yes" />
+      <itemref idref="cidades-o-sistema-feudal-mapeando-os-territorios-milonga" linear="yes" />
+      <itemref idref="cidades-o-sistema-feudal-mapeando-os-territorios-jogo-noturno" linear="yes" />
+      <itemref idref="cidades-o-sistema-feudal-mapeando-os-territorios-protesto" linear="yes" />
+      <itemref idref="cidades-o-sistema-feudal-mapeando-os-territorios-festival-de-rua" linear="yes" />
+      <itemref idref="cidades-o-sistema-feudal-mapeando-os-territorios-o-que-esta-acontecendo" linear="yes" />
       <itemref idref="cidades-atmosfera" linear="yes" />
       <itemref idref="cidades-atmosfera-inicio-rapido-de-cidade" linear="yes" />
       <itemref idref="cidades-atmosfera-parasitismo-vampirico" linear="yes" />

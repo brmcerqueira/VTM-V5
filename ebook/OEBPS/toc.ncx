@@ -3265,7 +3265,7 @@
             <navLabel>
                 <text>SISTEMAS AVANÇADOS</text>
             </navLabel>
-            <content src="sistemas-avancados/cenas-e-modos/index.html" />
+            <content src="sistemas-avancados/index.html" />
             <navPoint id="sistemas-avancados-cenas-e-modos">
                 <navLabel>
                     <text>CENAS E MODOS</text>

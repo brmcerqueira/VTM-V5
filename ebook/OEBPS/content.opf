@@ -641,6 +641,7 @@
          href="disciplinas/alquimia-de-sangue-fraco/nivel-5/despertar-o-adormecido-nivel-5.html"
          media-type="application/xhtml+xml" />
 
+      <item id="sistemas-avancados-index" href="sistemas-avancados/index.html" media-type="application/xhtml+xml" />
       <item id="sistemas-avancados-cenas-e-modos" href="sistemas-avancados/cenas-e-modos/index.html" media-type="application/xhtml+xml" />
       <item id="sistemas-avancados-cenas-e-modos-tipos-de-cenas" href="sistemas-avancados/cenas-e-modos/tipos-de-cenas/index.html" media-type="application/xhtml+xml" />
       <item id="sistemas-avancados-cenas-e-modos-tipos-de-cenas-destaque" href="sistemas-avancados/cenas-e-modos/tipos-de-cenas/destaque.html" media-type="application/xhtml+xml" />
@@ -1226,6 +1227,7 @@
       <itemref idref="disciplinas-alquimia-de-sangue-fraco-nivel-5" linear="yes" />
       <itemref idref="disciplinas-alquimia-de-sangue-fraco-nivel-5-despertar-o-adormecido-nivel-5" linear="yes" />
 
+      <itemref idref="sistemas-avancados-index" linear="yes" />
       <itemref idref="sistemas-avancados-cenas-e-modos" linear="yes" />
       <itemref idref="sistemas-avancados-cenas-e-modos-tipos-de-cenas" linear="yes" />
       <itemref idref="sistemas-avancados-cenas-e-modos-tipos-de-cenas-destaque" linear="yes" />

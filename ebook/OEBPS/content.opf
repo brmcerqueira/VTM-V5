@@ -137,7 +137,6 @@
       <item id="regras-testes-simples-paradas-de-dados" href="regras/testes-simples/paradas-de-dados.html" media-type="application/xhtml+xml" />
       <item id="regras-testes-simples-exemplo" href="regras/testes-simples/exemplo.html" media-type="application/xhtml+xml" />
       <item id="regras-testes-simples-dificuldades" href="regras/testes-simples/dificuldades.html" media-type="application/xhtml+xml" />
-      <item id="regras-testes-simples-" href="regras/testes-simples/.html" media-type="application/xhtml+xml" />
       <item id="regras-testes-simples-resultados-da-parada-de-dados" href="regras/testes-simples/resultados-da-parada-de-dados.html" media-type="application/xhtml+xml" />
       <item id="regras-testes-simples-sucesso-e-falha-de-acordo-com-os-dados" href="regras/testes-simples/sucesso-e-falha-de-acordo-com-os-dados.html" media-type="application/xhtml+xml" />
       <item id="regras-testes-simples-criticos-no-jogo" href="regras/testes-simples/criticos-no-jogo.html" media-type="application/xhtml+xml" />
@@ -324,8 +323,7 @@
       <item id="vampiros-o-que-e-um-vampiro-saciando-a-fome-alimentando-se-de-outros-vampiros" href="vampiros/o-que-e-um-vampiro/saciando-a-fome/alimentando-se-de-outros-vampiros.html" media-type="application/xhtml+xml" />
       <item id="vampiros-o-que-e-um-vampiro-saciando-a-fome-ataques-de-mordida" href="vampiros/o-que-e-um-vampiro/saciando-a-fome/ataques-de-mordida.html" media-type="application/xhtml+xml" />
       <item id="vampiros-o-sangue" href="vampiros/o-sangue/index.html" media-type="application/xhtml+xml" />
-      <item id="vampiros-o-sangue-geracao" href="vampiros/o-sangue/geracao/index.html" media-type="application/xhtml+xml" />
-      <item id="vampiros-o-sangue-geracao-" href="vampiros/o-sangue/geracao/.html" media-type="application/xhtml+xml" />
+      <item id="vampiros-o-sangue-geracao" href="vampiros/o-sangue/geracao.html" media-type="application/xhtml+xml" />
       <item id="vampiros-o-sangue-os-dons-do-sangue" href="vampiros/o-sangue/os-dons-do-sangue/index.html" media-type="application/xhtml+xml" />
       <item id="vampiros-o-sangue-os-dons-do-sangue-rubor-da-vida-blush-of-life" href="vampiros/o-sangue/os-dons-do-sangue/rubor-da-vida-blush-of-life.html" media-type="application/xhtml+xml" />
       <item id="vampiros-o-sangue-os-dons-do-sangue-surto-de-sangue-blood-surge" href="vampiros/o-sangue/os-dons-do-sangue/surto-de-sangue-blood-surge.html" media-type="application/xhtml+xml" />
@@ -995,7 +993,6 @@
       <itemref idref="regras-testes-simples-paradas-de-dados" linear="yes" />
       <itemref idref="regras-testes-simples-exemplo" linear="yes" />
       <itemref idref="regras-testes-simples-dificuldades" linear="yes" />
-      <itemref idref="regras-testes-simples-" linear="yes" />
       <itemref idref="regras-testes-simples-resultados-da-parada-de-dados" linear="yes" />
       <itemref idref="regras-testes-simples-sucesso-e-falha-de-acordo-com-os-dados" linear="yes" />
       <itemref idref="regras-testes-simples-criticos-no-jogo" linear="yes" />
@@ -1183,7 +1180,6 @@
       <itemref idref="vampiros-o-que-e-um-vampiro-saciando-a-fome-ataques-de-mordida" linear="yes" />
       <itemref idref="vampiros-o-sangue" linear="yes" />
       <itemref idref="vampiros-o-sangue-geracao" linear="yes" />
-      <itemref idref="vampiros-o-sangue-geracao-" linear="yes" />
       <itemref idref="vampiros-o-sangue-os-dons-do-sangue" linear="yes" />
       <itemref idref="vampiros-o-sangue-os-dons-do-sangue-rubor-da-vida-blush-of-life" linear="yes" />
       <itemref idref="vampiros-o-sangue-os-dons-do-sangue-surto-de-sangue-blood-surge" linear="yes" />

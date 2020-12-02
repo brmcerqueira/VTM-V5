@@ -709,12 +709,6 @@
                     </navLabel>
                     <content src="regras/testes-simples/dificuldades.html" />
                 </navPoint>
-                <navPoint id="regras-testes-simples-">
-                    <navLabel>
-                        <text></text>
-                    </navLabel>
-                    <content src="regras/testes-simples/.html" />
-                </navPoint>
                 <navPoint id="regras-testes-simples-resultados-da-parada-de-dados">
                     <navLabel>
                         <text>RESULTADOS DA PARADA DE DADOS</text>
@@ -1876,13 +1870,7 @@
                     <navLabel>
                         <text>GERAÇÃO</text>
                     </navLabel>
-                    <content src="vampiros/o-sangue/geracao/index.html" />
-                    <navPoint id="vampiros-o-sangue-geracao-">
-                        <navLabel>
-                            <text></text>
-                        </navLabel>
-                        <content src="vampiros/o-sangue/geracao/.html" />
-                    </navPoint>
+                    <content src="vampiros/o-sangue/geracao.html" />
                 </navPoint>
                 <navPoint id="vampiros-o-sangue-os-dons-do-sangue">
                     <navLabel>

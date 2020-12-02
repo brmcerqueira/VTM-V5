@@ -72,7 +72,8 @@ for (const p of doc.querySelectorAll("*")) {
             .replaceAll(',', '')
             .replaceAll('’', '')
             .replaceAll('“', '')
-            .replaceAll('”', ''),         
+            .replaceAll('”', '')
+            .replaceAll('/', ''),                    
             content: "",
             depth: depth,
             childrens: []

@@ -3261,5 +3261,332 @@
                 </navPoint>
             </navPoint>
         </navPoint>
+        <navPoint id="sistemas-avancados">
+            <navLabel>
+                <text>SISTEMAS AVANÇADOS</text>
+            </navLabel>
+            <content src="sistemas-avancados/cenas-e-modos/index.html" />
+            <navPoint id="sistemas-avancados-cenas-e-modos">
+                <navLabel>
+                    <text>CENAS E MODOS</text>
+                </navLabel>
+                <content src="sistemas-avancados/cenas-e-modos/index.html" />
+                <navPoint id="sistemas-avancados-cenas-e-modos-tipos-de-cenas">
+                    <navLabel>
+                        <text>TIPOS DE CENAS</text>
+                    </navLabel>
+                    <content src="sistemas-avancados/cenas-e-modos/tipos-de-cenas/index.html" />
+                    <navPoint id="sistemas-avancados-cenas-e-modos-tipos-de-cenas-destaque">
+                        <navLabel>
+                            <text>DESTAQUE</text>
+                        </navLabel>
+                        <content src="sistemas-avancados/cenas-e-modos/tipos-de-cenas/destaque.html" />
+                    </navPoint>
+                    <navPoint id="sistemas-avancados-cenas-e-modos-tipos-de-cenas-abstraida">
+                        <navLabel>
+                            <text>ABSTRAÍDA</text>
+                        </navLabel>
+                        <content src="sistemas-avancados/cenas-e-modos/tipos-de-cenas/abstraida.html" />
+                    </navPoint>
+                    <navPoint id="sistemas-avancados-cenas-e-modos-tipos-de-cenas-tempo-de-inatividade">
+                        <navLabel>
+                            <text>TEMPO DE INATIVIDADE</text>
+                        </navLabel>
+                        <content src="sistemas-avancados/cenas-e-modos/tipos-de-cenas/tempo-de-inatividade.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="sistemas-avancados-cenas-e-modos-modos-de-jogo">
+                    <navLabel>
+                        <text>MODOS DE JOGO</text>
+                    </navLabel>
+                    <content src="sistemas-avancados/cenas-e-modos/modos-de-jogo/index.html" />
+                    <navPoint id="sistemas-avancados-cenas-e-modos-modos-de-jogo-improvisado">
+                        <navLabel>
+                            <text>IMPROVISADO</text>
+                        </navLabel>
+                        <content src="sistemas-avancados/cenas-e-modos/modos-de-jogo/improvisado.html" />
+                    </navPoint>
+                    <navPoint id="sistemas-avancados-cenas-e-modos-modos-de-jogo-improvisado-dirigido">
+                        <navLabel>
+                            <text>IMPROVISADO DIRIGIDO</text>
+                        </navLabel>
+                        <content src="sistemas-avancados/cenas-e-modos/modos-de-jogo/improvisado-dirigido.html" />
+                    </navPoint>
+                    <navPoint id="sistemas-avancados-cenas-e-modos-modos-de-jogo-improvisado-pontuado">
+                        <navLabel>
+                            <text>IMPROVISADO PONTUADO</text>
+                        </navLabel>
+                        <content src="sistemas-avancados/cenas-e-modos/modos-de-jogo/improvisado-pontuado.html" />
+                    </navPoint>
+                    <navPoint id="sistemas-avancados-cenas-e-modos-modos-de-jogo-detalhado-de-dados">
+                        <navLabel>
+                            <text>DETALHADO DE DADOS</text>
+                        </navLabel>
+                        <content src="sistemas-avancados/cenas-e-modos/modos-de-jogo/detalhado-de-dados.html" />
+                    </navPoint>
+                </navPoint>
+            </navPoint>
+            <navPoint id="sistemas-avancados-testes-estendidos">
+                <navLabel>
+                    <text>TESTES ESTENDIDOS</text>
+                </navLabel>
+                <content src="sistemas-avancados/testes-estendidos/index.html" />
+                <navPoint id="sistemas-avancados-testes-estendidos-versoes-de-testes-estendidos">
+                    <navLabel>
+                        <text>VERSÕES DE TESTES ESTENDIDOS</text>
+                    </navLabel>
+                    <content src="sistemas-avancados/testes-estendidos/versoes-de-testes-estendidos.html" />
+                </navPoint>
+            </navPoint>
+            <navPoint id="sistemas-avancados-conflitos-avancados">
+                <navLabel>
+                    <text>CONFLITOS AVANÇADOS</text>
+                </navLabel>
+                <content src="sistemas-avancados/conflitos-avancados/index.html" />
+                <navPoint id="sistemas-avancados-conflitos-avancados-tres-dois-feito">
+                    <navLabel>
+                        <text>TRÊS, DOIS, FEITO</text>
+                    </navLabel>
+                    <content src="sistemas-avancados/conflitos-avancados/tres-dois-feito/index.html" />
+                    <navPoint id="sistemas-avancados-conflitos-avancados-tres-dois-feito-concessoes">
+                        <navLabel>
+                            <text>CONCESSÕES</text>
+                        </navLabel>
+                        <content src="sistemas-avancados/conflitos-avancados/tres-dois-feito/concessoes.html" />
+                    </navPoint>
+                    <navPoint id="sistemas-avancados-conflitos-avancados-tres-dois-feito-somente-um-teste">
+                        <navLabel>
+                            <text>SOMENTE UM TESTE</text>
+                        </navLabel>
+                        <content src="sistemas-avancados/conflitos-avancados/tres-dois-feito/somente-um-teste.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="sistemas-avancados-conflitos-avancados-opcoes-de-conflitos-adicionais">
+                    <navLabel>
+                        <text>OPÇÕES DE CONFLITOS ADICIONAIS</text>
+                    </navLabel>
+                    <content src="sistemas-avancados/conflitos-avancados/opcoes-de-conflitos-adicionais/index.html" />
+                    <navPoint id="sistemas-avancados-conflitos-avancados-opcoes-de-conflitos-adicionais-avanco">
+                        <navLabel>
+                            <text>AVANÇO</text>
+                        </navLabel>
+                        <content src="sistemas-avancados/conflitos-avancados/opcoes-de-conflitos-adicionais/avanco.html" />
+                    </navPoint>
+                    <navPoint id="sistemas-avancados-conflitos-avancados-opcoes-de-conflitos-adicionais-manobra">
+                        <navLabel>
+                            <text>MANOBRA</text>
+                        </navLabel>
+                        <content src="sistemas-avancados/conflitos-avancados/opcoes-de-conflitos-adicionais/manobra.html" />
+                    </navPoint>
+                    <navPoint id="sistemas-avancados-conflitos-avancados-opcoes-de-conflitos-adicionais-bloquear">
+                        <navLabel>
+                            <text>BLOQUEAR</text>
+                        </navLabel>
+                        <content src="sistemas-avancados/conflitos-avancados/opcoes-de-conflitos-adicionais/bloquear.html" />
+                    </navPoint>
+                    <navPoint id="sistemas-avancados-conflitos-avancados-opcoes-de-conflitos-adicionais-ataque-total">
+                        <navLabel>
+                            <text>ATAQUE TOTAL</text>
+                        </navLabel>
+                        <content src="sistemas-avancados/conflitos-avancados/opcoes-de-conflitos-adicionais/ataque-total.html" />
+                    </navPoint>
+                    <navPoint id="sistemas-avancados-conflitos-avancados-opcoes-de-conflitos-adicionais-defesa-total">
+                        <navLabel>
+                            <text>DEFESA TOTAL</text>
+                        </navLabel>
+                        <content src="sistemas-avancados/conflitos-avancados/opcoes-de-conflitos-adicionais/defesa-total.html" />
+                    </navPoint>
+                    <navPoint id="sistemas-avancados-conflitos-avancados-opcoes-de-conflitos-adicionais-acoes-menores">
+                        <navLabel>
+                            <text>AÇÕES MENORES</text>
+                        </navLabel>
+                        <content src="sistemas-avancados/conflitos-avancados/opcoes-de-conflitos-adicionais/acoes-menores.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="sistemas-avancados-conflitos-avancados-deslocamento-nos-conflitos">
+                    <navLabel>
+                        <text>DESLOCAMENTO NOS CONFLITOS</text>
+                    </navLabel>
+                    <content src="sistemas-avancados/conflitos-avancados/deslocamento-nos-conflitos.html" />
+                </navPoint>
+                <navPoint id="sistemas-avancados-conflitos-avancados-conflitos-em-um-teste">
+                    <navLabel>
+                        <text>CONFLITOS EM UM TESTE</text>
+                    </navLabel>
+                    <content src="sistemas-avancados/conflitos-avancados/conflitos-em-um-teste.html" />
+                </navPoint>
+                <navPoint id="sistemas-avancados-conflitos-avancados-conflito-avancado-combate-fisico">
+                    <navLabel>
+                        <text>CONFLITO AVANÇADO: COMBATE FÍSICO</text>
+                    </navLabel>
+                    <content src="sistemas-avancados/conflitos-avancados/conflito-avancado-combate-fisico/index.html" />
+                    <navPoint id="sistemas-avancados-conflitos-avancados-conflito-avancado-combate-fisico-quem-vai-primeiro">
+                        <navLabel>
+                            <text>QUEM VAI PRIMEIRO?</text>
+                        </navLabel>
+                        <content
+                            src="sistemas-avancados/conflitos-avancados/conflito-avancado-combate-fisico/quem-vai-primeiro.html" />
+                    </navPoint>
+                    <navPoint id="sistemas-avancados-conflitos-avancados-conflito-avancado-combate-fisico-ataques-surpresa">
+                        <navLabel>
+                            <text>ATAQUES SURPRESA</text>
+                        </navLabel>
+                        <content
+                            src="sistemas-avancados/conflitos-avancados/conflito-avancado-combate-fisico/ataques-surpresa.html" />
+                    </navPoint>
+                    <navPoint id="sistemas-avancados-conflitos-avancados-conflito-avancado-combate-fisico-combate-proximo">
+                        <navLabel>
+                            <text>COMBATE PRÓXIMO</text>
+                        </navLabel>
+                        <content
+                            src="sistemas-avancados/conflitos-avancados/conflito-avancado-combate-fisico/combate-proximo.html" />
+                    </navPoint>
+                    <navPoint id="sistemas-avancados-conflitos-avancados-conflito-avancado-combate-fisico-combate-a-distancia">
+                        <navLabel>
+                            <text>COMBATE À DISTÂNCIA</text>
+                        </navLabel>
+                        <content
+                            src="sistemas-avancados/conflitos-avancados/conflito-avancado-combate-fisico/combate-a-distancia.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="sistemas-avancados-conflitos-avancados-conflito-avancado-combate-social">
+                    <navLabel>
+                        <text>CONFLITO AVANÇADO: COMBATE SOCIAL</text>
+                    </navLabel>
+                    <content src="sistemas-avancados/conflitos-avancados/conflito-avancado-combate-social/index.html" />
+                    <navPoint
+                        id="sistemas-avancados-conflitos-avancados-conflito-avancado-combate-social-parada-de-conflito-social">
+                        <navLabel>
+                            <text>PARADA DE CONFLITO SOCIAL</text>
+                        </navLabel>
+                        <content
+                            src="sistemas-avancados/conflitos-avancados/conflito-avancado-combate-social/parada-de-conflito-social.html" />
+                    </navPoint>
+                    <navPoint id="sistemas-avancados-conflitos-avancados-conflito-avancado-combate-social-facas-no-sorriso">
+                        <navLabel>
+                            <text>FACAS NO SORRISO</text>
+                        </navLabel>
+                        <content
+                            src="sistemas-avancados/conflitos-avancados/conflito-avancado-combate-social/facas-no-sorriso.html" />
+                    </navPoint>
+                    <navPoint id="sistemas-avancados-conflitos-avancados-conflito-avancado-combate-social-tempo-e-o-combate-social">
+                        <navLabel>
+                            <text>TEMPO E O COMBATE SOCIAL</text>
+                        </navLabel>
+                        <content
+                            src="sistemas-avancados/conflitos-avancados/conflito-avancado-combate-social/tempo-e-o-combate-social.html" />
+                    </navPoint>
+                    <navPoint
+                        id="sistemas-avancados-conflitos-avancados-conflito-avancado-combate-social-vencendo-o-combate-social">
+                        <navLabel>
+                            <text>VENCENDO O COMBATE SOCIAL</text>
+                        </navLabel>
+                        <content
+                            src="sistemas-avancados/conflitos-avancados/conflito-avancado-combate-social/vencendo-o-combate-social.html" />
+                    </navPoint>
+                </navPoint>
+            </navPoint>
+            <navPoint id="sistemas-avancados-sistemas-do-sangue">
+                <navLabel>
+                    <text>SISTEMAS DO SANGUE</text>
+                </navLabel>
+                <content src="sistemas-avancados/sistemas-do-sangue/index.html" />
+                <navPoint id="sistemas-avancados-sistemas-do-sangue-cacando">
+                    <navLabel>
+                        <text>CAÇANDO</text>
+                    </navLabel>
+                    <content src="sistemas-avancados/sistemas-do-sangue/cacando/index.html" />
+                    <navPoint id="sistemas-avancados-sistemas-do-sangue-cacando-paradas-dados-do-predador">
+                        <navLabel>
+                            <text>PARADAS DADOS DO PREDADOR</text>
+                        </navLabel>
+                        <content src="sistemas-avancados/sistemas-do-sangue/cacando/paradas-dados-do-predador.html" />
+                    </navPoint>
+                    <navPoint id="sistemas-avancados-sistemas-do-sangue-cacando-campos-de-caca">
+                        <navLabel>
+                            <text>CAMPOS DE CAÇA</text>
+                        </navLabel>
+                        <content src="sistemas-avancados/sistemas-do-sangue/cacando/campos-de-caca.html" />
+                    </navPoint>
+                    <navPoint id="sistemas-avancados-sistemas-do-sangue-cacando-roubando-uma-caca">
+                        <navLabel>
+                            <text>ROUBANDO UMA CAÇA</text>
+                        </navLabel>
+                        <content src="sistemas-avancados/sistemas-do-sangue/cacando/roubando-uma-caca.html" />
+                    </navPoint>
+                </navPoint>
+                <navPoint id="sistemas-avancados-sistemas-do-sangue-intimidade-entre-os-membros">
+                    <navLabel>
+                        <text>INTIMIDADE ENTRE OS MEMBROS</text>
+                    </navLabel>
+                    <content src="sistemas-avancados/sistemas-do-sangue/intimidade-entre-os-membros/index.html" />
+                    <navPoint id="sistemas-avancados-sistemas-do-sangue-intimidade-entre-os-membros-sangue-contaminado">
+                        <navLabel>
+                            <text>SANGUE CONTAMINADO</text>
+                        </navLabel>
+                        <content src="sistemas-avancados/sistemas-do-sangue/intimidade-entre-os-membros/sangue-contaminado.html" />
+                    </navPoint>
+                    <navPoint id="sistemas-avancados-sistemas-do-sangue-intimidade-entre-os-membros-compulsoes-variantes">
+                        <navLabel>
+                            <text>COMPULSÕES VARIANTES</text>
+                        </navLabel>
+                        <content
+                            src="sistemas-avancados/sistemas-do-sangue/intimidade-entre-os-membros/compulsoes-variantes.html" />
+                    </navPoint>
+                    <navPoint id="sistemas-avancados-sistemas-do-sangue-intimidade-entre-os-membros-compulsoes-ocultas">
+                        <navLabel>
+                            <text>COMPULSÕES OCULTAS</text>
+                        </navLabel>
+                        <content src="sistemas-avancados/sistemas-do-sangue/intimidade-entre-os-membros/compulsoes-ocultas.html" />
+                    </navPoint>
+                    <navPoint id="sistemas-avancados-sistemas-do-sangue-intimidade-entre-os-membros-memoriam">
+                        <navLabel>
+                            <text>MEMORIAM</text>
+                        </navLabel>
+                        <content src="sistemas-avancados/sistemas-do-sangue/intimidade-entre-os-membros/memoriam.html" />
+                    </navPoint>
+                    <navPoint id="sistemas-avancados-sistemas-do-sangue-intimidade-entre-os-membros-entrando-na-memoriam">
+                        <navLabel>
+                            <text>ENTRANDO NA MEMORIAM</text>
+                        </navLabel>
+                        <content
+                            src="sistemas-avancados/sistemas-do-sangue/intimidade-entre-os-membros/entrando-na-memoriam.html" />
+                    </navPoint>
+                    <navPoint id="sistemas-avancados-sistemas-do-sangue-intimidade-entre-os-membros-memoriam-e-estatisticas">
+                        <navLabel>
+                            <text>MEMORIAM E ESTATÍSTICAS</text>
+                        </navLabel>
+                        <content
+                            src="sistemas-avancados/sistemas-do-sangue/intimidade-entre-os-membros/memoriam-e-estatisticas.html" />
+                    </navPoint>
+                    <navPoint id="sistemas-avancados-sistemas-do-sangue-intimidade-entre-os-membros-administrando-a-memoriam">
+                        <navLabel>
+                            <text>ADMINISTRANDO A MEMORIAM</text>
+                        </navLabel>
+                        <content
+                            src="sistemas-avancados/sistemas-do-sangue/intimidade-entre-os-membros/administrando-a-memoriam.html" />
+                    </navPoint>
+                    <navPoint id="sistemas-avancados-sistemas-do-sangue-intimidade-entre-os-membros-apos-a-memoriam">
+                        <navLabel>
+                            <text>APÓS A MEMORIAM</text>
+                        </navLabel>
+                        <content src="sistemas-avancados/sistemas-do-sangue/intimidade-entre-os-membros/apos-a-memoriam.html" />
+                    </navPoint>
+                    <navPoint id="sistemas-avancados-sistemas-do-sangue-intimidade-entre-os-membros-prestacao">
+                        <navLabel>
+                            <text>PRESTAÇÃO</text>
+                        </navLabel>
+                        <content src="sistemas-avancados/sistemas-do-sangue/intimidade-entre-os-membros/prestacao.html" />
+                    </navPoint>
+                    <navPoint id="sistemas-avancados-sistemas-do-sangue-intimidade-entre-os-membros-obtendo-e-utilizando-bencaos">
+                        <navLabel>
+                            <text>OBTENDO E UTILIZANDO BENÇÃOS</text>
+                        </navLabel>
+                        <content
+                            src="sistemas-avancados/sistemas-do-sangue/intimidade-entre-os-membros/obtendo-e-utilizando-bencaos.html" />
+                    </navPoint>
+                </navPoint>
+            </navPoint>            
+        </navPoint>
     </navMap>
 </ncx>

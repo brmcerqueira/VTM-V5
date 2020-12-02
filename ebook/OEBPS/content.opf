@@ -641,6 +641,58 @@
          href="disciplinas/alquimia-de-sangue-fraco/nivel-5/despertar-o-adormecido-nivel-5.html"
          media-type="application/xhtml+xml" />
 
+      <item id="sistemas-avancados-cenas-e-modos" href="sistemas-avancados/cenas-e-modos/index.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-cenas-e-modos-tipos-de-cenas" href="sistemas-avancados/cenas-e-modos/tipos-de-cenas/index.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-cenas-e-modos-tipos-de-cenas-destaque" href="sistemas-avancados/cenas-e-modos/tipos-de-cenas/destaque.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-cenas-e-modos-tipos-de-cenas-abstraida" href="sistemas-avancados/cenas-e-modos/tipos-de-cenas/abstraida.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-cenas-e-modos-tipos-de-cenas-tempo-de-inatividade" href="sistemas-avancados/cenas-e-modos/tipos-de-cenas/tempo-de-inatividade.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-cenas-e-modos-modos-de-jogo" href="sistemas-avancados/cenas-e-modos/modos-de-jogo/index.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-cenas-e-modos-modos-de-jogo-improvisado" href="sistemas-avancados/cenas-e-modos/modos-de-jogo/improvisado.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-cenas-e-modos-modos-de-jogo-improvisado-dirigido" href="sistemas-avancados/cenas-e-modos/modos-de-jogo/improvisado-dirigido.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-cenas-e-modos-modos-de-jogo-improvisado-pontuado" href="sistemas-avancados/cenas-e-modos/modos-de-jogo/improvisado-pontuado.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-cenas-e-modos-modos-de-jogo-detalhado-de-dados" href="sistemas-avancados/cenas-e-modos/modos-de-jogo/detalhado-de-dados.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-testes-estendidos" href="sistemas-avancados/testes-estendidos/index.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-testes-estendidos-versoes-de-testes-estendidos" href="sistemas-avancados/testes-estendidos/versoes-de-testes-estendidos.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-conflitos-avancados" href="sistemas-avancados/conflitos-avancados/index.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-conflitos-avancados-tres-dois-feito" href="sistemas-avancados/conflitos-avancados/tres-dois-feito/index.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-conflitos-avancados-tres-dois-feito-concessoes" href="sistemas-avancados/conflitos-avancados/tres-dois-feito/concessoes.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-conflitos-avancados-tres-dois-feito-somente-um-teste" href="sistemas-avancados/conflitos-avancados/tres-dois-feito/somente-um-teste.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-conflitos-avancados-opcoes-de-conflitos-adicionais" href="sistemas-avancados/conflitos-avancados/opcoes-de-conflitos-adicionais/index.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-conflitos-avancados-opcoes-de-conflitos-adicionais-avanco" href="sistemas-avancados/conflitos-avancados/opcoes-de-conflitos-adicionais/avanco.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-conflitos-avancados-opcoes-de-conflitos-adicionais-manobra" href="sistemas-avancados/conflitos-avancados/opcoes-de-conflitos-adicionais/manobra.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-conflitos-avancados-opcoes-de-conflitos-adicionais-bloquear" href="sistemas-avancados/conflitos-avancados/opcoes-de-conflitos-adicionais/bloquear.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-conflitos-avancados-opcoes-de-conflitos-adicionais-ataque-total" href="sistemas-avancados/conflitos-avancados/opcoes-de-conflitos-adicionais/ataque-total.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-conflitos-avancados-opcoes-de-conflitos-adicionais-defesa-total" href="sistemas-avancados/conflitos-avancados/opcoes-de-conflitos-adicionais/defesa-total.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-conflitos-avancados-opcoes-de-conflitos-adicionais-acoes-menores" href="sistemas-avancados/conflitos-avancados/opcoes-de-conflitos-adicionais/acoes-menores.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-conflitos-avancados-deslocamento-nos-conflitos" href="sistemas-avancados/conflitos-avancados/deslocamento-nos-conflitos.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-conflitos-avancados-conflitos-em-um-teste" href="sistemas-avancados/conflitos-avancados/conflitos-em-um-teste.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-conflitos-avancados-conflito-avancado-combate-fisico" href="sistemas-avancados/conflitos-avancados/conflito-avancado-combate-fisico/index.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-conflitos-avancados-conflito-avancado-combate-fisico-quem-vai-primeiro" href="sistemas-avancados/conflitos-avancados/conflito-avancado-combate-fisico/quem-vai-primeiro.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-conflitos-avancados-conflito-avancado-combate-fisico-ataques-surpresa" href="sistemas-avancados/conflitos-avancados/conflito-avancado-combate-fisico/ataques-surpresa.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-conflitos-avancados-conflito-avancado-combate-fisico-combate-proximo" href="sistemas-avancados/conflitos-avancados/conflito-avancado-combate-fisico/combate-proximo.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-conflitos-avancados-conflito-avancado-combate-fisico-combate-a-distancia" href="sistemas-avancados/conflitos-avancados/conflito-avancado-combate-fisico/combate-a-distancia.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-conflitos-avancados-conflito-avancado-combate-social" href="sistemas-avancados/conflitos-avancados/conflito-avancado-combate-social/index.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-conflitos-avancados-conflito-avancado-combate-social-parada-de-conflito-social" href="sistemas-avancados/conflitos-avancados/conflito-avancado-combate-social/parada-de-conflito-social.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-conflitos-avancados-conflito-avancado-combate-social-facas-no-sorriso" href="sistemas-avancados/conflitos-avancados/conflito-avancado-combate-social/facas-no-sorriso.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-conflitos-avancados-conflito-avancado-combate-social-tempo-e-o-combate-social" href="sistemas-avancados/conflitos-avancados/conflito-avancado-combate-social/tempo-e-o-combate-social.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-conflitos-avancados-conflito-avancado-combate-social-vencendo-o-combate-social" href="sistemas-avancados/conflitos-avancados/conflito-avancado-combate-social/vencendo-o-combate-social.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-sistemas-do-sangue" href="sistemas-avancados/sistemas-do-sangue/index.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-sistemas-do-sangue-cacando" href="sistemas-avancados/sistemas-do-sangue/cacando/index.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-sistemas-do-sangue-cacando-paradas-dados-do-predador" href="sistemas-avancados/sistemas-do-sangue/cacando/paradas-dados-do-predador.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-sistemas-do-sangue-cacando-campos-de-caca" href="sistemas-avancados/sistemas-do-sangue/cacando/campos-de-caca.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-sistemas-do-sangue-cacando-roubando-uma-caca" href="sistemas-avancados/sistemas-do-sangue/cacando/roubando-uma-caca.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-sistemas-do-sangue-intimidade-entre-os-membros" href="sistemas-avancados/sistemas-do-sangue/intimidade-entre-os-membros/index.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-sistemas-do-sangue-intimidade-entre-os-membros-sangue-contaminado" href="sistemas-avancados/sistemas-do-sangue/intimidade-entre-os-membros/sangue-contaminado.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-sistemas-do-sangue-intimidade-entre-os-membros-compulsoes-variantes" href="sistemas-avancados/sistemas-do-sangue/intimidade-entre-os-membros/compulsoes-variantes.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-sistemas-do-sangue-intimidade-entre-os-membros-compulsoes-ocultas" href="sistemas-avancados/sistemas-do-sangue/intimidade-entre-os-membros/compulsoes-ocultas.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-sistemas-do-sangue-intimidade-entre-os-membros-memoriam" href="sistemas-avancados/sistemas-do-sangue/intimidade-entre-os-membros/memoriam.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-sistemas-do-sangue-intimidade-entre-os-membros-entrando-na-memoriam" href="sistemas-avancados/sistemas-do-sangue/intimidade-entre-os-membros/entrando-na-memoriam.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-sistemas-do-sangue-intimidade-entre-os-membros-memoriam-e-estatisticas" href="sistemas-avancados/sistemas-do-sangue/intimidade-entre-os-membros/memoriam-e-estatisticas.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-sistemas-do-sangue-intimidade-entre-os-membros-administrando-a-memoriam" href="sistemas-avancados/sistemas-do-sangue/intimidade-entre-os-membros/administrando-a-memoriam.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-sistemas-do-sangue-intimidade-entre-os-membros-apos-a-memoriam" href="sistemas-avancados/sistemas-do-sangue/intimidade-entre-os-membros/apos-a-memoriam.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-sistemas-do-sangue-intimidade-entre-os-membros-prestacao" href="sistemas-avancados/sistemas-do-sangue/intimidade-entre-os-membros/prestacao.html" media-type="application/xhtml+xml" />
+      <item id="sistemas-avancados-sistemas-do-sangue-intimidade-entre-os-membros-obtendo-e-utilizando-bencaos" href="sistemas-avancados/sistemas-do-sangue/intimidade-entre-os-membros/obtendo-e-utilizando-bencaos.html" media-type="application/xhtml+xml" />
+
       <!-- CSS Style Sheets -->
       <item id="main-css" href="style.css" media-type="text/css" />
 
@@ -1136,5 +1188,57 @@
       <itemref idref="disciplinas-alquimia-de-sangue-fraco-nivel-4-impulso-aereo-nivel-4" linear="yes" />
       <itemref idref="disciplinas-alquimia-de-sangue-fraco-nivel-5" linear="yes" />
       <itemref idref="disciplinas-alquimia-de-sangue-fraco-nivel-5-despertar-o-adormecido-nivel-5" linear="yes" />
+
+      <itemref idref="sistemas-avancados-cenas-e-modos" linear="yes" />
+      <itemref idref="sistemas-avancados-cenas-e-modos-tipos-de-cenas" linear="yes" />
+      <itemref idref="sistemas-avancados-cenas-e-modos-tipos-de-cenas-destaque" linear="yes" />
+      <itemref idref="sistemas-avancados-cenas-e-modos-tipos-de-cenas-abstraida" linear="yes" />
+      <itemref idref="sistemas-avancados-cenas-e-modos-tipos-de-cenas-tempo-de-inatividade" linear="yes" />
+      <itemref idref="sistemas-avancados-cenas-e-modos-modos-de-jogo" linear="yes" />
+      <itemref idref="sistemas-avancados-cenas-e-modos-modos-de-jogo-improvisado" linear="yes" />
+      <itemref idref="sistemas-avancados-cenas-e-modos-modos-de-jogo-improvisado-dirigido" linear="yes" />
+      <itemref idref="sistemas-avancados-cenas-e-modos-modos-de-jogo-improvisado-pontuado" linear="yes" />
+      <itemref idref="sistemas-avancados-cenas-e-modos-modos-de-jogo-detalhado-de-dados" linear="yes" />
+      <itemref idref="sistemas-avancados-testes-estendidos" linear="yes" />
+      <itemref idref="sistemas-avancados-testes-estendidos-versoes-de-testes-estendidos" linear="yes" />
+      <itemref idref="sistemas-avancados-conflitos-avancados" linear="yes" />
+      <itemref idref="sistemas-avancados-conflitos-avancados-tres-dois-feito" linear="yes" />
+      <itemref idref="sistemas-avancados-conflitos-avancados-tres-dois-feito-concessoes" linear="yes" />
+      <itemref idref="sistemas-avancados-conflitos-avancados-tres-dois-feito-somente-um-teste" linear="yes" />
+      <itemref idref="sistemas-avancados-conflitos-avancados-opcoes-de-conflitos-adicionais" linear="yes" />
+      <itemref idref="sistemas-avancados-conflitos-avancados-opcoes-de-conflitos-adicionais-avanco" linear="yes" />
+      <itemref idref="sistemas-avancados-conflitos-avancados-opcoes-de-conflitos-adicionais-manobra" linear="yes" />
+      <itemref idref="sistemas-avancados-conflitos-avancados-opcoes-de-conflitos-adicionais-bloquear" linear="yes" />
+      <itemref idref="sistemas-avancados-conflitos-avancados-opcoes-de-conflitos-adicionais-ataque-total" linear="yes" />
+      <itemref idref="sistemas-avancados-conflitos-avancados-opcoes-de-conflitos-adicionais-defesa-total" linear="yes" />
+      <itemref idref="sistemas-avancados-conflitos-avancados-opcoes-de-conflitos-adicionais-acoes-menores" linear="yes" />
+      <itemref idref="sistemas-avancados-conflitos-avancados-deslocamento-nos-conflitos" linear="yes" />
+      <itemref idref="sistemas-avancados-conflitos-avancados-conflitos-em-um-teste" linear="yes" />
+      <itemref idref="sistemas-avancados-conflitos-avancados-conflito-avancado-combate-fisico" linear="yes" />
+      <itemref idref="sistemas-avancados-conflitos-avancados-conflito-avancado-combate-fisico-quem-vai-primeiro" linear="yes" />
+      <itemref idref="sistemas-avancados-conflitos-avancados-conflito-avancado-combate-fisico-ataques-surpresa" linear="yes" />
+      <itemref idref="sistemas-avancados-conflitos-avancados-conflito-avancado-combate-fisico-combate-proximo" linear="yes" />
+      <itemref idref="sistemas-avancados-conflitos-avancados-conflito-avancado-combate-fisico-combate-a-distancia" linear="yes" />
+      <itemref idref="sistemas-avancados-conflitos-avancados-conflito-avancado-combate-social" linear="yes" />
+      <itemref idref="sistemas-avancados-conflitos-avancados-conflito-avancado-combate-social-parada-de-conflito-social" linear="yes" />
+      <itemref idref="sistemas-avancados-conflitos-avancados-conflito-avancado-combate-social-facas-no-sorriso" linear="yes" />
+      <itemref idref="sistemas-avancados-conflitos-avancados-conflito-avancado-combate-social-tempo-e-o-combate-social" linear="yes" />
+      <itemref idref="sistemas-avancados-conflitos-avancados-conflito-avancado-combate-social-vencendo-o-combate-social" linear="yes" />
+      <itemref idref="sistemas-avancados-sistemas-do-sangue" linear="yes" />
+      <itemref idref="sistemas-avancados-sistemas-do-sangue-cacando" linear="yes" />
+      <itemref idref="sistemas-avancados-sistemas-do-sangue-cacando-paradas-dados-do-predador" linear="yes" />
+      <itemref idref="sistemas-avancados-sistemas-do-sangue-cacando-campos-de-caca" linear="yes" />
+      <itemref idref="sistemas-avancados-sistemas-do-sangue-cacando-roubando-uma-caca" linear="yes" />
+      <itemref idref="sistemas-avancados-sistemas-do-sangue-intimidade-entre-os-membros" linear="yes" />
+      <itemref idref="sistemas-avancados-sistemas-do-sangue-intimidade-entre-os-membros-sangue-contaminado" linear="yes" />
+      <itemref idref="sistemas-avancados-sistemas-do-sangue-intimidade-entre-os-membros-compulsoes-variantes" linear="yes" />
+      <itemref idref="sistemas-avancados-sistemas-do-sangue-intimidade-entre-os-membros-compulsoes-ocultas" linear="yes" />
+      <itemref idref="sistemas-avancados-sistemas-do-sangue-intimidade-entre-os-membros-memoriam" linear="yes" />
+      <itemref idref="sistemas-avancados-sistemas-do-sangue-intimidade-entre-os-membros-entrando-na-memoriam" linear="yes" />
+      <itemref idref="sistemas-avancados-sistemas-do-sangue-intimidade-entre-os-membros-memoriam-e-estatisticas" linear="yes" />
+      <itemref idref="sistemas-avancados-sistemas-do-sangue-intimidade-entre-os-membros-administrando-a-memoriam" linear="yes" />
+      <itemref idref="sistemas-avancados-sistemas-do-sangue-intimidade-entre-os-membros-apos-a-memoriam" linear="yes" />
+      <itemref idref="sistemas-avancados-sistemas-do-sangue-intimidade-entre-os-membros-prestacao" linear="yes" />
+      <itemref idref="sistemas-avancados-sistemas-do-sangue-intimidade-entre-os-membros-obtendo-e-utilizando-bencaos" linear="yes" />
    </spine>
 </package>

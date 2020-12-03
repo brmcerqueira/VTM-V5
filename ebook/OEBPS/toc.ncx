@@ -1386,6 +1386,12 @@
                         </navLabel>
                         <content src="criacao-de-personagens/caracteristicas-principais/habilidades-mentais/academicos.html" />
                     </navPoint>
+                    <navPoint id="criacao-de-personagens-caracteristicas-principais-habilidades-mentais-prontidao">
+                        <navLabel>
+                            <text>PRONTIDÃO</text>
+                        </navLabel>
+                        <content src="criacao-de-personagens/caracteristicas-principais/habilidades-mentais/prontidao.html" />
+                    </navPoint>
                     <navPoint id="criacao-de-personagens-caracteristicas-principais-habilidades-mentais-financas">
                         <navLabel>
                             <text>FINANÇAS</text>

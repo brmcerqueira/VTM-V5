@@ -241,6 +241,7 @@
       <item id="criacao-de-personagens-caracteristicas-principais-habilidades-sociais-labia" href="criacao-de-personagens/caracteristicas-principais/habilidades-sociais/labia.html" media-type="application/xhtml+xml" />
       <item id="criacao-de-personagens-caracteristicas-principais-habilidades-mentais" href="criacao-de-personagens/caracteristicas-principais/habilidades-mentais/index.html" media-type="application/xhtml+xml" />
       <item id="criacao-de-personagens-caracteristicas-principais-habilidades-mentais-academicos" href="criacao-de-personagens/caracteristicas-principais/habilidades-mentais/academicos.html" media-type="application/xhtml+xml" />
+      <item id="criacao-de-personagens-caracteristicas-principais-habilidades-mentais-prontidao" href="criacao-de-personagens/caracteristicas-principais/habilidades-mentais/prontidao.html" media-type="application/xhtml+xml" />      
       <item id="criacao-de-personagens-caracteristicas-principais-habilidades-mentais-financas" href="criacao-de-personagens/caracteristicas-principais/habilidades-mentais/financas.html" media-type="application/xhtml+xml" />
       <item id="criacao-de-personagens-caracteristicas-principais-habilidades-mentais-investigacao" href="criacao-de-personagens/caracteristicas-principais/habilidades-mentais/investigacao.html" media-type="application/xhtml+xml" />
       <item id="criacao-de-personagens-caracteristicas-principais-habilidades-mentais-medicina" href="criacao-de-personagens/caracteristicas-principais/habilidades-mentais/medicina.html" media-type="application/xhtml+xml" />
@@ -1097,6 +1098,7 @@
       <itemref idref="criacao-de-personagens-caracteristicas-principais-habilidades-sociais-labia" linear="yes" />
       <itemref idref="criacao-de-personagens-caracteristicas-principais-habilidades-mentais" linear="yes" />
       <itemref idref="criacao-de-personagens-caracteristicas-principais-habilidades-mentais-academicos" linear="yes" />
+      <itemref idref="criacao-de-personagens-caracteristicas-principais-habilidades-mentais-prontidao" linear="yes" />  
       <itemref idref="criacao-de-personagens-caracteristicas-principais-habilidades-mentais-financas" linear="yes" />
       <itemref idref="criacao-de-personagens-caracteristicas-principais-habilidades-mentais-investigacao" linear="yes" />
       <itemref idref="criacao-de-personagens-caracteristicas-principais-habilidades-mentais-medicina" linear="yes" />

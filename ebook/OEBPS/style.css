@@ -44,6 +44,10 @@ dd span:first-child {
     text-decoration: underline;
 }
 
+dd dl {
+    margin-top: 0em;
+}
+
 .tradicoes {
     margin-left: 0em;
 }

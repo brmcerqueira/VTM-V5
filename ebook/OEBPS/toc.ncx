@@ -868,12 +868,12 @@
                         <content
                             src="criacao-de-personagens/criacao-de-personagem/sumario-de-criacao-de-personagem/atributos.html" />
                     </navPoint>
-                    <navPoint id="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem-pericias">
+                    <navPoint id="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem-habilidades">
                         <navLabel>
-                            <text>PERICIAS</text>
+                            <text>HABILIDADES</text>
                         </navLabel>
                         <content
-                            src="criacao-de-personagens/criacao-de-personagem/sumario-de-criacao-de-personagem/pericias.html" />
+                            src="criacao-de-personagens/criacao-de-personagem/sumario-de-criacao-de-personagem/habilidades.html" />
                     </navPoint>
                     <navPoint id="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem-disciplinas">
                         <navLabel>

@@ -163,7 +163,7 @@
       <item id="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem-conceito-principal" href="criacao-de-personagens/criacao-de-personagem/sumario-de-criacao-de-personagem/conceito-principal.html" media-type="application/xhtml+xml" />
       <item id="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem-cla-e-senhor" href="criacao-de-personagens/criacao-de-personagem/sumario-de-criacao-de-personagem/cla-e-senhor.html" media-type="application/xhtml+xml" />
       <item id="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem-atributos" href="criacao-de-personagens/criacao-de-personagem/sumario-de-criacao-de-personagem/atributos.html" media-type="application/xhtml+xml" />
-      <item id="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem-pericias" href="criacao-de-personagens/criacao-de-personagem/sumario-de-criacao-de-personagem/pericias.html" media-type="application/xhtml+xml" />
+      <item id="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem-habilidades" href="criacao-de-personagens/criacao-de-personagem/sumario-de-criacao-de-personagem/habilidades.html" media-type="application/xhtml+xml" />
       <item id="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem-disciplinas" href="criacao-de-personagens/criacao-de-personagem/sumario-de-criacao-de-personagem/disciplinas.html" media-type="application/xhtml+xml" />
       <item id="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem-predador" href="criacao-de-personagens/criacao-de-personagem/sumario-de-criacao-de-personagem/predador.html" media-type="application/xhtml+xml" />
       <item id="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem-vantagens" href="criacao-de-personagens/criacao-de-personagem/sumario-de-criacao-de-personagem/vantagens.html" media-type="application/xhtml+xml" />
@@ -1020,7 +1020,7 @@
       <itemref idref="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem-conceito-principal" linear="yes" />
       <itemref idref="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem-cla-e-senhor" linear="yes" />
       <itemref idref="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem-atributos" linear="yes" />
-      <itemref idref="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem-pericias" linear="yes" />
+      <itemref idref="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem-habilidades" linear="yes" />
       <itemref idref="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem-disciplinas" linear="yes" />
       <itemref idref="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem-predador" linear="yes" />
       <itemref idref="criacao-de-personagens-criacao-de-personagem-sumario-de-criacao-de-personagem-vantagens" linear="yes" />

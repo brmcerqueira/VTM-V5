@@ -179,7 +179,7 @@
       <item id="criacao-de-personagens-criacao-de-personagem-sua-vida-humana-escolha-as-suas-caracteristicas" href="criacao-de-personagens/criacao-de-personagem/sua-vida-humana/escolha-as-suas-caracteristicas.html" media-type="application/xhtml+xml" />
       <item id="criacao-de-personagens-criacao-de-personagem-sua-vida-humana-estabeleca-as-suas-crencas" href="criacao-de-personagens/criacao-de-personagem/sua-vida-humana/estabeleca-as-suas-crencas.html" media-type="application/xhtml+xml" />
       <item id="criacao-de-personagens-criacao-de-personagem-sua-vida-humana-conviccoes" href="criacao-de-personagens/criacao-de-personagem/sua-vida-humana/conviccoes.html" media-type="application/xhtml+xml" />
-      <item id="criacao-de-personagens-criacao-de-personagem-sua-vida-humana-alicerces-touchstone" href="criacao-de-personagens/criacao-de-personagem/sua-vida-humana/alicerces-touchstone.html" media-type="application/xhtml+xml" />
+      <item id="criacao-de-personagens-criacao-de-personagem-sua-vida-humana-alicerces" href="criacao-de-personagens/criacao-de-personagem/sua-vida-humana/alicerces.html" media-type="application/xhtml+xml" />
       <item id="criacao-de-personagens-criacao-de-personagem-sua-vida-humana-ambicao" href="criacao-de-personagens/criacao-de-personagem/sua-vida-humana/ambicao.html" media-type="application/xhtml+xml" />
       <item id="criacao-de-personagens-criacao-de-personagem-o-abraco-e-depois-dele-" href="criacao-de-personagens/criacao-de-personagem/o-abraco-e-depois-dele-/index.html" media-type="application/xhtml+xml" />
       <item id="criacao-de-personagens-criacao-de-personagem-o-abraco-e-depois-dele--entracte-e-preludio" href="criacao-de-personagens/criacao-de-personagem/o-abraco-e-depois-dele-/entracte-e-preludio.html" media-type="application/xhtml+xml" />
@@ -1036,7 +1036,7 @@
       <itemref idref="criacao-de-personagens-criacao-de-personagem-sua-vida-humana-escolha-as-suas-caracteristicas" linear="yes" />
       <itemref idref="criacao-de-personagens-criacao-de-personagem-sua-vida-humana-estabeleca-as-suas-crencas" linear="yes" />
       <itemref idref="criacao-de-personagens-criacao-de-personagem-sua-vida-humana-conviccoes" linear="yes" />
-      <itemref idref="criacao-de-personagens-criacao-de-personagem-sua-vida-humana-alicerces-touchstone" linear="yes" />
+      <itemref idref="criacao-de-personagens-criacao-de-personagem-sua-vida-humana-alicerces" linear="yes" />
       <itemref idref="criacao-de-personagens-criacao-de-personagem-sua-vida-humana-ambicao" linear="yes" />
       <itemref idref="criacao-de-personagens-criacao-de-personagem-o-abraco-e-depois-dele-" linear="yes" />
       <itemref idref="criacao-de-personagens-criacao-de-personagem-o-abraco-e-depois-dele--entracte-e-preludio" linear="yes" />

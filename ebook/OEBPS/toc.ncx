@@ -978,11 +978,11 @@
                         </navLabel>
                         <content src="criacao-de-personagens/criacao-de-personagem/sua-vida-humana/conviccoes.html" />
                     </navPoint>
-                    <navPoint id="criacao-de-personagens-criacao-de-personagem-sua-vida-humana-alicerces-touchstone">
+                    <navPoint id="criacao-de-personagens-criacao-de-personagem-sua-vida-humana-alicerces">
                         <navLabel>
-                            <text>ALICERCES (TOUCHSTONE)</text>
+                            <text>ALICERCES</text>
                         </navLabel>
-                        <content src="criacao-de-personagens/criacao-de-personagem/sua-vida-humana/alicerces-touchstone.html" />
+                        <content src="criacao-de-personagens/criacao-de-personagem/sua-vida-humana/alicerces.html" />
                     </navPoint>
                     <navPoint id="criacao-de-personagens-criacao-de-personagem-sua-vida-humana-ambicao">
                         <navLabel>

@@ -2707,93 +2707,93 @@
                     </navPoint>
                 </navPoint>
             </navPoint>
-            <navPoint id="disciplinas-oblivio-tenebrosidade">
+            <navPoint id="disciplinas-oblivio">
                 <navLabel>
-                    <text>OBLÍVIO (TENEBROSIDADE)</text>
+                    <text>OBLÍVIO</text>
                 </navLabel>
-                <content src="disciplinas/oblivio-tenebrosidade/index.html" />
-                <navPoint id="disciplinas-oblivio-tenebrosidade-nivel-1">
+                <content src="disciplinas/oblivio/index.html" />
+                <navPoint id="disciplinas-oblivio-nivel-1">
                     <navLabel>
                         <text>NÍVEL 1</text>
                     </navLabel>
-                    <content src="disciplinas/oblivio-tenebrosidade/nivel-1/manto-sombrio-nivel-1.html" />
-                    <navPoint id="disciplinas-oblivio-tenebrosidade-nivel-1-manto-sombrio-nivel-1">
+                    <content src="disciplinas/oblivio/nivel-1/manto-sombrio-nivel-1.html" />
+                    <navPoint id="disciplinas-oblivio-nivel-1-manto-sombrio-nivel-1">
                         <navLabel>
                             <text>MANTO SOMBRIO (NÍVEL 1)</text>
                         </navLabel>
-                        <content src="disciplinas/oblivio-tenebrosidade/nivel-1/manto-sombrio-nivel-1.html" />
+                        <content src="disciplinas/oblivio/nivel-1/manto-sombrio-nivel-1.html" />
                     </navPoint>
-                    <navPoint id="disciplinas-oblivio-tenebrosidade-nivel-1-visao-do-oblivio-nivel-1">
+                    <navPoint id="disciplinas-oblivio-nivel-1-visao-do-oblivio-nivel-1">
                         <navLabel>
                             <text>VISÃO DO OBLÍVIO (NÍVEL 1)</text>
                         </navLabel>
-                        <content src="disciplinas/oblivio-tenebrosidade/nivel-1/visao-do-oblivio-nivel-1.html" />
+                        <content src="disciplinas/oblivio/nivel-1/visao-do-oblivio-nivel-1.html" />
                     </navPoint>
                 </navPoint>
-                <navPoint id="disciplinas-oblivio-tenebrosidade-nivel-2">
+                <navPoint id="disciplinas-oblivio-nivel-2">
                     <navLabel>
                         <text>NÍVEL 2</text>
                     </navLabel>
-                    <content src="disciplinas/oblivio-tenebrosidade/nivel-2/conjurar-as-sombras-nivel-2.html" />
-                    <navPoint id="disciplinas-oblivio-tenebrosidade-nivel-2-conjurar-as-sombras-nivel-2">
+                    <content src="disciplinas/oblivio/nivel-2/conjurar-as-sombras-nivel-2.html" />
+                    <navPoint id="disciplinas-oblivio-nivel-2-conjurar-as-sombras-nivel-2">
                         <navLabel>
                             <text>CONJURAR AS SOMBRAS (NÍVEL 2)</text>
                         </navLabel>
-                        <content src="disciplinas/oblivio-tenebrosidade/nivel-2/conjurar-as-sombras-nivel-2.html" />
+                        <content src="disciplinas/oblivio/nivel-2/conjurar-as-sombras-nivel-2.html" />
                     </navPoint>
-                    <navPoint id="disciplinas-oblivio-tenebrosidade-nivel-2-bracos-de-ahriman-nivel-2">
+                    <navPoint id="disciplinas-oblivio-nivel-2-bracos-de-ahriman-nivel-2">
                         <navLabel>
                             <text>BRAÇOS DE AHRIMAN (NÍVEL 2)</text>
                         </navLabel>
-                        <content src="disciplinas/oblivio-tenebrosidade/nivel-2/bracos-de-ahriman-nivel-2.html" />
+                        <content src="disciplinas/oblivio/nivel-2/bracos-de-ahriman-nivel-2.html" />
                     </navPoint>
                 </navPoint>
-                <navPoint id="disciplinas-oblivio-tenebrosidade-nivel-3">
+                <navPoint id="disciplinas-oblivio-nivel-3">
                     <navLabel>
                         <text>NÍVEL 3</text>
                     </navLabel>
-                    <content src="disciplinas/oblivio-tenebrosidade/nivel-3/perspectiva-sombria-nivel-3.html" />
-                    <navPoint id="disciplinas-oblivio-tenebrosidade-nivel-3-perspectiva-sombria-nivel-3">
+                    <content src="disciplinas/oblivio/nivel-3/perspectiva-sombria-nivel-3.html" />
+                    <navPoint id="disciplinas-oblivio-nivel-3-perspectiva-sombria-nivel-3">
                         <navLabel>
                             <text>PERSPECTIVA SOMBRIA (NÍVEL 3)</text>
                         </navLabel>
-                        <content src="disciplinas/oblivio-tenebrosidade/nivel-3/perspectiva-sombria-nivel-3.html" />
+                        <content src="disciplinas/oblivio/nivel-3/perspectiva-sombria-nivel-3.html" />
                     </navPoint>
-                    <navPoint id="disciplinas-oblivio-tenebrosidade-nivel-3-toque-do-oblivio-nivel-3">
+                    <navPoint id="disciplinas-oblivio-nivel-3-toque-do-oblivio-nivel-3">
                         <navLabel>
                             <text>TOQUE DO OBLÍVIO (NÍVEL 3)</text>
                         </navLabel>
-                        <content src="disciplinas/oblivio-tenebrosidade/nivel-3/toque-do-oblivio-nivel-3.html" />
+                        <content src="disciplinas/oblivio/nivel-3/toque-do-oblivio-nivel-3.html" />
                     </navPoint>
                 </navPoint>
-                <navPoint id="disciplinas-oblivio-tenebrosidade-nivel-4">
+                <navPoint id="disciplinas-oblivio-nivel-4">
                     <navLabel>
                         <text>NÍVEL 4</text>
                     </navLabel>
-                    <content src="disciplinas/oblivio-tenebrosidade/nivel-4/a-mortalha-de-estigia-nivel-4.html" />
-                    <navPoint id="disciplinas-oblivio-tenebrosidade-nivel-4-a-mortalha-de-estigia-nivel-4">
+                    <content src="disciplinas/oblivio/nivel-4/a-mortalha-de-estigia-nivel-4.html" />
+                    <navPoint id="disciplinas-oblivio-nivel-4-a-mortalha-de-estigia-nivel-4">
                         <navLabel>
                             <text>A MORTALHA DE ESTÍGIA (NÍVEL 4)</text>
                         </navLabel>
-                        <content src="disciplinas/oblivio-tenebrosidade/nivel-4/a-mortalha-de-estigia-nivel-4.html" />
+                        <content src="disciplinas/oblivio/nivel-4/a-mortalha-de-estigia-nivel-4.html" />
                     </navPoint>
                 </navPoint>
-                <navPoint id="disciplinas-oblivio-tenebrosidade-nivel-5">
+                <navPoint id="disciplinas-oblivio-nivel-5">
                     <navLabel>
                         <text>NÍVEL 5</text>
                     </navLabel>
-                    <content src="disciplinas/oblivio-tenebrosidade/nivel-5/passo-das-sombras-nivel-5.html" />
-                    <navPoint id="disciplinas-oblivio-tenebrosidade-nivel-5-passo-das-sombras-nivel-5">
+                    <content src="disciplinas/oblivio/nivel-5/passo-das-sombras-nivel-5.html" />
+                    <navPoint id="disciplinas-oblivio-nivel-5-passo-das-sombras-nivel-5">
                         <navLabel>
                             <text>PASSO DAS SOMBRAS (NÍVEL 5)</text>
                         </navLabel>
-                        <content src="disciplinas/oblivio-tenebrosidade/nivel-5/passo-das-sombras-nivel-5.html" />
+                        <content src="disciplinas/oblivio/nivel-5/passo-das-sombras-nivel-5.html" />
                     </navPoint>
-                    <navPoint id="disciplinas-oblivio-tenebrosidade-nivel-5-avatar-tenebroso-nivel-5">
+                    <navPoint id="disciplinas-oblivio-nivel-5-avatar-tenebroso-nivel-5">
                         <navLabel>
                             <text>AVATAR TENEBROSO (NÍVEL 5)</text>
                         </navLabel>
-                        <content src="disciplinas/oblivio-tenebrosidade/nivel-5/avatar-tenebroso-nivel-5.html" />
+                        <content src="disciplinas/oblivio/nivel-5/avatar-tenebroso-nivel-5.html" />
                     </navPoint>
                 </navPoint>
             </navPoint>

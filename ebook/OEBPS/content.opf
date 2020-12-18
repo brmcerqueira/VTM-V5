@@ -492,34 +492,34 @@
       <item id="disciplinas-metamorfose-nivel-5-o-coracao-sem-grilhoes-nivel-5"
          href="disciplinas/metamorfose/nivel-5/o-coracao-sem-grilhoes-nivel-5.html"
          media-type="application/xhtml+xml" />
-      <item id="disciplinas-oblivio-tenebrosidade" href="disciplinas/oblivio-tenebrosidade/index.html"
+      <item id="disciplinas-oblivio" href="disciplinas/oblivio/index.html"
          media-type="application/xhtml+xml" />
-      <item id="disciplinas-oblivio-tenebrosidade-nivel-1-manto-sombrio-nivel-1"
-         href="disciplinas/oblivio-tenebrosidade/nivel-1/manto-sombrio-nivel-1.html"
+      <item id="disciplinas-oblivio-nivel-1-manto-sombrio-nivel-1"
+         href="disciplinas/oblivio/nivel-1/manto-sombrio-nivel-1.html"
          media-type="application/xhtml+xml" />
-      <item id="disciplinas-oblivio-tenebrosidade-nivel-1-visao-do-oblivio-nivel-1"
-         href="disciplinas/oblivio-tenebrosidade/nivel-1/visao-do-oblivio-nivel-1.html"
+      <item id="disciplinas-oblivio-nivel-1-visao-do-oblivio-nivel-1"
+         href="disciplinas/oblivio/nivel-1/visao-do-oblivio-nivel-1.html"
          media-type="application/xhtml+xml" />
-      <item id="disciplinas-oblivio-tenebrosidade-nivel-2-conjurar-as-sombras-nivel-2"
-         href="disciplinas/oblivio-tenebrosidade/nivel-2/conjurar-as-sombras-nivel-2.html"
+      <item id="disciplinas-oblivio-nivel-2-conjurar-as-sombras-nivel-2"
+         href="disciplinas/oblivio/nivel-2/conjurar-as-sombras-nivel-2.html"
          media-type="application/xhtml+xml" />
-      <item id="disciplinas-oblivio-tenebrosidade-nivel-2-bracos-de-ahriman-nivel-2"
-         href="disciplinas/oblivio-tenebrosidade/nivel-2/bracos-de-ahriman-nivel-2.html"
+      <item id="disciplinas-oblivio-nivel-2-bracos-de-ahriman-nivel-2"
+         href="disciplinas/oblivio/nivel-2/bracos-de-ahriman-nivel-2.html"
          media-type="application/xhtml+xml" />
-      <item id="disciplinas-oblivio-tenebrosidade-nivel-3-perspectiva-sombria-nivel-3"
-         href="disciplinas/oblivio-tenebrosidade/nivel-3/perspectiva-sombria-nivel-3.html"
+      <item id="disciplinas-oblivio-nivel-3-perspectiva-sombria-nivel-3"
+         href="disciplinas/oblivio/nivel-3/perspectiva-sombria-nivel-3.html"
          media-type="application/xhtml+xml" />
-      <item id="disciplinas-oblivio-tenebrosidade-nivel-3-toque-do-oblivio-nivel-3"
-         href="disciplinas/oblivio-tenebrosidade/nivel-3/toque-do-oblivio-nivel-3.html"
+      <item id="disciplinas-oblivio-nivel-3-toque-do-oblivio-nivel-3"
+         href="disciplinas/oblivio/nivel-3/toque-do-oblivio-nivel-3.html"
          media-type="application/xhtml+xml" />
-      <item id="disciplinas-oblivio-tenebrosidade-nivel-4-a-mortalha-de-estigia-nivel-4"
-         href="disciplinas/oblivio-tenebrosidade/nivel-4/a-mortalha-de-estigia-nivel-4.html"
+      <item id="disciplinas-oblivio-nivel-4-a-mortalha-de-estigia-nivel-4"
+         href="disciplinas/oblivio/nivel-4/a-mortalha-de-estigia-nivel-4.html"
          media-type="application/xhtml+xml" />
-      <item id="disciplinas-oblivio-tenebrosidade-nivel-5-passo-das-sombras-nivel-5"
-         href="disciplinas/oblivio-tenebrosidade/nivel-5/passo-das-sombras-nivel-5.html"
+      <item id="disciplinas-oblivio-nivel-5-passo-das-sombras-nivel-5"
+         href="disciplinas/oblivio/nivel-5/passo-das-sombras-nivel-5.html"
          media-type="application/xhtml+xml" />
-      <item id="disciplinas-oblivio-tenebrosidade-nivel-5-avatar-tenebroso-nivel-5"
-         href="disciplinas/oblivio-tenebrosidade/nivel-5/avatar-tenebroso-nivel-5.html"
+      <item id="disciplinas-oblivio-nivel-5-avatar-tenebroso-nivel-5"
+         href="disciplinas/oblivio/nivel-5/avatar-tenebroso-nivel-5.html"
          media-type="application/xhtml+xml" />
       <item id="disciplinas-ofuscacao" href="disciplinas/ofuscacao/index.html" media-type="application/xhtml+xml" />
       <item id="disciplinas-ofuscacao-nivel-1-manto-da-sombras-nivel-1"
@@ -1289,16 +1289,16 @@
       <itemref idref="disciplinas-metamorfose-nivel-4-metamorfose-nivel-4" linear="yes" />
       <itemref idref="disciplinas-metamorfose-nivel-5-forma-de-nevoa-nivel-5" linear="yes" />
       <itemref idref="disciplinas-metamorfose-nivel-5-o-coracao-sem-grilhoes-nivel-5" linear="yes" />
-      <itemref idref="disciplinas-oblivio-tenebrosidade" linear="yes" />
-      <itemref idref="disciplinas-oblivio-tenebrosidade-nivel-1-manto-sombrio-nivel-1" linear="yes" />
-      <itemref idref="disciplinas-oblivio-tenebrosidade-nivel-1-visao-do-oblivio-nivel-1" linear="yes" />
-      <itemref idref="disciplinas-oblivio-tenebrosidade-nivel-2-conjurar-as-sombras-nivel-2" linear="yes" />
-      <itemref idref="disciplinas-oblivio-tenebrosidade-nivel-2-bracos-de-ahriman-nivel-2" linear="yes" />
-      <itemref idref="disciplinas-oblivio-tenebrosidade-nivel-3-perspectiva-sombria-nivel-3" linear="yes" />
-      <itemref idref="disciplinas-oblivio-tenebrosidade-nivel-3-toque-do-oblivio-nivel-3" linear="yes" />
-      <itemref idref="disciplinas-oblivio-tenebrosidade-nivel-4-a-mortalha-de-estigia-nivel-4" linear="yes" />
-      <itemref idref="disciplinas-oblivio-tenebrosidade-nivel-5-passo-das-sombras-nivel-5" linear="yes" />
-      <itemref idref="disciplinas-oblivio-tenebrosidade-nivel-5-avatar-tenebroso-nivel-5" linear="yes" />
+      <itemref idref="disciplinas-oblivio" linear="yes" />
+      <itemref idref="disciplinas-oblivio-nivel-1-manto-sombrio-nivel-1" linear="yes" />
+      <itemref idref="disciplinas-oblivio-nivel-1-visao-do-oblivio-nivel-1" linear="yes" />
+      <itemref idref="disciplinas-oblivio-nivel-2-conjurar-as-sombras-nivel-2" linear="yes" />
+      <itemref idref="disciplinas-oblivio-nivel-2-bracos-de-ahriman-nivel-2" linear="yes" />
+      <itemref idref="disciplinas-oblivio-nivel-3-perspectiva-sombria-nivel-3" linear="yes" />
+      <itemref idref="disciplinas-oblivio-nivel-3-toque-do-oblivio-nivel-3" linear="yes" />
+      <itemref idref="disciplinas-oblivio-nivel-4-a-mortalha-de-estigia-nivel-4" linear="yes" />
+      <itemref idref="disciplinas-oblivio-nivel-5-passo-das-sombras-nivel-5" linear="yes" />
+      <itemref idref="disciplinas-oblivio-nivel-5-avatar-tenebroso-nivel-5" linear="yes" />
       <itemref idref="disciplinas-ofuscacao" linear="yes" />
       <itemref idref="disciplinas-ofuscacao-nivel-1-manto-da-sombras-nivel-1" linear="yes" />
       <itemref idref="disciplinas-ofuscacao-nivel-1-silencio-da-morte-nivel-1" linear="yes" />
